@@ -1,0 +1,1 @@
+When consuming information, it is often tempting to always consume ideas that agree with the way you already think. This is what the brain likes. Instead, do as Charles Darwin and focus explicitly on the ideas that disagree with your own. It can either lead to new learnings or better arguments for your own theories.

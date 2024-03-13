@@ -1,0 +1,1 @@
+In order to enjoy what you are doing, the act of doing it needs to be enjoyable. It does not work to reward yourself after the fact, e.g. a treat after performing some activity, as the brain then just wants to get to the end of the activity. Trick the brain into thinking that the activity itself is rewarding and fun.

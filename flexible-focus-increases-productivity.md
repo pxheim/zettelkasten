@@ -1,0 +1,1 @@
+Many Nobel Prize winners claim that their ability to keep flexible focus is the key to their success. This involves being able to apply extreme focus on certain topics, while knowing when the focus can be relaxed to be able to enter a more free, exploratory approach. They are able to adjust the focus to match what is needed at the time.

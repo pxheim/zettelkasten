@@ -1,0 +1,1 @@
+People that are gifted or just talented are often praised for their abilities. Until they no longer are gifted and people who put in actual work surpass them. These people tend to focus on keeping this facade intact instead of challenging themselves to get better.

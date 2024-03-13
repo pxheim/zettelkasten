@@ -1,0 +1,1 @@
+It's not the act of just writing the notes that facilitate learning using the Zettelkasten method, it's the act of working with he notes, i.e. making connections, writing them in your own words and [elaborating](elaboration-best-way-to-learn.md) on them. In the case of Zettelkasten, handling the tool is as important as the tool itself.

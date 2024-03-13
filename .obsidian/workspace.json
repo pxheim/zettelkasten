@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "9de5154cad7fad8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a987768a6f92a11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea5069b66db6babe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "write-things-down-to-reduce-the-load-on-the-brain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c81324fb9263a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "c881c674802b1945",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f038e64a399ebbba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "353e6fd6e50e12ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "2fcfa59adc960966",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1299519fc4ff9bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c133c1e17b537120",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "write-things-down-to-reduce-the-load-on-the-brain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d08c31f21dc484b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "write-things-down-to-reduce-the-load-on-the-brain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91b05459133ed2ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "write-things-down-to-reduce-the-load-on-the-brain.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "ea5069b66db6babe",
+  "lastOpenFiles": [
+    "permanent-notes.md",
+    "reference-notes.md",
+    "some-new-note.md",
+    "avoid-taking-pure-reference-notes.md",
+    "literature-notes.md",
+    "$Bibliography.md",
+    "$Questions.md",
+    "allen-2022.md",
+    "ahrens-2022.md",
+    "change-the-environment-to-preserve-willpower.md",
+    "confront-yourself-with-the-information-you-think-you-know.md",
+    "change-workflow-when-adapting-new-tool.md",
+    "brainstorming-is-terrible.md",
+    "set-up-a-system-that-can-free-your-brain.md",
+    "elaboration-best-way-to-learn.md",
+    "$projects/Learning OBS.md",
+    "$projects/leah-master.md",
+    "Untitled.md",
+    "write-things-down-to-reduce-the-load-on-the-brain.md",
+    "willpower-is-a-limited-resource.md",
+    "Untitled.canvas",
+    "multitasking-makes-you-less-productive-and-unable-to-multitask.md",
+    "reducing-complexity-by-organizing-into-topics-does-not-work.md",
+    "$projects",
+    "2024-03-11.md",
+    "asdasdadasd!!!.md",
+    "asdasdasdas.md",
+    "testasdasd.md",
+    "$todo",
+    "$store",
+    "$in"
+  ]
+}

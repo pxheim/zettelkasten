@@ -1,0 +1,1 @@
+If you are adapting a new tool, ensure that you also adapt your current workflow to properly utilize the tool. Otherwise, your productivity is not likely to improve.

@@ -1,0 +1,1 @@
+A permanent note is a note about your own idea that might be inspired by one or more [literature-notes](literature-notes.md). These notes should be atomic (one idea per note) and should be understandable by people that do not even have the full context of the literature notes. 

@@ -1,0 +1,1 @@
+Consider not only what the note says when naming it or adding tags, keywords, etc to it. Consider what context you wish to retrieve your note in in the future. This is the name you should give to the note. Not only what it means in isolation, but what it can mean in other context as well.
