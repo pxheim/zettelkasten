@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ahrens-2022.md",
+                "file": "do-not-estimate-time-based-on-outcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "275408b38af713ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zerigarnik-effect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "339c763dee0e48ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "getting-things-out-of-the-brain-can-help-you-think.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +82,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ahrens-2022.md",
+                "file": "getting-things-out-of-the-brain-can-help-you-think.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ahrens-2022.md",
+                "file": "getting-things-out-of-the-brain-can-help-you-think.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ahrens-2022.md"
+                "file": "getting-things-out-of-the-brain-can-help-you-think.md"
               }
             }
           }
@@ -126,12 +152,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5b11661bce47466f",
+  "active": "339c763dee0e48ca",
   "lastOpenFiles": [
+    "zerigarnik-effect.md",
+    "do-not-estimate-time-based-on-outcome.md",
+    "ahrens-2022.md",
     "allen-2022.md",
     "notes-should-be-named-in-the-context-you-wish-to-retrieve-them.md",
-    "ahrens-2022.md",
-    "outcome-estimations-bad-focus-on-steps.md",
     "over-confidence-bias-terrible-at-estimating.md",
     "learn-all-the-rules-so-you-can deviate-from-them.md",
     "some-new-note.md",
@@ -154,7 +181,6 @@
     "$projects/leah-master.md",
     "willpower-is-a-limited-resource.md",
     "Untitled.canvas",
-    "multitasking-makes-you-less-productive-and-unable-to-multitask.md",
     "$projects",
     "$todo",
     "$store",

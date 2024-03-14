@@ -68,7 +68,7 @@
 
 [over-confidence-bias-terrible-at-estimating](over-confidence-bias-terrible-at-estimating.md)
 
-[outcome-estimations-bad-focus-on-steps](outcome-estimations-bad-focus-on-steps.md)
+[do-not-estimate-time-based-on-outcome](do-not-estimate-time-based-on-outcome.md)
 
 
 zettelkasten

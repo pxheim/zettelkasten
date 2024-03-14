@@ -1,0 +1,3 @@
+We are more likely to remember unfinished tasks vs. finished ones under certain circumstances. According to [allen-2022](allen-2022.md) this causes an open-loop in our brain, i.e. something that we keep thinking about and that takes up mental energy. This can be remedied by writing it down. The brain does not distinguish between completed tasks and those that have been properly postponed.
+
+[getting-things-out-of-the-brain-can-help-you-think](getting-things-out-of-the-brain-can-help-you-think.md)
