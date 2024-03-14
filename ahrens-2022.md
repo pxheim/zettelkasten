@@ -18,8 +18,6 @@
 
 [everything-needs-to-be-taken-care-of](everything-needs-to-be-taken-care-of.md)
 
-[set-up-a-system-that-can-free-your-brain](set-up-a-system-that-can-free-your-brain.md)
-
 [work-environment-needs-to-be-flexible](work-environment-needs-to-be-flexible.md)
 
 [working-with-notes-set-zettelkasten-apart](working-with-notes-set-zettelkasten-apart.md)
@@ -66,9 +64,15 @@
 
 [learn-all-the-rules-so-you-can deviate-from-them](learn-all-the-rules-so-you-can%20deviate-from-them.md)
 
-[over-confidence-bias-terrible-at-estimating](over-confidence-bias-terrible-at-estimating.md)
+[over-confidence-bias](over-confidence-bias.md)
 
 [do-not-estimate-time-based-on-outcome](do-not-estimate-time-based-on-outcome.md)
 
+[zeigarnik-effect](zeigarnik-effect.md)
 
-zettelkasten
+[[]]
+
+[law-of-parkinson](law-of-parkinson.md)
+
+
+
