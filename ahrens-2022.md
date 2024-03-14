@@ -66,4 +66,9 @@
 
 [learn-all-the-rules-so-you-can deviate-from-them](learn-all-the-rules-so-you-can%20deviate-from-them.md)
 
+[over-confidence-bias-terrible-at-estimating](over-confidence-bias-terrible-at-estimating.md)
 
+[outcome-estimations-bad-focus-on-steps](outcome-estimations-bad-focus-on-steps.md)
+
+
+zettelkasten

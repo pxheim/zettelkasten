@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "08e5f236b48d2bd5",
+        "id": "171e0157689c2262",
         "type": "tabs",
         "children": [
           {
-            "id": "7c58d3ba328fa85a",
+            "id": "5b11661bce47466f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -126,10 +126,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7c58d3ba328fa85a",
+  "active": "5b11661bce47466f",
   "lastOpenFiles": [
-    "learn-all-the-rules-so-you-can deviate-from-them.md",
+    "allen-2022.md",
+    "notes-should-be-named-in-the-context-you-wish-to-retrieve-them.md",
     "ahrens-2022.md",
+    "outcome-estimations-bad-focus-on-steps.md",
+    "over-confidence-bias-terrible-at-estimating.md",
+    "learn-all-the-rules-so-you-can deviate-from-them.md",
     "some-new-note.md",
     "less-choices-lead-to-increased-productivity.md",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
@@ -140,7 +144,6 @@
     "literature-notes.md",
     "$Bibliography.md",
     "$Questions.md",
-    "allen-2022.md",
     "change-the-environment-to-preserve-willpower.md",
     "confront-yourself-with-the-information-you-think-you-know.md",
     "change-workflow-when-adapting-new-tool.md",
@@ -152,10 +155,7 @@
     "willpower-is-a-limited-resource.md",
     "Untitled.canvas",
     "multitasking-makes-you-less-productive-and-unable-to-multitask.md",
-    "reducing-complexity-by-organizing-into-topics-does-not-work.md",
     "$projects",
-    "2024-03-11.md",
-    "asdasdadasd!!!.md",
     "$todo",
     "$store",
     "$in"
