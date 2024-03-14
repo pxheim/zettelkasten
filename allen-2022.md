@@ -36,8 +36,6 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [how-to-deal-with-non-actionable-items](how-to-deal-with-non-actionable-items.md)
 
-
-
 One of the most important aspects of GTD is the weekly review where you check your $in, lists, projects and other things you have made as part of your workflow. This is done to make sure you stay on top.
 
 Engaging with your lists and deciding what to do, it's useful to consider the context, i.e. where are you and what are you doing, then time available then how much energy you have left. After considering those, select a next task based on priority.
@@ -52,3 +50,4 @@ If you are having issues reviewing priorities, consider the following 6 aspects 
 0. current immediate tasks.
 
 The lower areas are more concrete and immediate, whereas the higher you go, the more abstract, e.g. 5 can be your own purpose in the world. The higher levels provide input for the lower ones.
+
