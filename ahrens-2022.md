@@ -62,7 +62,8 @@
 
 [notes-should-be-named-in-the-context-you-wish-to-retrieve-them](notes-should-be-named-in-the-context-you-wish-to-retrieve-them.md)
 
-[some-new-note](some-new-note.md)
+[less-choices-lead-to-increased-productivity](less-choices-lead-to-increased-productivity.md)
 
+[learn-all-the-rules-so-you-can deviate-from-them](learn-all-the-rules-so-you-can%20deviate-from-them.md)
 
 
