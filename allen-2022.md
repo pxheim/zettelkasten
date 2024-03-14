@@ -26,5 +26,3 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [gtd-efficiently-capturing-things](gtd-efficiently-capturing-things.md)
 
-
-Do not organize 

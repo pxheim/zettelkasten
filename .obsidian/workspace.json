@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "920ab52c6d144afd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "allen-2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +139,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "920ab52c6d144afd",
+  "active": "c32d4482dbaa5140",
   "lastOpenFiles": [
     "gtd-efficiently-capturing-things.md",
     "allen-2022.md",
