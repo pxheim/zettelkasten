@@ -64,13 +64,11 @@
 
 [learn-all-the-rules-so-you-can deviate-from-them](learn-all-the-rules-so-you-can%20deviate-from-them.md)
 
-[over-confidence-bias](over-confidence-bias.md)
+[over-confidence-bias--people-cannot-estimate](over-confidence-bias--people-cannot-estimate.md)
 
 [do-not-estimate-time-based-on-outcome](do-not-estimate-time-based-on-outcome.md)
 
 [zeigarnik-effect--unfinished-things-remain-in-our-brain](zeigarnik-effect--unfinished-things-remain-in-our-brain.md)
 
 [law-of-parkinson--work-takes-the-time-given-to-it](law-of-parkinson--work-takes-the-time-given-to-it.md)
-
-
 

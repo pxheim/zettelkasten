@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f767fc2c2a38f3a2",
+        "id": "06e4709760fdd832",
         "type": "tabs",
         "children": [
           {
-            "id": "104a7f8cf42bebd8",
+            "id": "ca262df6b48b789c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zeigarnik-effect--unfinished-things-remain-in-our-brain.md"
+              }
             }
           }
         ]
@@ -118,12 +126,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "104a7f8cf42bebd8",
+  "active": "ca262df6b48b789c",
   "lastOpenFiles": [
-    "ahrens-2022.md",
+    "$Questions.md",
+    "$Bibliography.md",
     "law-of-parkinson--work-takes-the-time-given-to-it.md",
+    "literature-notes.md",
+    "ahrens-2022.md",
+    "over-confidence-bias--people-cannot-estimate.md",
     "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
-    "over-confidence-bias.md",
     "do-not-estimate-time-based-on-outcome.md",
     "allen-2022.md",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
@@ -137,9 +148,6 @@
     "permanent-notes.md",
     "reference-notes.md",
     "avoid-taking-pure-reference-notes.md",
-    "literature-notes.md",
-    "$Bibliography.md",
-    "$Questions.md",
     "change-the-environment-to-preserve-willpower.md",
     "confront-yourself-with-the-information-you-think-you-know.md",
     "change-workflow-when-adapting-new-tool.md",
