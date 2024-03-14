@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "06e4709760fdd832",
+        "id": "36faf6f952a7ac3c",
         "type": "tabs",
         "children": [
           {
-            "id": "ca262df6b48b789c",
+            "id": "52581396fb9eb4c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "parkin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zeigarnik-effect--unfinished-things-remain-in-our-brain.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -126,15 +119,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ca262df6b48b789c",
+  "active": "52581396fb9eb4c0",
   "lastOpenFiles": [
+    "ahrens-2022.md",
+    "law-of-parkinson--work-takes-the-time-given-to-it.md",
+    "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
     "$Questions.md",
     "$Bibliography.md",
-    "law-of-parkinson--work-takes-the-time-given-to-it.md",
     "literature-notes.md",
-    "ahrens-2022.md",
     "over-confidence-bias--people-cannot-estimate.md",
-    "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
     "do-not-estimate-time-based-on-outcome.md",
     "allen-2022.md",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
