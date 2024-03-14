@@ -10,5 +10,12 @@ GTD can be broken down into three main parts. (1) capture everything that needs 
 
 [[mind-like-water]]
 
+[write-things-down-to-reduce-the-load-on-the-brain](write-things-down-to-reduce-the-load-on-the-brain.md)
 
+To get tasks out of your head, you have to do three things: (1) define what the outcome of the task is, (2) define what the next physical step to move the task forward is, and (3) make a reminder in a place you frequently check.
 
+Think about the things you have to do, don't just do them. This requires effort, but not much. Foucs on what the next things you have to is to get the task to move forward.
+
+TODO actions should always have an outcome and a next action. That way you do not have to decide on what to do.
+
+Cannot overstate the value of defining outcomes. These are the main things you can control. You cannot do "an 

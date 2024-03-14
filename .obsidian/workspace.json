@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c32d4482dbaa5140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "allen-2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "920ab52c6d144afd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "allen-2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parkin",
+                "query": "open-loop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,24 +151,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cc713c8420aa52a5",
+  "active": "920ab52c6d144afd",
   "lastOpenFiles": [
-    "mind-like-water.md",
-    "allen-2022.md",
-    "work-no-longer-has-boundaries.md",
+    "write-things-down-to-reduce-the-load-on-the-brain.md",
     "ahrens-2022.md",
+    "allen-2022.md",
+    "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
+    "work-no-longer-has-boundaries.md",
+    "mind-like-water.md",
     "literature-notes.md",
     "reference-notes.md",
     "trick-the-brain-into-enjoying-what-it's-doing.md",
     "flexible-focus-increases-productivity.md",
     "less-choices-lead-to-increased-productivity.md",
     "law-of-parkinson--work-takes-the-time-given-to-it.md",
-    "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
     "$Questions.md",
     "$Bibliography.md",
     "over-confidence-bias--people-cannot-estimate.md",
     "do-not-estimate-time-based-on-outcome.md",
-    "write-things-down-to-reduce-the-load-on-the-brain.md",
     "getting-things-out-of-the-brain-can-help-you-think.md",
     "set-up-a-system-that-can-free-your-brain.md",
     "notes-should-be-named-in-the-context-you-wish-to-retrieve-them.md",
