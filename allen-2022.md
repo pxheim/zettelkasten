@@ -14,8 +14,17 @@ GTD can be broken down into three main parts. (1) capture everything that needs 
 
 To get tasks out of your head, you have to do three things: (1) define what the outcome of the task is, (2) define what the next physical step to move the task forward is, and (3) make a reminder in a place you frequently check.
 
-Think about the things you have to do, don't just do them. This requires effort, but not much. Foucs on what the next things you have to is to get the task to move forward.
+Think about the things you have to do, don't just do them. This requires effort, but not much. Focus on what the next things you have to is to get the task to move forward.
 
 TODO actions should always have an outcome and a next action. That way you do not have to decide on what to do.
 
-Cannot overstate the value of defining outcomes. These are the main things you can control. You cannot do "an 
+Cannot overstate the value of defining outcomes. These are the main things you can control. You cannot do "an epic" but you can break it down into actions that can be done.
+
+A bottom-up approach to changing how an organization works is the best approach. High flying, top-down commitments usually get lost as people are too focused on their day-to-day actions.
+
+[gtd-workflow](gtd-workflow.md)
+
+[gtd-efficiently-capturing-things](gtd-efficiently-capturing-things.md)
+
+
+Do not organize 
