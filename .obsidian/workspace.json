@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "36faf6f952a7ac3c",
+        "id": "467ba50100f0f311",
         "type": "tabs",
         "children": [
           {
-            "id": "52581396fb9eb4c0",
+            "id": "5e552723e17c6820",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,9 +118,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "52581396fb9eb4c0",
+  "active": "5e552723e17c6820",
   "lastOpenFiles": [
+    "flexible-focus-increases-productivity.md",
     "ahrens-2022.md",
+    "less-choices-lead-to-increased-productivity.md",
+    "allen-2022.md",
     "law-of-parkinson--work-takes-the-time-given-to-it.md",
     "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
     "$Questions.md",
@@ -129,14 +131,12 @@
     "literature-notes.md",
     "over-confidence-bias--people-cannot-estimate.md",
     "do-not-estimate-time-based-on-outcome.md",
-    "allen-2022.md",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
     "getting-things-out-of-the-brain-can-help-you-think.md",
     "set-up-a-system-that-can-free-your-brain.md",
     "notes-should-be-named-in-the-context-you-wish-to-retrieve-them.md",
     "learn-all-the-rules-so-you-can deviate-from-them.md",
     "some-new-note.md",
-    "less-choices-lead-to-increased-productivity.md",
     "Untitled.md",
     "permanent-notes.md",
     "reference-notes.md",
@@ -146,7 +146,6 @@
     "change-workflow-when-adapting-new-tool.md",
     "brainstorming-is-terrible.md",
     "elaboration-best-way-to-learn.md",
-    "$projects/Learning OBS.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
