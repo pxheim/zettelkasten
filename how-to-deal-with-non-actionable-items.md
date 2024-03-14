@@ -1,0 +1,1 @@
+Non actionable items are either trash and can be deleted, or tasks that are not ready yet, e.g. projects or ideas you want to do someday, books you want to read, or just an idea you have. Keep these in a separate list (or together with projects list). The last type of non-actionable items are reference material and should be kept in ZK.

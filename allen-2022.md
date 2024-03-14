@@ -26,7 +26,7 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [gtd-efficiently-capturing-things](gtd-efficiently-capturing-things.md)
 
-Projects are things that take several next-actions over a longer period of time to complete. Doing enough of the next actions will eventually complete the project. They can be things like "renovate the bedroom".
+[projects-with-multiple-actions](projects-with-multiple-actions.md)
 
 [actionable-items-can-only-be-organized-into-one-of-three-places](actionable-items-can-only-be-organized-into-one-of-three-places.md)
 
@@ -34,3 +34,21 @@ Projects are things that take several next-actions over a longer period of time 
 
 [next-action-list-should-only-contain-actions-that-can-be-taken](next-action-list-should-only-contain-actions-that-can-be-taken.md)
 
+[how-to-deal-with-non-actionable-items](how-to-deal-with-non-actionable-items.md)
+
+
+
+One of the most important aspects of GTD is the weekly review where you check your $in, lists, projects and other things you have made as part of your workflow. This is done to make sure you stay on top.
+
+Engaging with your lists and deciding what to do, it's useful to consider the context, i.e. where are you and what are you doing, then time available then how much energy you have left. After considering those, select a next task based on priority.
+
+If you are having issues reviewing priorities, consider the following 6 aspects or horizons as [allen-2022](allen-2022.md) calls them:
+
+5. purpose
+4. vision
+3. goals
+2. areas of focus
+1. projects
+0. current immediate tasks.
+
+The lower areas are more concrete and immediate, whereas the higher you go, the more abstract, e.g. 5 can be your own purpose in the world. The higher levels provide input for the lower ones.
