@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8a987768a6f92a11",
+        "id": "08e5f236b48d2bd5",
         "type": "tabs",
         "children": [
           {
-            "id": "ea5069b66db6babe",
+            "id": "7c58d3ba328fa85a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "write-things-down-to-reduce-the-load-on-the-brain.md",
+                "file": "ahrens-2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "write-things-down-to-reduce-the-load-on-the-brain.md",
+                "file": "ahrens-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "write-things-down-to-reduce-the-load-on-the-brain.md",
+                "file": "ahrens-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "write-things-down-to-reduce-the-load-on-the-brain.md"
+                "file": "ahrens-2022.md"
               }
             }
           }
@@ -126,8 +126,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ea5069b66db6babe",
+  "active": "7c58d3ba328fa85a",
   "lastOpenFiles": [
+    "write-things-down-to-reduce-the-load-on-the-brain.md",
+    "Untitled.md",
     "permanent-notes.md",
     "reference-notes.md",
     "some-new-note.md",
@@ -145,8 +147,6 @@
     "elaboration-best-way-to-learn.md",
     "$projects/Learning OBS.md",
     "$projects/leah-master.md",
-    "Untitled.md",
-    "write-things-down-to-reduce-the-load-on-the-brain.md",
     "willpower-is-a-limited-resource.md",
     "Untitled.canvas",
     "multitasking-makes-you-less-productive-and-unable-to-multitask.md",
