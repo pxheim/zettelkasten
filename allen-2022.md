@@ -27,3 +27,10 @@ A bottom-up approach to changing how an organization works is the best approach.
 [gtd-efficiently-capturing-things](gtd-efficiently-capturing-things.md)
 
 Projects are things that take several next-actions over a longer period of time to complete. Doing enough of the next actions will eventually complete the project. They can be things like "renovate the bedroom".
+
+[actionable-items-can-only-be-organized-into-one-of-three-places](actionable-items-can-only-be-organized-into-one-of-three-places.md)
+
+[reserve-the-calendar-for-things-that-are-time-and-date-sensitive](reserve-the-calendar-for-things-that-are-time-and-date-sensitive.md)
+
+[next-action-list-should-only-contain-actions-that-can-be-taken](next-action-list-should-only-contain-actions-that-can-be-taken.md)
+

@@ -1,0 +1,1 @@
+Keep a next-actions list where you keep everything that has an action that can be taken right now. 
