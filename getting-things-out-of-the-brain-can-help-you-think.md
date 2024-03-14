@@ -2,6 +2,6 @@ The brain has a tendency to jump to conclusions based on what it things we want 
 
 You don't think and then write it down, you think _with_ the paper. It's a tool to facilitate thinking.
 
-[zeigarnik-effect](zeigarnik-effect.md)
+[zeigarnik-effect--unfinished-things-remain-in-our-brain](zeigarnik-effect--unfinished-things-remain-in-our-brain.md)
 
 [write-things-down-to-reduce-the-load-on-the-brain](write-things-down-to-reduce-the-load-on-the-brain.md)

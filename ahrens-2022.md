@@ -68,11 +68,9 @@
 
 [do-not-estimate-time-based-on-outcome](do-not-estimate-time-based-on-outcome.md)
 
-[zeigarnik-effect](zeigarnik-effect.md)
+[zeigarnik-effect--unfinished-things-remain-in-our-brain](zeigarnik-effect--unfinished-things-remain-in-our-brain.md)
 
-[[]]
-
-[law-of-parkinson](law-of-parkinson.md)
+[law-of-parkinson--work-takes-the-time-given-to-it](law-of-parkinson--work-takes-the-time-given-to-it.md)
 
 
 
