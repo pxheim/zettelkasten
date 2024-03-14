@@ -1,0 +1,1 @@
+From karate there's a saying that goes "mind like water", which refers to how water never over or under-reacts and is always ready to react to any changes. In a real world scenario, lashing out is never going to get you the outcome you want. Similarly, over-focusing on the quality of something is not going to make the quantity of things you need to do any less.

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "467ba50100f0f311",
+        "id": "d77c30551d05f1c5",
         "type": "tabs",
         "children": [
           {
-            "id": "5e552723e17c6820",
+            "id": "cc713c8420aa52a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "allen-2022.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "allen-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "allen-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "allen-2022.md"
+              }
             }
           }
         ]
@@ -118,17 +126,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5e552723e17c6820",
+  "active": "cc713c8420aa52a5",
   "lastOpenFiles": [
-    "flexible-focus-increases-productivity.md",
-    "ahrens-2022.md",
-    "less-choices-lead-to-increased-productivity.md",
+    "mind-like-water.md",
     "allen-2022.md",
+    "work-no-longer-has-boundaries.md",
+    "ahrens-2022.md",
+    "literature-notes.md",
+    "reference-notes.md",
+    "trick-the-brain-into-enjoying-what-it's-doing.md",
+    "flexible-focus-increases-productivity.md",
+    "less-choices-lead-to-increased-productivity.md",
     "law-of-parkinson--work-takes-the-time-given-to-it.md",
     "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
     "$Questions.md",
     "$Bibliography.md",
-    "literature-notes.md",
     "over-confidence-bias--people-cannot-estimate.md",
     "do-not-estimate-time-based-on-outcome.md",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
@@ -139,13 +151,9 @@
     "some-new-note.md",
     "Untitled.md",
     "permanent-notes.md",
-    "reference-notes.md",
     "avoid-taking-pure-reference-notes.md",
     "change-the-environment-to-preserve-willpower.md",
     "confront-yourself-with-the-information-you-think-you-know.md",
-    "change-workflow-when-adapting-new-tool.md",
-    "brainstorming-is-terrible.md",
-    "elaboration-best-way-to-learn.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
