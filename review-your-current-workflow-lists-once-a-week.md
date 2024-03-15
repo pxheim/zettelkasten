@@ -1,0 +1,1 @@
+One of the most important aspects of GTD is the weekly review where you check your $in, lists, projects and other things you have made as part of your workflow. This is done to make sure you stay on top.

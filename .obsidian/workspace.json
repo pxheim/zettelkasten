@@ -20,19 +20,18 @@
             }
           },
           {
-            "id": "f6a4a10ea7ab039b",
+            "id": "9ece32a4f14597a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gtd-efficiently-capturing-things.md",
+                "file": "gtd-workflow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gtd-efficiently-capturing-things.md",
+                "file": "allen-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gtd-efficiently-capturing-things.md",
+                "file": "allen-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gtd-efficiently-capturing-things.md"
+                "file": "allen-2022.md"
               }
             }
           }
@@ -139,10 +138,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f6a4a10ea7ab039b",
+  "active": "174c9120e8741eab",
   "lastOpenFiles": [
+    "the-reactive-planning-model.md",
     "allen-2022.md",
+    "the-natural-planning-model.md",
+    "prioritize-what-to-do-based-on-horizon-system.md",
+    "review-your-current-workflow-lists-once-a-week.md",
     "gtd-workflow.md",
+    "gtd-efficiently-capturing-things.md",
     "ahrens-2022.md",
     "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
     "how-to-deal-with-non-actionable-items.md",
@@ -150,7 +154,6 @@
     "next-action-list-should-only-contain-actions-that-can-be-taken.md",
     "reserve-the-calendar-for-things-that-are-time-and-date-sensitive.md",
     "actionable-items-can-only-be-organized-into-one-of-three-places.md",
-    "gtd-efficiently-capturing-things.md",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
     "work-no-longer-has-boundaries.md",
     "mind-like-water.md",
@@ -163,10 +166,6 @@
     "$Questions.md",
     "$Bibliography.md",
     "over-confidence-bias--people-cannot-estimate.md",
-    "do-not-estimate-time-based-on-outcome.md",
-    "getting-things-out-of-the-brain-can-help-you-think.md",
-    "set-up-a-system-that-can-free-your-brain.md",
-    "notes-should-be-named-in-the-context-you-wish-to-retrieve-them.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
