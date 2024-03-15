@@ -2,4 +2,4 @@ The brain is not willing to give up a task that is not complete unless we trick 
 
 Create a system that will take care of the things that occupies the ego so that you can free your brain to work on the important bits. The system needs to work as a whole. If the tools you add to the system do not work together, then it's pointless.
 
-[getting-things-out-of-the-brain-can-help-you-think](getting-things-out-of-the-brain-can-help-you-think.md)
+[distributed-cognition](distributed-cognition.md)

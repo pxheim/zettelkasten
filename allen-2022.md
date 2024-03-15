@@ -52,5 +52,7 @@ Horizontal focus is the act of having control of the things on your horizon by d
 
 [[brainstorming-in-the-natural-planning-model]]
 
+[[organizing-in-the-natural-planning-model]]
+
 [the-reactive-planning-model](the-reactive-planning-model.md)
 

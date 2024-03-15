@@ -2,5 +2,5 @@ We are more likely to remember unfinished tasks vs. finished ones under certain 
 
 [write-things-down-to-reduce-the-load-on-the-brain](write-things-down-to-reduce-the-load-on-the-brain.md)
 
-[getting-things-out-of-the-brain-can-help-you-think](getting-things-out-of-the-brain-can-help-you-think.md)
+[distributed-cognition](distributed-cognition.md)
 

@@ -56,7 +56,7 @@
 
 [elaboration-best-way-to-learn](elaboration-best-way-to-learn.md)
 
-[getting-things-out-of-the-brain-can-help-you-think](getting-things-out-of-the-brain-can-help-you-think.md)
+[distributed-cognition](distributed-cognition.md)
 
 [notes-should-be-named-in-the-context-you-wish-to-retrieve-them](notes-should-be-named-in-the-context-you-wish-to-retrieve-them.md)
 

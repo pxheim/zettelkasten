@@ -20,12 +20,60 @@
             }
           },
           {
-            "id": "069d7555de317ebf",
+            "id": "1b8270d10d5ef4bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the-natural-planning-model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3377817c09998e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "organizing-in-the-natural-planning-model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d6b987b67d32163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "organizing-in-the-natural-planning-model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0342ebb5bd3cfda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "brainstorming-in-the-natural-planning-model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "069d7555de317ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "distributed-cognition.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,57 +114,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6e968a72f17f46da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the-natural-planning-model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16b245bdf7f30a9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the-natural-planning-model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "566817a61cf40864",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the-reactive-planning-model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ece32a4f14597a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gtd-workflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "open-loop",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "brainstorming-in-the-natural-planning-model.md",
+                "file": "organizing-in-the-natural-planning-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "brainstorming-in-the-natural-planning-model.md",
+                "file": "organizing-in-the-natural-planning-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "brainstorming-in-the-natural-planning-model.md"
+                "file": "organizing-in-the-natural-planning-model.md"
               }
             }
           }
@@ -223,18 +224,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "069d7555de317ebf",
+  "active": "e3377817c09998e0",
   "lastOpenFiles": [
-    "allen-2022.md",
-    "brainstorming-in-the-natural-planning-model.md",
     "the-natural-planning-model.md",
+    "allen-2022.md",
+    "organizing-in-the-natural-planning-model.md",
+    "the-reactive-planning-model.md",
+    "gtd-workflow.md",
+    "brainstorming-in-the-natural-planning-model.md",
+    "distributed-cognition.md",
+    "write-things-down-to-reduce-the-load-on-the-brain.md",
+    "brainstorming-is-terrible.md",
     "vision-of-the-natural-planning-model.md",
     "principles-of-the-natural-planning-model.md",
     "purpose-of-the-natural-planning-model.md",
-    "the-reactive-planning-model.md",
     "prioritize-what-to-do-based-on-horizon-system.md",
     "review-your-current-workflow-lists-once-a-week.md",
-    "gtd-workflow.md",
     "gtd-efficiently-capturing-things.md",
     "ahrens-2022.md",
     "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
@@ -243,14 +248,10 @@
     "next-action-list-should-only-contain-actions-that-can-be-taken.md",
     "reserve-the-calendar-for-things-that-are-time-and-date-sensitive.md",
     "actionable-items-can-only-be-organized-into-one-of-three-places.md",
-    "write-things-down-to-reduce-the-load-on-the-brain.md",
     "work-no-longer-has-boundaries.md",
     "mind-like-water.md",
     "literature-notes.md",
     "reference-notes.md",
-    "trick-the-brain-into-enjoying-what-it's-doing.md",
-    "flexible-focus-increases-productivity.md",
-    "less-choices-lead-to-increased-productivity.md",
     "Untitled.canvas",
     "$projects",
     "$todo",

@@ -6,8 +6,10 @@ Purpose --------> ??? --------> Outcome
                    |--> Determined by brainstorming.
 ```
 
-When brainstorming like this, refrain from analyzing and organizing. You're just making a list for the sole purpose of offloading your brain. [[off]]
+When brainstorming like this, refrain from analyzing and organizing. You're just making a list for the sole purpose of offloading your brain.
 
+[distributed-cognition](distributed-cognition.md)
 
+[ahrens-2022](ahrens-2022.md) advocates that brainstorming is terrible as the only place you can draw on for information when brainstorming is your own head.
 
-[[distributed-cognition]]
+[brainstorming-is-terrible](brainstorming-is-terrible.md)
