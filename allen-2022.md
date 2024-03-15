@@ -42,7 +42,15 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 Horizontal focus is the act of having control of the things on your horizon by defining projects and next-actions as well as making sure you have reminders for your actions or lists.
 
-[[the-natural-planning-model]]
+[the-natural-planning-model](the-natural-planning-model.md)
+
+[purpose-of-the-natural-planning-model](purpose-of-the-natural-planning-model.md)
+
+[[principles-of-the-natural-planning-model]]
+
+[[vision-of-the-natural-planning-model]]
+
+[[brainstorming-in-the-natural-planning-model]]
 
 [the-reactive-planning-model](the-reactive-planning-model.md)
 
