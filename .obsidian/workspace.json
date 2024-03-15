@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "e3377817c09998e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "organizing-in-the-natural-planning-model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3d6b987b67d32163",
             "type": "leaf",
             "state": {
@@ -116,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organizing-in-the-natural-planning-model.md",
+                "file": "the-natural-planning-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organizing-in-the-natural-planning-model.md",
+                "file": "the-natural-planning-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organizing-in-the-natural-planning-model.md"
+                "file": "the-natural-planning-model.md"
               }
             }
           }
@@ -224,11 +212,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e3377817c09998e0",
+  "active": "1b8270d10d5ef4bd",
   "lastOpenFiles": [
+    "organizing-in-the-natural-planning-model.md",
     "the-natural-planning-model.md",
     "allen-2022.md",
-    "organizing-in-the-natural-planning-model.md",
     "the-reactive-planning-model.md",
     "gtd-workflow.md",
     "brainstorming-in-the-natural-planning-model.md",
