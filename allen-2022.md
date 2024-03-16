@@ -58,4 +58,7 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [planning-with-the-next-actions](planning-with-the-next-actions.md)
 
+[emergency-scanning](emergency-scanning.md)
+
+
 

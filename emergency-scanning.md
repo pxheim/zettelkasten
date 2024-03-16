@@ -1,0 +1,1 @@
+When you are supposed to process something in order, it's temping to jump around and process the most fun things first instead of doing all the things in order or doing what's most important. This is referred to as emergency scanning and is generally considered bad. This also applies when doing most things, not just processing lists.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "allen-2022.md",
+                "file": "next-action-list-should-only-contain-actions-that-can-be-taken.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "writing best",
+                "query": "next action",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "allen-2022.md",
+                "file": "next-action-list-should-only-contain-actions-that-can-be-taken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "allen-2022.md",
+                "file": "next-action-list-should-only-contain-actions-that-can-be-taken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "allen-2022.md"
+                "file": "next-action-list-should-only-contain-actions-that-can-be-taken.md"
               }
             }
           }
@@ -188,10 +189,11 @@
   },
   "active": "3d6b987b67d32163",
   "lastOpenFiles": [
+    "allen-2022.md",
+    "emergency-scanning.md",
     "ahrens-2022.md",
     "organizing-in-the-natural-planning-model.md",
     "working-with-notes-set-zettelkasten-apart.md",
-    "allen-2022.md",
     "horizontal-focus.md",
     "planning-with-the-next-actions.md",
     "actionable-items-can-only-be-organized-into-one-of-three-places.md",
@@ -213,7 +215,6 @@
     "projects-with-multiple-actions.md",
     "next-action-list-should-only-contain-actions-that-can-be-taken.md",
     "reserve-the-calendar-for-things-that-are-time-and-date-sensitive.md",
-    "work-no-longer-has-boundaries.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
