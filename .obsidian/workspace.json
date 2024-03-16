@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the-natural-planning-model.md",
+                "file": "allen-2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "next-action",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the-natural-planning-model.md",
+                "file": "allen-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the-natural-planning-model.md",
+                "file": "allen-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the-natural-planning-model.md"
+                "file": "allen-2022.md"
               }
             }
           }
@@ -212,10 +212,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1b8270d10d5ef4bd",
+  "active": "353e6fd6e50e12ce",
   "lastOpenFiles": [
-    "organizing-in-the-natural-planning-model.md",
+    "actionable-items-can-only-be-organized-into-one-of-three-places.md",
     "the-natural-planning-model.md",
+    "organizing-in-the-natural-planning-model.md",
     "allen-2022.md",
     "the-reactive-planning-model.md",
     "gtd-workflow.md",
@@ -235,7 +236,6 @@
     "projects-with-multiple-actions.md",
     "next-action-list-should-only-contain-actions-that-can-be-taken.md",
     "reserve-the-calendar-for-things-that-are-time-and-date-sensitive.md",
-    "actionable-items-can-only-be-organized-into-one-of-three-places.md",
     "work-no-longer-has-boundaries.md",
     "mind-like-water.md",
     "literature-notes.md",
