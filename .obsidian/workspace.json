@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "174c9120e8741eab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "working-with-notes-set-zettelkasten-apart.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3d6b987b67d32163",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizing-in-the-natural-planning-model.md",
+                "file": "allen-2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,8 +117,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "working-with-notes-set-zettelkasten-apart.md",
+                "file": "allen-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "working-with-notes-set-zettelkasten-apart.md",
+                "file": "allen-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "working-with-notes-set-zettelkasten-apart.md"
+                "file": "allen-2022.md"
               }
             }
           }
@@ -199,14 +186,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "174c9120e8741eab",
+  "active": "3d6b987b67d32163",
   "lastOpenFiles": [
+    "ahrens-2022.md",
+    "organizing-in-the-natural-planning-model.md",
+    "working-with-notes-set-zettelkasten-apart.md",
     "allen-2022.md",
     "horizontal-focus.md",
     "planning-with-the-next-actions.md",
     "actionable-items-can-only-be-organized-into-one-of-three-places.md",
     "the-natural-planning-model.md",
-    "organizing-in-the-natural-planning-model.md",
     "the-reactive-planning-model.md",
     "gtd-workflow.md",
     "brainstorming-in-the-natural-planning-model.md",
@@ -219,14 +208,12 @@
     "prioritize-what-to-do-based-on-horizon-system.md",
     "review-your-current-workflow-lists-once-a-week.md",
     "gtd-efficiently-capturing-things.md",
-    "ahrens-2022.md",
     "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
     "how-to-deal-with-non-actionable-items.md",
     "projects-with-multiple-actions.md",
     "next-action-list-should-only-contain-actions-that-can-be-taken.md",
     "reserve-the-calendar-for-things-that-are-time-and-date-sensitive.md",
     "work-no-longer-has-boundaries.md",
-    "mind-like-water.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
