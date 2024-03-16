@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "allen-2022.md",
+                "file": "ahrens-2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eafb9df283d2a05b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "skelton-and-pais-2019.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "allen-2022.md",
+                "file": "skelton-and-pais-2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "allen-2022.md",
+                "file": "skelton-and-pais-2019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "allen-2022.md"
+                "file": "skelton-and-pais-2019.md"
               }
             }
           }
@@ -126,10 +139,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ac2a26691f180b6a",
+  "active": "eafb9df283d2a05b",
   "lastOpenFiles": [
-    "write-things-down-to-reduce-the-load-on-the-brain.md",
+    "ahrens-2022.md",
+    "$Bibliography.md",
+    "skelton-and-pais-2019.md",
     "allen-2022.md",
+    "write-things-down-to-reduce-the-load-on-the-brain.md",
     "distributed-cognition.md",
     "next-action-list-should-only-contain-actions-that-can-be-taken.md",
     "define-the-next-action-for-everything-you-plan-to-do.md",
@@ -141,7 +157,6 @@
     "principles-of-the-natural-planning-model.md",
     "brainstorming-in-the-natural-planning-model.md",
     "emergency-scanning.md",
-    "ahrens-2022.md",
     "organizing-in-the-natural-planning-model.md",
     "working-with-notes-set-zettelkasten-apart.md",
     "horizontal-focus.md",
@@ -152,8 +167,6 @@
     "purpose-of-the-natural-planning-model.md",
     "prioritize-what-to-do-based-on-horizon-system.md",
     "review-your-current-workflow-lists-once-a-week.md",
-    "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
-    "how-to-deal-with-non-actionable-items.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
