@@ -1,0 +1,1 @@
+Simply put, if you're processing tasks and come across something that'll take you 2 minutes or less; do it right away. Since it basically takes about 2 minutes to properly process and plan something anyway, just doing the task is better. This _can_ be extended to 3 minute rule or more, depending on your current setting, but it's not advised to make a habit out o

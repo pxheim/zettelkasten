@@ -1,1 +1,1 @@
-Keep a next-actions list where you keep everything that has an action that can be taken right now. 
+Keep a next-actions list where you keep everything that has an action that can be taken right now. A next action _must_ be the next physical action you can take. E.g. a poorly defined next-action might be to clean the garden shed, whereas the actual next physical action should be something like "drive the bags of trash to IVAR".

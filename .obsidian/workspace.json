@@ -4,76 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a47fa2230d5c5dc",
+        "id": "b4818bf8f0fc8243",
         "type": "tabs",
         "children": [
           {
-            "id": "3d6b987b67d32163",
+            "id": "ac2a26691f180b6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "next-action-list-should-only-contain-actions-that-can-be-taken.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0342ebb5bd3cfda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "brainstorming-in-the-natural-planning-model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "069d7555de317ebf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "distributed-cognition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7a301928ef64040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the-natural-planning-model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0d93125aeec5e6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "principles-of-the-natural-planning-model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12abf698c08995e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the-natural-planning-model.md",
+                "file": "efficiently-capturing-things-on-your-mind.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "next-action-list-should-only-contain-actions-that-can-be-taken.md",
+                "file": "efficiently-capturing-things-on-your-mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "next-action-list-should-only-contain-actions-that-can-be-taken.md",
+                "file": "efficiently-capturing-things-on-your-mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "next-action-list-should-only-contain-actions-that-can-be-taken.md"
+                "file": "efficiently-capturing-things-on-your-mind.md"
               }
             }
           }
@@ -187,9 +126,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3d6b987b67d32163",
+  "active": "ac2a26691f180b6a",
   "lastOpenFiles": [
+    "gtd-workflow.md",
     "allen-2022.md",
+    "efficiently-capturing-things-on-your-mind.md",
+    "2-minute-rule.md",
+    "the-natural-planning-model.md",
+    "principles-of-the-natural-planning-model.md",
+    "distributed-cognition.md",
+    "brainstorming-in-the-natural-planning-model.md",
+    "next-action-list-should-only-contain-actions-that-can-be-taken.md",
     "emergency-scanning.md",
     "ahrens-2022.md",
     "organizing-in-the-natural-planning-model.md",
@@ -197,24 +144,16 @@
     "horizontal-focus.md",
     "planning-with-the-next-actions.md",
     "actionable-items-can-only-be-organized-into-one-of-three-places.md",
-    "the-natural-planning-model.md",
     "the-reactive-planning-model.md",
-    "gtd-workflow.md",
-    "brainstorming-in-the-natural-planning-model.md",
-    "distributed-cognition.md",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
     "brainstorming-is-terrible.md",
     "vision-of-the-natural-planning-model.md",
-    "principles-of-the-natural-planning-model.md",
     "purpose-of-the-natural-planning-model.md",
     "prioritize-what-to-do-based-on-horizon-system.md",
     "review-your-current-workflow-lists-once-a-week.md",
-    "gtd-efficiently-capturing-things.md",
     "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
     "how-to-deal-with-non-actionable-items.md",
     "projects-with-multiple-actions.md",
-    "next-action-list-should-only-contain-actions-that-can-be-taken.md",
-    "reserve-the-calendar-for-things-that-are-time-and-date-sensitive.md",
     "Untitled.canvas",
     "$projects",
     "$todo",

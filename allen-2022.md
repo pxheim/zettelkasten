@@ -24,7 +24,7 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [gtd-workflow](gtd-workflow.md)
 
-[gtd-efficiently-capturing-things](gtd-efficiently-capturing-things.md)
+[efficiently-capturing-things-on-your-mind](efficiently-capturing-things-on-your-mind.md)
 
 [projects-with-multiple-actions](projects-with-multiple-actions.md)
 
@@ -60,5 +60,5 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [emergency-scanning](emergency-scanning.md)
 
-
+[2-minute-rule](2-minute-rule.md)
 
