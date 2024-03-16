@@ -1,0 +1,1 @@
+Horizontal focus is the act of having control of the things on your horizon by defining projects and next-actions as well as making sure you have reminders for your actions or lists. This is different from vertical focus where you dig down into the specifics of certain things.

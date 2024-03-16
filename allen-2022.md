@@ -40,7 +40,7 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [prioritize-what-to-do-based-on-horizon-system](prioritize-what-to-do-based-on-horizon-system.md)
 
-Horizontal focus is the act of having control of the things on your horizon by defining projects and next-actions as well as making sure you have reminders for your actions or lists.
+[horizontal-focus](horizontal-focus.md)
 
 [the-natural-planning-model](the-natural-planning-model.md)
 
@@ -56,6 +56,6 @@ Horizontal focus is the act of having control of the things on your horizon by d
 
 [the-reactive-planning-model](the-reactive-planning-model.md)
 
-[[planning-with-the-next-actions]]
+[planning-with-the-next-actions](planning-with-the-next-actions.md)
 
-When defining next actions, projects with multiple moving components should have an action assigned to ca
+
