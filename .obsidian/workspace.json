@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skelton-and-pais-2019.md",
+                "file": "allen-2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "skelton-and-pais-2019.md",
+                "file": "allen-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "skelton-and-pais-2019.md",
+                "file": "allen-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "skelton-and-pais-2019.md"
+                "file": "allen-2022.md"
               }
             }
           }
@@ -141,9 +141,9 @@
   },
   "active": "eafb9df283d2a05b",
   "lastOpenFiles": [
+    "skelton-and-pais-2019.md",
     "ahrens-2022.md",
     "$Bibliography.md",
-    "skelton-and-pais-2019.md",
     "allen-2022.md",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
     "distributed-cognition.md",
