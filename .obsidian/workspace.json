@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b6ec44463c9dbea4",
+        "id": "3c57196e92d43ae0",
         "type": "tabs",
         "children": [
           {
-            "id": "6a87cb4051171427",
+            "id": "e87e86f18194cac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "working-with-notes-set-zettelkasten-apart.md",
+                "file": "git-branching-strategies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91a1382ae84b3966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git-flow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "working-with-notes-set-zettelkasten-apart.md",
+                "file": "git-flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "working-with-notes-set-zettelkasten-apart.md",
+                "file": "git-flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "working-with-notes-set-zettelkasten-apart.md"
+                "file": "git-flow.md"
               }
             }
           }
@@ -127,13 +139,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6a87cb4051171427",
+  "active": "91a1382ae84b3966",
   "lastOpenFiles": [
+    "git-branching-strategies.md",
+    "git-flow.md",
+    "allen-2022-getting-things-done.md",
+    "working-with-notes-set-zettelkasten-apart.md",
     "ahrens-2022-how-to-take-smart-notes.md",
     "gtd-workflow.md",
     "$Hubs.md",
     "skelton-pais-2019-team-topologies.md",
-    "allen-2022-getting-things-done.md",
     "$Bibliography.md",
     "the-natural-planning-model.md",
     "gtd-does-not-work-for-academic-writing.md",
@@ -152,9 +167,6 @@
     "next-action-lists-should-be-context-based.md",
     "notes-should-be-named-in-the-context-you-wish-to-retrieve-them.md",
     "willpower-is-a-limited-resource.md",
-    "over-confidence-bias--people-cannot-estimate.md",
-    "law-of-parkinson--work-takes-the-time-given-to-it.md",
-    "do-not-estimate-time-based-on-outcome.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
