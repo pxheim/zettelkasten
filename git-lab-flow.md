@@ -1,0 +1,1 @@
+A git branching strategy where all features are merged to the main branch, but then cherrypicked out to several release branches.

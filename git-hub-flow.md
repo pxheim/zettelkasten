@@ -1,0 +1,1 @@
+A simple git branching strategy where you have a single master branch along with feature branches.
