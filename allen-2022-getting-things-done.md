@@ -8,11 +8,11 @@ GTD can be broken down into three main parts. (1) capture everything that needs 
 
 [work-no-longer-has-boundaries](work-no-longer-has-boundaries.md)
 
-[[mind-like-water]]
+[mind-like-water](mind-like-water.md)
 
 [write-things-down-to-reduce-the-load-on-the-brain](write-things-down-to-reduce-the-load-on-the-brain.md)
 
-[[define-the-next-action-for-everything-you-plan-to-do]]
+[define-the-next-action-for-everything-you-plan-to-do](define-the-next-action-for-everything-you-plan-to-do.md)
 
 A bottom-up approach to changing how an organization works is the best approach. High flying, top-down commitments usually get lost as people are too focused on their day-to-day actions.
 
@@ -38,13 +38,13 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [purpose-of-the-natural-planning-model](purpose-of-the-natural-planning-model.md)
 
-[[principles-of-the-natural-planning-model]]
+[principles-of-the-natural-planning-model](principles-of-the-natural-planning-model.md)
 
-[[vision-of-the-natural-planning-model]]
+[vision-of-the-natural-planning-model](vision-of-the-natural-planning-model.md)
 
 [brainstorming-in-the-natural-planning-model](brainstorming-in-the-natural-planning-model.md)
 
-[[organizing-in-the-natural-planning-model]]
+[organizing-in-the-natural-planning-model](organizing-in-the-natural-planning-model.md)
 
 [the-reactive-planning-model](the-reactive-planning-model.md)
 

@@ -1,6 +1,6 @@
 Engaging with your lists and deciding what to do, it's useful to consider the context, i.e. where are you and what are you doing, then time available then how much energy you have left. After considering those, select a next task based on priority.
 
-If you are having issues reviewing priorities, consider the following 6 aspects or horizons as [allen-2022](allen-2022.md) calls them:
+If you are having issues reviewing priorities, consider the following 6 aspects or horizons as [allen-2022-getting-things-done](allen-2022-getting-things-done.md) calls them:
 
 5. purpose
 4. vision

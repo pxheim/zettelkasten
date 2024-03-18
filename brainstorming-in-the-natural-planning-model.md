@@ -10,6 +10,6 @@ When brainstorming like this, refrain from analyzing and organizing. You're just
 
 [distributed-cognition](distributed-cognition.md)
 
-[ahrens-2022](ahrens-2022.md) advocates that brainstorming is terrible as the only place you can draw on for information when brainstorming is your own head.
+[ahrens-2022-how-to-take-smart-notes](ahrens-2022-how-to-take-smart-notes.md) advocates that brainstorming is terrible as the only place you can draw on for information when brainstorming is your own head.
 
 [brainstorming-is-terrible](brainstorming-is-terrible.md)
