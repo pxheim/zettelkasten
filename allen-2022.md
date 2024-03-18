@@ -22,7 +22,7 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [projects-with-multiple-actions](projects-with-multiple-actions.md)
 
-[actionable-items-can-only-be-organized-into-one-of-three-places](actionable-items-can-only-be-organized-into-one-of-three-places.md)
+[next-actions-only-go-into-one-of-three-places](next-actions-only-go-into-one-of-three-places.md)
 
 [reserve-the-calendar-for-things-that-are-time-and-date-sensitive](reserve-the-calendar-for-things-that-are-time-and-date-sensitive.md)
 

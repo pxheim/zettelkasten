@@ -1,1 +1,0 @@
-There are only three places you need to organize things into: calendar, next-actions and waiting-for list.
