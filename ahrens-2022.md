@@ -1,4 +1,4 @@
-> Ahrens, Sönke. How to Take Smart Notes - One Simple Technique to Boost Writing, Learning and Thinking. 2nd ed., SD Books, 2022.
+Ahrens, S. (2022). _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking_ (2nd ed.). SD Books.
 
 [$Bibliography]($Bibliography.md)
 

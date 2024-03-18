@@ -1,4 +1,4 @@
-> Allen, David. Getting Things Done - The Art of Stress-free Productivity. SD Books, 2019.
+Allen, D. (2019). _Getting Things Done: The Art of Stress-Free Productivity_ (Revised ed.). Piatkus.
 
 [$Bibliography]($Bibliography.md)
 
