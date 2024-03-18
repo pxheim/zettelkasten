@@ -11,8 +11,12 @@
             "id": "0cff104491c50ab8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "gtd-weekly-review.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "gtd-weekly-review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "gtd-weekly-review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "gtd-weekly-review.md"
+              }
             }
           }
         ]
@@ -120,6 +128,7 @@
   },
   "active": "0cff104491c50ab8",
   "lastOpenFiles": [
+    "gtd-weekly-review.md",
     "git-branching-strategies.md",
     "git-hub-flow.md",
     "git-lab-flow.md",
@@ -145,7 +154,6 @@
     "next-actions-only-go-into-one-of-three-places.md",
     "brainstorming-is-terrible.md",
     "brainstorming-in-the-natural-planning-model.md",
-    "next-action-lists-should-be-context-based.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
