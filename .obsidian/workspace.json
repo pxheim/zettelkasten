@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f7ad0120bcacdc05",
+        "id": "b6ec44463c9dbea4",
         "type": "tabs",
         "children": [
           {
-            "id": "0127ab26a2d97e2c",
+            "id": "6a87cb4051171427",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skelton-pais-2019-team-topologies.md",
+                "file": "working-with-notes-set-zettelkasten-apart.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gtd-wor",
+                "query": "zettelkasten",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "skelton-pais-2019-team-topologies.md",
+                "file": "working-with-notes-set-zettelkasten-apart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "skelton-pais-2019-team-topologies.md",
+                "file": "working-with-notes-set-zettelkasten-apart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "skelton-pais-2019-team-topologies.md"
+                "file": "working-with-notes-set-zettelkasten-apart.md"
               }
             }
           }
@@ -126,21 +127,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0127ab26a2d97e2c",
+  "active": "6a87cb4051171427",
   "lastOpenFiles": [
-    "$Bibliography.md",
-    "$Hubs.md",
+    "ahrens-2022-how-to-take-smart-notes.md",
     "gtd-workflow.md",
+    "$Hubs.md",
+    "skelton-pais-2019-team-topologies.md",
     "allen-2022-getting-things-done.md",
+    "$Bibliography.md",
     "the-natural-planning-model.md",
     "gtd-does-not-work-for-academic-writing.md",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
     "distributed-cognition.md",
-    "ahrens-2022-how-to-take-smart-notes.md",
     "planning-with-the-next-actions.md",
     "efficiently-capturing-things-on-your-mind.md",
     "2-minute-rule.md",
-    "skelton-pais-2019-team-topologies.md",
     "$Questions.md",
     "structure-notes.md",
     "many-factors-can-impact-ego-depletion.md",
