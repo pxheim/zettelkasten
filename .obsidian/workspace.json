@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "willpower-is-a-limited-resource.md",
+                "file": "allen-2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "willpower-is-a-limited-resource.md",
+                "file": "allen-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "willpower-is-a-limited-resource.md",
+                "file": "allen-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "willpower-is-a-limited-resource.md"
+                "file": "allen-2022.md"
               }
             }
           }
@@ -129,6 +129,10 @@
   },
   "active": "c6b5c89d957b3987",
   "lastOpenFiles": [
+    "next-action-lists-should-be-context-based.md",
+    "allen-2022.md",
+    "notes-should-be-named-in-the-context-you-wish-to-retrieve-them.md",
+    "willpower-is-a-limited-resource.md",
     "over-confidence-bias--people-cannot-estimate.md",
     "law-of-parkinson--work-takes-the-time-given-to-it.md",
     "do-not-estimate-time-based-on-outcome.md",
@@ -137,7 +141,6 @@
     "avoid-taking-pure-reference-notes.md",
     "literature-notes.md",
     "reducing-complexity-by-organizing-into-topics-does-not-work.md",
-    "allen-2022.md",
     "ahrens-2022.md",
     "skelton-and-pais-2019.md",
     "$Bibliography.md",
@@ -152,9 +155,6 @@
     "the-natural-planning-model.md",
     "principles-of-the-natural-planning-model.md",
     "emergency-scanning.md",
-    "organizing-in-the-natural-planning-model.md",
-    "working-with-notes-set-zettelkasten-apart.md",
-    "horizontal-focus.md",
     "Untitled.canvas",
     "$projects",
     "$todo",

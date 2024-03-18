@@ -54,3 +54,7 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [2-minute-rule](2-minute-rule.md)
 
+
+TODO: write this note.
+
+[next-action-lists-should-be-context-based](next-action-lists-should-be-context-based.md)
