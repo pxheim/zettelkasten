@@ -1,4 +1,4 @@
-A git branching strategy that is based on having a master branch with production code, a develop branch with code that's in development, feature branches for features that are in progress, release branches to track releases, and hotfix branches to track hotfixes.
+A git branching strategy that is based on having a *master* branch with production code, a *develop* branch with code that's in development, *feature* branches for features that are in progress, *release* branches to track releases, and *hotfix* branches to track hotfixes.
 
 Normal workflow is to start a feature branch based off the develop branch and use the `feature/` prefix. When the feature is complete, a PR is created and the feature is eventually merged into develop.
 
