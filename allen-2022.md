@@ -42,7 +42,7 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [[vision-of-the-natural-planning-model]]
 
-[[brainstorming-in-the-natural-planning-model]]
+[brainstorming-in-the-natural-planning-model](brainstorming-in-the-natural-planning-model.md)
 
 [[organizing-in-the-natural-planning-model]]
 

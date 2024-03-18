@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "allen-2022.md",
+                "file": "actionable-items-can-only-be-organized-into-one-of-three-places.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d239c2dd211825f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "distributed-cognition.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "allen-2022.md",
+                "file": "actionable-items-can-only-be-organized-into-one-of-three-places.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "allen-2022.md",
+                "file": "actionable-items-can-only-be-organized-into-one-of-three-places.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "allen-2022.md"
+                "file": "actionable-items-can-only-be-organized-into-one-of-three-places.md"
               }
             }
           }
@@ -129,32 +141,32 @@
   },
   "active": "c6b5c89d957b3987",
   "lastOpenFiles": [
-    "next-action-lists-should-be-context-based.md",
+    "the-natural-planning-model.md",
+    "distributed-cognition.md",
+    "write-things-down-to-reduce-the-load-on-the-brain.md",
+    "brainstorming-is-terrible.md",
+    "brainstorming-in-the-natural-planning-model.md",
     "allen-2022.md",
+    "next-action-lists-should-be-context-based.md",
     "notes-should-be-named-in-the-context-you-wish-to-retrieve-them.md",
     "willpower-is-a-limited-resource.md",
     "over-confidence-bias--people-cannot-estimate.md",
     "law-of-parkinson--work-takes-the-time-given-to-it.md",
     "do-not-estimate-time-based-on-outcome.md",
     "vision-of-the-natural-planning-model.md",
-    "brainstorming-in-the-natural-planning-model.md",
     "avoid-taking-pure-reference-notes.md",
     "literature-notes.md",
     "reducing-complexity-by-organizing-into-topics-does-not-work.md",
     "ahrens-2022.md",
     "skelton-and-pais-2019.md",
     "$Bibliography.md",
-    "write-things-down-to-reduce-the-load-on-the-brain.md",
-    "distributed-cognition.md",
     "next-action-list-should-only-contain-actions-that-can-be-taken.md",
     "define-the-next-action-for-everything-you-plan-to-do.md",
     "gtd-workflow.md",
     "planning-with-the-next-actions.md",
     "efficiently-capturing-things-on-your-mind.md",
     "2-minute-rule.md",
-    "the-natural-planning-model.md",
     "principles-of-the-natural-planning-model.md",
-    "emergency-scanning.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
