@@ -46,7 +46,7 @@ Ahrens, S. (2022). _How to Take Smart Notes: One Simple Technique to Boost Writi
 
 [many-factors-can-impact-ego-depletion](many-factors-can-impact-ego-depletion.md)
 
-[making-decisions-deplete-the-ego](making-decisions-deplete-the-ego.md)
+[making-decisions-depletes-the-ego](making-decisions-depletes-the-ego.md)
 
 [avoid-taking-pure-reference-notes](avoid-taking-pure-reference-notes.md)
 

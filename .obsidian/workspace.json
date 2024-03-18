@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "975c3638dcbf79aa",
+        "id": "867ac134c01b77cd",
         "type": "tabs",
         "children": [
           {
-            "id": "c6b5c89d957b3987",
+            "id": "8156155099eb60f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "next-actions-only-go-into-one-of-three-places.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d239c2dd211825f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "distributed-cognition.md",
+                "file": "allen-2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "next-actions-only-go-into-one-of-three-places.md",
+                "file": "allen-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "next-actions-only-go-into-one-of-three-places.md",
+                "file": "allen-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "next-actions-only-go-into-one-of-three-places.md"
+                "file": "allen-2022.md"
               }
             }
           }
@@ -139,10 +126,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c6b5c89d957b3987",
+  "active": "8156155099eb60f7",
   "lastOpenFiles": [
-    "the-natural-planning-model.md",
+    "many-factors-can-impact-ego-depletion.md",
+    "making-decisions-depletes-the-ego.md",
+    "$Questions.md",
+    "next-actions-only-go-into-one-of-three-places.md",
     "distributed-cognition.md",
+    "the-natural-planning-model.md",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
     "brainstorming-is-terrible.md",
     "brainstorming-in-the-natural-planning-model.md",
@@ -163,10 +154,6 @@
     "next-action-list-should-only-contain-actions-that-can-be-taken.md",
     "define-the-next-action-for-everything-you-plan-to-do.md",
     "gtd-workflow.md",
-    "planning-with-the-next-actions.md",
-    "efficiently-capturing-things-on-your-mind.md",
-    "2-minute-rule.md",
-    "principles-of-the-natural-planning-model.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
