@@ -1,0 +1,1 @@
+Notes about other notes are called structure notes or hub notes. These serve as entry points to certain topics, making it easier to navigate the ZK.

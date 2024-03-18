@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "982965756f86b8bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "structure-notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "skelton-pais-2019-team-topologies.md",
+                "file": "structure-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "skelton-pais-2019-team-topologies.md",
+                "file": "structure-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "skelton-pais-2019-team-topologies.md"
+                "file": "structure-notes.md"
               }
             }
           }
@@ -126,8 +139,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8156155099eb60f7",
+  "active": "982965756f86b8bc",
   "lastOpenFiles": [
+    "skelton-pais-2019-team-topologies.md",
+    "structure-notes.md",
     "ahrens-2022-how-to-take-smart-notes.md",
     "allen-2022-getting-things-done.md",
     "many-factors-can-impact-ego-depletion.md",
@@ -149,11 +164,9 @@
     "avoid-taking-pure-reference-notes.md",
     "literature-notes.md",
     "reducing-complexity-by-organizing-into-topics-does-not-work.md",
-    "skelton-pais-2019-team-topologies.md",
     "$Bibliography.md",
     "next-action-list-should-only-contain-actions-that-can-be-taken.md",
     "define-the-next-action-for-everything-you-plan-to-do.md",
-    "gtd-workflow.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
