@@ -1,3 +1,5 @@
+[$Hubs]($Hubs.md)
+
 Optimal workflow for GTD is a 5-step process where you
 
 1. **Capture**: Get things out of your head: [efficiently-capturing-things-on-your-mind](efficiently-capturing-things-on-your-mind.md)

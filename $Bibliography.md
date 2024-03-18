@@ -1,1 +1,1 @@
-This is where texts are stored in the backlinks.
+This is where books are stored in the backlinks.
