@@ -23,9 +23,11 @@
             "id": "17fc7540efc325ff",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "avoid-taking-pure-reference-notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -59,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zettelkasten",
+                "query": "do not take reference",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gtd-weekly-review.md",
+                "file": "avoid-taking-pure-reference-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gtd-weekly-review.md",
+                "file": "avoid-taking-pure-reference-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gtd-weekly-review.md"
+                "file": "avoid-taking-pure-reference-notes.md"
               }
             }
           }
