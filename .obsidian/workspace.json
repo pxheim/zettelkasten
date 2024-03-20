@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17fc7540efc325ff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +137,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0cff104491c50ab8",
+  "active": "17fc7540efc325ff",
   "lastOpenFiles": [
     "gtd-workflow.md",
     "gtd-weekly-review.md",
