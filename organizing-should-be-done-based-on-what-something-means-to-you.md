@@ -1,0 +1,1 @@
+Core concept of organizing "stuff" is to put that stuff into categories that mean the same as the stuff does to you. The difficult thing is to figure out what exactly something means to you. E.g. if you decide that something is a reference and you put it where your references go, you've organized  it.

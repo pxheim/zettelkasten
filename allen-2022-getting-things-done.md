@@ -57,18 +57,13 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 TODO: write this note.
 
-[next-action-lists-should-be-context-based](next-action-lists-should-be-context-based.md)
+[[next-action-lists-should-be-context-based]]
 
-Core concept of organizing "stuff" is to put that stuff into categories that mean the same as the stuff does to you. The difficult thing is to figure out what exactly something means to you. E.g. if you decide that something is a reference and you put it where your references go, you've organized  it.
+[[organizing-should-be-done-based-on-what-something-means-to-you]]
 
-There are 7 main categories to keep next-actions in to keep them organized:
-- Proejcts
-- Project support material
-- Calendar actions
-- Next lists
-- Waiting-for lists
-- Reference material
-- Someday / Maybe list.
+[[7-main-ways-where-actions-can-be-organized-into]]
+
+
 
 The calendar tasks are sacred. Only put things into your calendar that really truly need to be done on a specific day / time. It may be tempting to overload the calendar with other things you think you are going to do on a day, but refrain from doing this.
 
@@ -104,4 +99,9 @@ Someday / Maybe lists seem to end up with a few specific categories:
 - Dreams and things you want to do, typically bucket list stuff.
 - Other lists of things like books to read, wines to try, recipes to make, etc.
 
-Use the calendar to remind you to check in on projects at a lat
+Use the calendar to remind you to check in on projects at a later day. It's a useful way to make sure you check in on things you delay. It's also useful to set up reminders for yourself for actions you defer due to internal factors, e.g. "I need to sleep on this before making a decision".
+
+Checklists are a great way to ensure that you follow a procedure when it's new to you, e.g. GTD. These lists can be set up as reminders for you to perform certain actions, or just useful for things you need to start doing.
+
+Order of working with the system should be calendar first, the next actions, then projects, then other lists if you have time.
+
