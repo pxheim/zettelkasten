@@ -58,3 +58,29 @@ A bottom-up approach to changing how an organization works is the best approach.
 TODO: write this note.
 
 [next-action-lists-should-be-context-based](next-action-lists-should-be-context-based.md)
+
+Core concept of organizing "stuff" is to put that stuff into categories that mean the same as the stuff does to you. The difficult thing is to figure out what exactly something means to you.
+
+There are 7 main categories to keep next-actions in to keep them organized:
+- Proejcts
+- Project support material
+- Calendar actions
+- Next lists
+- Waiting-for lists
+- Reference material
+- Someday / Maybe list.
+
+The calendar tasks are sacred. Only put things into your calendar that really truly need to be done on a specific day / time. It may be tempting to overload the calendar with other things you think you are going to do on a day, but refrain from doing this.
+
+You most likely need to split your next-actions into multiple lists. Initially the best way to do this is to split them up into context based lists, e.g.
+- Calls
+- At computer
+- At office
+- At home
+- Errands
+- Anywhere
+- Agendas
+- Read / Review
+This way, you can easily figure out if you can do something or not. Are you at the office, well, that rules out the at home list. Do you have some minutes to spare? Maybe a call would be good.
+
+Agendas are super useful. You should keep a list for each person you interact with. Similarly agendas can be useful 
