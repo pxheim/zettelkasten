@@ -4,13 +4,13 @@ Allen, D. (2019). _Getting Things Done: The Art of Stress-Free Productivity_ (Re
 
 # Notes
 
+[[gtd-workflow]]
+
 [[work-no-longer-has-boundaries]]
 
 [[mind-like-water]]
 
 [[write-things-down-to-reduce-the-load-on-the-brain]]
-
-[[gtd-workflow]]
 
 [[efficiently-capturing-things-on-your-mind]]
 

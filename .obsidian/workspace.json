@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b37f6227f32e77e4",
+        "id": "d6bdfd0fdcbb3c8c",
         "type": "tabs",
         "children": [
           {
-            "id": "84a47d0014fe4ea0",
+            "id": "d8be751d9a0f0275",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "working-with-next-actions.md",
+                "file": "gtd-weekly-review.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "working-with-next-actions.md",
+                "file": "gtd-weekly-review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "working-with-next-actions.md",
+                "file": "gtd-weekly-review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "working-with-next-actions.md"
+                "file": "gtd-weekly-review.md"
               }
             }
           }
@@ -127,20 +127,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "84a47d0014fe4ea0",
+  "active": "d8be751d9a0f0275",
   "lastOpenFiles": [
-    "2-minute-rule.md",
+    "gtd-workflow.md",
+    "organizing-in-the-natural-planning-model.md",
+    "allen-2022-getting-things-done.md",
+    "sorting-next-actions-into-lists.md",
     "working-with-next-actions.md",
+    "projects--stuff-with-multiple-actions.md",
+    "2-minute-rule.md",
     "always-ask-what-is-the-next-action.md",
     "someday-maybe-lists-for-the-future.md",
     "working-with-notes-set-zettelkasten-apart.md",
-    "sorting-next-actions-into-lists.md",
     "use-calendar-for-time-and-date-sensitive-actions.md",
-    "allen-2022-getting-things-done.md",
     "project-support-material.md",
-    "projects--stuff-with-multiple-actions.md",
     "7-main-ways-next-actions-can-be-organized.md",
-    "gtd-workflow.md",
     "efficiently-capturing-things-on-your-mind.md",
     "use-agendas-to-organize-personal-relations.md",
     "distributed-cognition.md",
@@ -154,7 +155,6 @@
     "learn-all-the-rules-so-you-can-deviate-from-them.md",
     "$Hubs.md",
     "gtd-on-a-company-level.md",
-    "$Bibliography.md",
     "Untitled.canvas",
     "$projects",
     "$todo",

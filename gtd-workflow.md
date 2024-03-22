@@ -7,7 +7,7 @@ Optimal workflow for GTD is a 5-step process where you
 
 1. **Capture**: Get everything out of your head: [[efficiently-capturing-things-on-your-mind]]
 2. **Clarify**: Define a next-action everything: [[working-with-next-actions]]
-3. **Organize**: Make a reminder for the things. [[working-with-next-actions]]
-4. **Reflect**: Keep your things up to date.
+3. **Organize**: Make a reminder for the things: [[organizing-your-work]]
+4. **Reflect**: Keep your things up to date: [[gtd-weekly-review]]
 5. **Engage**: Do the right next-action.
 
