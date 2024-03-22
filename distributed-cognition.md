@@ -4,6 +4,6 @@ This is called distributed cognition.
 
 You don't think and then write it down, you think _with_ the paper. It's a tool to facilitate thinking.
 
-[zeigarnik-effect--unfinished-things-remain-in-our-brain](zeigarnik-effect--unfinished-things-remain-in-our-brain.md)
+[[zeigarnik-effect--unfinished-things-remain-in-our-brain]]
 
-[write-things-down-to-reduce-the-load-on-the-brain](write-things-down-to-reduce-the-load-on-the-brain.md)
+[[write-things-down-to-reduce-the-load-on-the-brain]]

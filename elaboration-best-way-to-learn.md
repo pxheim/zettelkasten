@@ -5,4 +5,4 @@ To elaborate on somehting,
 1. Think about it enough to the point where you can make a note about it.
 2. Consider what the note means when applied in different contexts.
 
-[confront-yourself-with-the-information-you-think-you-know](confront-yourself-with-the-information-you-think-you-know.md)
+[[confront-yourself-with-the-information-you-think-you-know]]

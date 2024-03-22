@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "107620bcdc54404f",
+        "id": "2dfaaccd78697951",
         "type": "tabs",
         "children": [
           {
-            "id": "901fc5acdea27548",
+            "id": "0415ba1f93938ebd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-criteria-model-for-setting-priorities.md",
+                "file": "distributed-cognition.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-criteria-model-for-setting-priorities.md",
+                "file": "distributed-cognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-criteria-model-for-setting-priorities.md",
+                "file": "distributed-cognition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-criteria-model-for-setting-priorities.md"
+                "file": "distributed-cognition.md"
               }
             }
           }
@@ -126,17 +126,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "901fc5acdea27548",
+  "active": "0415ba1f93938ebd",
   "lastOpenFiles": [
+    "do-not-estimate-time-based-on-outcome.md",
+    "efficiently-capturing-things-on-your-mind.md",
+    "distributed-cognition.md",
+    "willpower-is-a-limited-resource.md",
+    "change-the-environment-to-preserve-willpower.md",
+    "change-workflow-when-adapting-new-tool.md",
+    "calendar-for-efficient-reminders.md",
+    "be-comfortable-not-doing-something.md",
+    "avoid-taking-pure-reference-notes.md",
+    "gtd-does-not-work-for-academic-writing.md",
     "gtd-workflow.md",
     "4-criteria-model-for-setting-priorities.md",
+    "sorting-next-actions-into-lists.md",
     "allen-2022-getting-things-done.md",
     "2-minute-rule.md",
     "law-of-parkinson--work-takes-the-time-given-to-it.md",
     "gtd-weekly-review.md",
     "stuff-is-organized-when-its-put-in-the-place-that-mean.md",
     "the-natural-planning-model.md",
-    "distributed-cognition.md",
     "organizing-in-the-natural-planning-model.md",
     "brainstorming-in-the-natural-planning-model.md",
     "vision-of-the-natural-planning-model.md",
@@ -144,16 +154,6 @@
     "purpose-of-the-natural-planning-model.md",
     "$Hubs.md",
     "waiting-for-lists.md",
-    "use-agendas-to-organize-personal-relations.md",
-    "sorting-next-actions-into-lists.md",
-    "someday-maybe-lists-for-the-future.md",
-    "organizing-your-work.md",
-    "work-no-longer-has-boundaries.md",
-    "always-ask-what-is-the-next-action.md",
-    "working-with-next-actions.md",
-    "gtd-does-not-work-for-academic-writing.md",
-    "organize-based-on-what-something-means-to-you.md",
-    "projects--stuff-with-multiple-actions.md",
     "Untitled.canvas",
     "$projects",
     "$todo",

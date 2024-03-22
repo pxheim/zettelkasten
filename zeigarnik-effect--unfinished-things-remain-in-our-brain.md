@@ -1,6 +1,6 @@
-We are more likely to remember unfinished tasks vs. finished ones under certain circumstances. According to [allen-2022-getting-things-done](allen-2022-getting-things-done.md) this causes an open-loop in our brain, i.e. something that we keep thinking about and that takes up mental energy. This can be remedied by writing it down. The brain does not distinguish between completed tasks and those that have been properly postponed.
+We are more likely to remember unfinished tasks vs. finished ones under certain circumstances. According to [[allen-2022-getting-things-done]] this causes an open-loop in our brain, i.e. something that we keep thinking about and that takes up mental energy. This can be remedied by writing it down. The brain does not distinguish between completed tasks and those that have been properly postponed.
 
-[write-things-down-to-reduce-the-load-on-the-brain](write-things-down-to-reduce-the-load-on-the-brain.md)
+[[write-things-down-to-reduce-the-load-on-the-brain]]
 
-[distributed-cognition](distributed-cognition.md)
+[[distributed-cognition]]
 
