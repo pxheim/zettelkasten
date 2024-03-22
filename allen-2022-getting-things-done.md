@@ -119,4 +119,11 @@ Bright people procrastinate because the see all the things can consequences of t
 
 Do not mistake lon-term to mean projects in the future. Instead consider them for what they are, projects with more next-actions than normal ones.
 
-Asking what's the next 
+Asking what's the next action promotes clarity, accountability, productivity and empowerment. In other words, you get a sense of what needs to be done and who is going to do it, align on what needs to be done and empowers the people who now has complete control of what actually needs to be done.
+
+All of the ideas of GTD can and should be applies to a company level as well. Makes for a productive org.
+
+The mind is a pattern recognition machine and an amazingly good one at that. However, it's terrible at remembering things. So by realizing this, we externalize the remembering process and let the brain do what it's good at.
+
+Learning GTD is like any other skill. It requires work, practice, training, etc.
+
