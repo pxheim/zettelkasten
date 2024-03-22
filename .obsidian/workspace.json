@@ -13,7 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gtd-workflow.md",
+                "file": "allen-2022-getting-things-done.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d79cfd61a108c653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects-with-multiple-actions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db7c5a05591fb3aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "waiting-for-lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3ea75c045a560bc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "879161c83acf7dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7-main-ways-where-actions-can-be-organized-into.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gtd-workflow.md",
+                "file": "projects-with-multiple-actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gtd-workflow.md",
+                "file": "projects-with-multiple-actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gtd-workflow.md"
+                "file": "projects-with-multiple-actions.md"
               }
             }
           }
@@ -126,13 +169,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0c1d00bbd50ec00b",
+  "active": "d79cfd61a108c653",
   "lastOpenFiles": [
     "allen-2022-getting-things-done.md",
-    "gtd-workflow.md",
-    "next-action-lists-should-be-context-based.md",
+    "organize-personal-relations-with-agendas.md",
+    "gtd-with-emails.md",
     "7-main-ways-where-actions-can-be-organized-into.md",
-    "organizing-should-be-done-based-on-what-something-means-to-you.md",
+    "waiting-for-lists.md",
+    "organize-based-on-what-something-means-to-you.md",
+    "reserve-the-calendar-for-time-and-date-sensitive-actions.md",
+    "next-action-lists-should-be-context-based.md",
+    "gtd-workflow.md",
     "stuff-is-organized-when-its-put-in-the-place-that-mean.md",
     "ahrens-2022-how-to-take-smart-notes.md",
     "structure-notes.md",
@@ -150,10 +197,6 @@
     "gtd-does-not-work-for-academic-writing.md",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
     "distributed-cognition.md",
-    "planning-with-the-next-actions.md",
-    "efficiently-capturing-things-on-your-mind.md",
-    "2-minute-rule.md",
-    "$Questions.md",
     "Untitled.canvas",
     "$projects",
     "$todo",

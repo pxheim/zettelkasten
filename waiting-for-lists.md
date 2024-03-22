@@ -1,0 +1,1 @@
+The waiting for list must always contain a date for when you gave the task to someone, and a due date / reminder for you to follow up on whether the task was completed or not. It does not have to be the deadline for the task, and it might even be best if the reminder is set some time before the deadline.

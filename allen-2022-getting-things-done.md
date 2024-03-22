@@ -22,7 +22,7 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [next-actions-only-go-into-one-of-three-places](next-actions-only-go-into-one-of-three-places.md)
 
-[reserve-the-calendar-for-things-that-are-time-and-date-sensitive](reserve-the-calendar-for-things-that-are-time-and-date-sensitive.md)
+[reserve-the-calendar-for-time-and-date-sensitive-actions](reserve-the-calendar-for-time-and-date-sensitive-actions.md)
 
 [how-to-deal-with-non-actionable-items](how-to-deal-with-non-actionable-items.md)
 
@@ -52,35 +52,22 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [2-minute-rule](2-minute-rule.md)
 
-
-TODO: write this note.
-
 [[next-action-lists-should-be-context-based]]
 
-[[organizing-should-be-done-based-on-what-something-means-to-you]]
+[[organize-based-on-what-something-means-to-you]]
 
 [[7-main-ways-where-actions-can-be-organized-into]]
 
+[[reserve-the-calendar-for-time-and-date-sensitive-actions]]
 
+[[organize-personal-relations-with-agendas]]
 
-The calendar tasks are sacred. Only put things into your calendar that really truly need to be done on a specific day / time. It may be tempting to overload the calendar with other things you think you are going to do on a day, but refrain from doing this.
+[[waiting-for-lists]]
 
-You most likely need to split your next-actions into multiple lists. Initially the best way to do this is to split them up into context based lists, e.g.
-- Calls
-- At computer
-- At office
-- At home
-- Errands
-- Anywhere
-- Agendas
-- Read / Review
-This way, you can easily figure out if you can do something or not. Are you at the office, well, that rules out the at home list. Do you have some minutes to spare? Maybe a call would be good.
+[[gtd-with-emails]]
 
-Agendas are super useful. You should keep a list for each person you interact with. Similarly agendas can be useful to keep for recurring meetings such as standups.
+[[projects-with-multiple-actions]]
 
-The waiting for list must always contain a date for when you gave the task to someone, and a due date / reminder for you to follow up on whether the task was completed or not. It does not have to be the deadline for the task, and it might even be best if the reminder is set some time before the deadline.
-
-GTD advocates keeping email as a separate system as it's probably not going to be efficient to move your emails into other lists. Make some lists in your email software and clarify and organize them directly there.
 
 Almost everything you do turn into projects, i.e. they last a while and require more than 1 next-action to complete. I'ts very important to get all projects down on paper or into software you are using. Problems you wish to solve and things you want to learn are all projects.
 

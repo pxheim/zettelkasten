@@ -1,0 +1,1 @@
+GTD advocates keeping email as a separate system as it's probably not going to be efficient to move your emails into other lists. Make some lists in your email software and clarify and organize them directly there.
