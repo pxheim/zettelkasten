@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "allen-2022-getting-things-done.md",
+                "file": "the-natural-planning-model.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "allen-2022-getting-things-done.md",
+                "file": "the-natural-planning-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "allen-2022-getting-things-done.md",
+                "file": "the-natural-planning-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "allen-2022-getting-things-done.md"
+                "file": "the-natural-planning-model.md"
               }
             }
           }
@@ -183,8 +183,12 @@
   },
   "active": "de2f9cc8eb8ddce5",
   "lastOpenFiles": [
-    "working-with-notes-set-zettelkasten-apart.md",
+    "purpose-of-the-natural-planning-model.md",
+    "the-natural-planning-model.md",
+    "principles-of-the-natural-planning-model.md",
+    "the-reactive-planning-model.md",
     "allen-2022-getting-things-done.md",
+    "working-with-notes-set-zettelkasten-apart.md",
     "create-checklists-for-new-processes.md",
     "7-main-ways-where-actions-can-be-organized-into.md",
     "projects-for-stuff-with-multiple-actions.md",
@@ -205,10 +209,6 @@
     "git-flow.md",
     "git-hub-flow.md",
     "git-lab-flow.md",
-    "gtd-weekly-review.md",
-    "avoid-taking-pure-reference-notes.md",
-    "git-branching-strategies.md",
-    "$Hubs.md",
     "Untitled.canvas",
     "$projects",
     "$todo",

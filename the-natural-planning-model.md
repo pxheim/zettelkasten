@@ -9,6 +9,4 @@ The natural planning model is the way our brains naturally want to plan things, 
 5. organizing - [organizing-in-the-natural-planning-model](organizing-in-the-natural-planning-model.md)
 6. action
 
-The opposite of the natural planning model is the reactive planning model, which is the natural planning model in reverse.
-
-[the-reactive-planning-model](the-reactive-planning-model.md)
+The opposite of the natural planning model is [[the-reactive-planning-model]], which is the natural planning model in reverse.
