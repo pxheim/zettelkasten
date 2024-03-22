@@ -96,4 +96,8 @@ The three first layers of the "Horizon Model" are where the majority of actions 
 
 Lists can include just checklists which remind you to do certain things, e.g. professional focus list.
 
+Two main types of projects that need planning: The ones that are still on your mind even after you defined a next action, and the ones where you get ad-hoc ideas.
 
+Projects that need more planning should have a next action to reflect this, e.g. gather more data about X, research Y, brainstorm about Z, etc. It can also be setting up meetings or talking to people about the project.
+
+System for note-taking needs to facilitate the ability to quickly take notes about everything. Do not worry about organzing just yet.
