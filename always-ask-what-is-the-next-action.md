@@ -1,1 +1,0 @@
-Asking what's the next action promotes clarity, accountability, productivity and empowerment. In other words, you get a sense of what needs to be done and who is going to do it, align on what needs to be done and empowers the people who now has complete control of what actually needs to be done.

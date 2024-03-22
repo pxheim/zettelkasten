@@ -1,74 +1,74 @@
 Ahrens, S. (2022). _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking_ (2nd ed.). SD Books.
 
-[$Bibliography]($Bibliography.md)
+[[$Bibliography]]
 
 # Notes
 
-[willpower-is-a-limited-resource](willpower-is-a-limited-resource.md)
+[[willpower-is-a-limited-resource]]
 
-[change-the-environment-to-preserve-willpower](change-the-environment-to-preserve-willpower.md)
+[[change-the-environment-to-preserve-willpower]]
 
-[change-workflow-when-adapting-new-tool](change-workflow-when-adapting-new-tool.md)
+[[change-workflow-when-adapting-new-tool]]
 
-[good-students-go-beyond-what-they-know](good-students-go-beyond-what-they-know.md)
+[[good-students-go-beyond-what-they-know]]
 
-[reducing-complexity-by-organizing-into-topics-does-not-work](reducing-complexity-by-organizing-into-topics-does-not-work.md)
+[[reducing-complexity-by-organizing-into-topics-does-not-work]]
 
-[gtd-does-not-work-for-academic-writing](gtd-does-not-work-for-academic-writing)
+[[gtd-does-not-work-for-academic-writing]]
 
-[everything-needs-to-be-taken-care-of](everything-needs-to-be-taken-care-of.md)
+[[everything-needs-to-be-taken-care-of]]
 
-[work-environment-needs-to-be-flexible](work-environment-needs-to-be-flexible.md)
+[[work-environment-needs-to-be-flexible]]
 
-[working-with-notes-set-zettelkasten-apart](working-with-notes-set-zettelkasten-apart.md)
+[[working-with-notes-set-zettelkasten-apart]]
 
-[reference-notes](reference-notes.md)
+[[reference-notes]]
 
-[literature-notes](literature-notes.md)
+[[literature-notes]]
 
-[permanent-notes](permanent-notes.md)
+[[permanent-notes]]
 
-[reducing-complexity-by-organizing-into-topics-does-not-work](reducing-complexity-by-organizing-into-topics-does-not-work.md)
+[[reducing-complexity-by-organizing-into-topics-does-not-work]]
 
-[brainstorming-is-terrible](brainstorming-is-terrible.md)
+[[brainstorming-is-terrible]]
 
-[trick-the-brain-into-enjoying-what-it's-doing](trick-the-brain-into-enjoying-what-it's-doing.md)
+[[trick-the-brain-into-enjoying-what-it's-doing]]
 
-[praise-people-for-what-is-done-not-who-they-are](praise-people-for-what-is-done-not-who-they-are.md)
+[[praise-people-for-what-is-done-not-who-they-are]]
 
-[multitasking-makes-you-less-productive-and-unable-to-multitask](multitasking-makes-you-less-productive-and-unable-to-multitask.md)
+[[multitasking-makes-you-less-productive-and-unable-to-multitask]]
 
-[familiarity-is-not-the-same-as-skill](familiarity-is-not-the-same-as-skill.md)
+[[familiarity-is-not-the-same-as-skill]]
 
-[flexible-focus-increases-productivity](flexible-focus-increases-productivity.md)
+[[flexible-focus-increases-productivity]]
 
-[write-things-down-to-reduce-the-load-on-the-brain](write-things-down-to-reduce-the-load-on-the-brain.md)
+[[write-things-down-to-reduce-the-load-on-the-brain]]
 
-[many-factors-can-impact-ego-depletion](many-factors-can-impact-ego-depletion.md)
+[[many-factors-can-impact-ego-depletion]]
 
-[making-decisions-depletes-the-ego](making-decisions-depletes-the-ego.md)
+[[making-decisions-depletes-the-ego]]
 
-[avoid-taking-pure-reference-notes](avoid-taking-pure-reference-notes.md)
+[[avoid-taking-pure-reference-notes]]
 
-[focus-especially-on-thoughts-that-conflict-with-your-own](focus-especially-on-thoughts-that-conflict-with-your-own.md)
+[[focus-especially-on-thoughts-that-conflict-with-your-own]]
 
-[confront-yourself-with-the-information-you-think-you-know](confront-yourself-with-the-information-you-think-you-know.md)
+[[confront-yourself-with-the-information-you-think-you-know]]
 
-[elaboration-best-way-to-learn](elaboration-best-way-to-learn.md)
+[[elaboration-best-way-to-learn]]
 
-[distributed-cognition](distributed-cognition.md)
+[[distributed-cognition]]
 
-[name-notes-in-the-context-you-wish-to-retrieve-them](name-notes-in-the-context-you-wish-to-retrieve-them.md)
+[[name-notes-in-the-context-you-wish-to-retrieve-them]]
 
-[less-choices-lead-to-increased-productivity](less-choices-lead-to-increased-productivity.md)
+[[less-choices-lead-to-increased-productivity]]
 
-[learn-all-the-rules-so-you-can deviate-from-them](learn-all-the-rules-so-you-can%20deviate-from-them.md)
+[[learn-all-the-rules-so-you-can-deviate-from-them]]
 
-[over-confidence-bias--people-cannot-estimate](over-confidence-bias--people-cannot-estimate.md)
+[[over-confidence-bias--people-cannot-estimate]]
 
-[do-not-estimate-time-based-on-outcome](do-not-estimate-time-based-on-outcome.md)
+[[do-not-estimate-time-based-on-outcome]]
 
-[zeigarnik-effect--unfinished-things-remain-in-our-brain](zeigarnik-effect--unfinished-things-remain-in-our-brain.md)
+[[zeigarnik-effect--unfinished-things-remain-in-our-brain]]
 
-[law-of-parkinson--work-takes-the-time-given-to-it](law-of-parkinson--work-takes-the-time-given-to-it.md)
+[[law-of-parkinson--work-takes-the-time-given-to-it]]
 

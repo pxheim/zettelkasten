@@ -1,54 +1,50 @@
 Allen, D. (2019). _Getting Things Done: The Art of Stress-Free Productivity_ (Revised ed.). Piatkus.
 
-[$Bibliography]($Bibliography.md)
+[[$Bibliography]]
 
 # Notes
 
-[work-no-longer-has-boundaries](work-no-longer-has-boundaries.md)
+[[work-no-longer-has-boundaries]]
 
-[mind-like-water](mind-like-water.md)
+[[mind-like-water]]
 
-[write-things-down-to-reduce-the-load-on-the-brain](write-things-down-to-reduce-the-load-on-the-brain.md)
+[[write-things-down-to-reduce-the-load-on-the-brain]]
 
-[define-the-next-action-for-everything-you-plan-to-do](define-the-next-action-for-everything-you-plan-to-do.md)
+[[gtd-workflow]]
 
-[gtd-workflow](gtd-workflow.md)
+[[efficiently-capturing-things-on-your-mind]]
 
-[efficiently-capturing-things-on-your-mind](efficiently-capturing-things-on-your-mind.md)
+[[projects--stuff-with-multiple-actions]]
 
-[projects--stuff-with-multiple-actions](projects--stuff-with-multiple-actions.md)
+[[gtd--next-actions]]
 
-[[next-actions-only-go-into-one-of-three-places]]
+[[gtd--next-action-lists]]
 
-[reserve-the-calendar-for-time-and-date-sensitive-actions](reserve-the-calendar-for-time-and-date-sensitive-actions.md)
+[[reserve-the-calendar-for-time-and-date-sensitive-actions]]
 
-[how-to-deal-with-non-actionable-items](how-to-deal-with-non-actionable-items.md)
+[[how-to-deal-with-non-actionable-items]]
 
-[review-your-current-workflow-lists-once-a-week](review-your-current-workflow-lists-once-a-week.md)
+[[review-your-current-workflow-lists-once-a-week]]
 
-[horizontal-focus](horizontal-focus.md)
+[[horizontal-focus]]
 
-[the-natural-planning-model](the-natural-planning-model.md)
+[[the-natural-planning-model]]
 
-[purpose-of-the-natural-planning-model](purpose-of-the-natural-planning-model.md)
+[[purpose-of-the-natural-planning-model]]
 
-[principles-of-the-natural-planning-model](principles-of-the-natural-planning-model.md)
+[[principles-of-the-natural-planning-model]]
 
-[vision-of-the-natural-planning-model](vision-of-the-natural-planning-model.md)
+[[vision-of-the-natural-planning-model]]
 
-[brainstorming-in-the-natural-planning-model](brainstorming-in-the-natural-planning-model.md)
+[[brainstorming-in-the-natural-planning-model]]
 
-[organizing-in-the-natural-planning-model](organizing-in-the-natural-planning-model.md)
+[[organizing-in-the-natural-planning-model]]
 
-[the-reactive-planning-model](the-reactive-planning-model.md)
+[[the-reactive-planning-model]]
 
-[planning-with-the-next-actions](planning-with-the-next-actions.md)
+[[emergency-scanning]]
 
-[emergency-scanning](emergency-scanning.md)
-
-[2-minute-rule](2-minute-rule.md)
-
-[[next-action-lists-should-be-context-based]]
+[[2-minute-rule]]
 
 [[organize-based-on-what-something-means-to-you]]
 
@@ -90,10 +86,7 @@ System for note-taking needs to facilitate the ability to quickly take notes abo
 
 [[disintegrated-self-trust]]
 
-
 To your brain, every task is equally important so cleaning the attic and complete company merger take up the same amount of mental capacity, just different contexts.
-
-
 
 Always always always ask, even yourself, "what's the next action?". Will change your mind.
 
@@ -101,13 +94,8 @@ Bright people procrastinate because the see all the things can consequences of t
 
 [[long-term-projects]]
 
-[[always-ask-what-is-the-next-action]]
-
 [[gtd-on-a-company-level]]
 
-
-
-The mind is a pattern recognition machine and an amazingly good one at that. However, it's terrible at remembering things. So by realizing this, we externalize the remembering process and let the brain do what it's good at.
+[[the-mind-as-a-pattern-machine]]
 
 Learning GTD is like any other skill. It requires work, practice, training, etc.
-

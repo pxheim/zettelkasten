@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "713838e253748e19",
+        "id": "0ec6ec2e59cef7d2",
         "type": "tabs",
         "children": [
           {
-            "id": "ca6d9c0a19a1dea4",
+            "id": "f98c0eb38fe56f09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-main-ways-actions-can-be-organized.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b34b44acf0eb0900",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f0b504b0c21275ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "define-the-next-action-for-everything-you-plan-to-do.md",
+                "file": "gtd--next-actions.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,11 +57,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 328.5
   },
   "right": {
     "id": "2fcfa59adc960966",
@@ -95,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7-main-ways-actions-can-be-organized.md",
+                "file": "gtd--next-actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7-main-ways-actions-can-be-organized.md",
+                "file": "gtd--next-actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7-main-ways-actions-can-be-organized.md"
+                "file": "gtd--next-actions.md"
               }
             }
           }
@@ -144,34 +127,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ca6d9c0a19a1dea4",
+  "active": "f98c0eb38fe56f09",
   "lastOpenFiles": [
-    "gtd-workflow.md",
-    "efficiently-capturing-things-on-your-mind.md",
+    "allen-2022-getting-things-done.md",
+    "gtd--next-action-lists.md",
+    "gtd--next-actions.md",
+    "next-action-lists-should-be-context-based.md",
     "planning-with-the-next-actions.md",
     "define-the-next-action-for-everything-you-plan-to-do.md",
+    "next-actions-only-go-into-one-of-three-places.md",
+    "always-ask-what-is-the-next-action.md",
+    "7-main-ways-actions-can-be-organized.md",
+    "the-mind-as-a-pattern-machine.md",
+    "law-of-parkinson--work-takes-the-time-given-to-it.md",
+    "ahrens-2022-how-to-take-smart-notes.md",
+    "learn-all-the-rules-so-you-can-deviate-from-them.md",
+    "gtd-workflow.md",
+    "$Hubs.md",
+    "efficiently-capturing-things-on-your-mind.md",
     "2-minute-rule.md",
     "distributed-cognition.md",
-    "$Hubs.md",
-    "always-ask-what-is-the-next-action.md",
-    "allen-2022-getting-things-done.md",
     "gtd-on-a-company-level.md",
     "$Bibliography.md",
-    "ahrens-2022-how-to-take-smart-notes.md",
     "skelton-pais-2019-team-topologies.md",
     "name-notes-in-the-context-you-wish-to-retrieve-them.md",
     "waiting-for-lists.md",
     "projects--stuff-with-multiple-actions.md",
     "4-criteria-model-for-setting-priorities.md",
     "disintegrated-self-trust.md",
-    "delegated-projects.md",
-    "long-term-projects.md",
-    "everything-needs-to-be-taken-care-of.md",
-    "7-main-ways-actions-can-be-organized.md",
-    "the-horizon-model.md",
-    "prioritize-what-to-do-based-on-horizon-system.md",
-    "be-comfortable-not-doing-something.md",
-    "avoid-taking-pure-reference-notes.md",
     "Untitled.canvas",
     "$projects",
     "$todo",

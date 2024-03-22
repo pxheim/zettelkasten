@@ -1,0 +1,1 @@
+The mind is a pattern recognition machine and an amazingly good one at that. However, it's terrible at remembering things. So by realizing this, we externalize the remembering process and let the brain do what it's good at.
