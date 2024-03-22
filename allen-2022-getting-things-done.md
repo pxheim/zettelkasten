@@ -18,7 +18,7 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [efficiently-capturing-things-on-your-mind](efficiently-capturing-things-on-your-mind.md)
 
-[projects-for-stuff-with-multiple-actions](projects-for-stuff-with-multiple-actions.md)
+[projects--stuff-with-multiple-actions](projects--stuff-with-multiple-actions.md)
 
 [next-actions-only-go-into-one-of-three-places](next-actions-only-go-into-one-of-three-places.md)
 
@@ -64,7 +64,7 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [[gtd-with-emails]]
 
-[[projects-for-stuff-with-multiple-actions]]
+[[projects--stuff-with-multiple-actions]]
 
 [[delegated-projects]]
 
@@ -88,19 +88,11 @@ After 2 years of GTD, do a "big picture review" where you consider the larger pi
 
 [[the-horizon-model]]
 
-
-Two main types of projects that need planning: The ones that are still on your mind even after you defined a next action, and the ones where you get ad-hoc ideas.
-
-Projects that need more planning should have a next action to reflect this, e.g. gather more data about X, research Y, brainstorm about Z, etc. It can also be setting up meetings or talking to people about the project.
-
 System for note-taking needs to facilitate the ability to quickly take notes about everything. Do not worry about organizing just yet.
 
-Having too much to do is not the source of negative feelings. The breaking of the agreement or obligation to the things you should do is. ~disintegrated self-trust.
+[[disintegrated-self-trust]]
 
-There are three ways to avoid breaking agreements you've made with yourself.
-- Don't make it in the first place. Saying no is not bad. Shows discipline.
-- Complete it
-- Renegotiate it.
+
 
 To your brain, every task is equally important so cleaning the attic and complete company merger take up the same amount of mental capacity, just different contexts.
 
