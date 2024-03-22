@@ -16,9 +16,11 @@ Allen, D. (2019). _Getting Things Done: The Art of Stress-Free Productivity_ (Re
 
 [[projects--stuff-with-multiple-actions]]
 
-[[gtd--next-actions]]
+[[working-with-next-actions]]
 
 [[gtd--next-action-lists]]
+
+[[gtd--always-ask-what-is-the-next-action]]
 
 [[reserve-the-calendar-for-time-and-date-sensitive-actions]]
 
@@ -48,7 +50,7 @@ Allen, D. (2019). _Getting Things Done: The Art of Stress-Free Productivity_ (Re
 
 [[organize-based-on-what-something-means-to-you]]
 
-[[7-main-ways-actions-can-be-organized]]
+[[7-main-ways-next-actions-can-be-organized]]
 
 [[reserve-the-calendar-for-time-and-date-sensitive-actions]]
 
