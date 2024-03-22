@@ -1,0 +1,1 @@
+Do not mistake long-term to mean projects in the future. Instead consider them for what they are, projects with more next-actions than normal ones.

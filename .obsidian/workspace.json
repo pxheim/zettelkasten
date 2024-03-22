@@ -4,90 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "af6e65678284299c",
+        "id": "c03780acbf8ca737",
         "type": "tabs",
         "children": [
           {
-            "id": "7dbb0c42a2cca302",
+            "id": "62807e7049d58b38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "allen-2022-getting-things-done.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce1c0d182b8f6722",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "disintegrated-self-trust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43bc74982b72f8ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-criteria-model-for-setting-priorities.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7751abc1f79ce599",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "80e253a7380d95fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects--stuff-with-multiple-actions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "406d7f9dfe58b377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "delegated-projects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe8d8dcaa4a1d3b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects--stuff-with-multiple-actions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "projects",
+                "query": "next-action",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "disintegrated-self-trust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "disintegrated-self-trust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "disintegrated-self-trust.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,19 +118,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ce1c0d182b8f6722",
+  "active": "62807e7049d58b38",
   "lastOpenFiles": [
+    "gtd-on-a-company-level.md",
+    "waiting-for-lists.md",
     "allen-2022-getting-things-done.md",
-    "disintegrated-self-trust.md",
+    "always-ask-what-the-next-action-is.md",
     "projects--stuff-with-multiple-actions.md",
+    "4-criteria-model-for-setting-priorities.md",
+    "disintegrated-self-trust.md",
+    "planning-with-the-next-actions.md",
     "delegated-projects.md",
+    "long-term-projects.md",
+    "everything-needs-to-be-taken-care-of.md",
     "7-main-ways-where-actions-can-be-organized-into.md",
     "the-horizon-model.md",
-    "4-criteria-model-for-setting-priorities.md",
     "prioritize-what-to-do-based-on-horizon-system.md",
     "be-comfortable-not-doing-something.md",
     "avoid-taking-pure-reference-notes.md",
-    "waiting-for-lists.md",
     "next-action-lists-should-be-context-based.md",
     "organize-personal-relations-with-agendas.md",
     "gtd-weekly-review.md",
@@ -218,11 +146,6 @@
     "purpose-of-the-natural-planning-model.md",
     "principles-of-the-natural-planning-model.md",
     "the-reactive-planning-model.md",
-    "create-checklists-for-new-processes.md",
-    "calendar-for-efficient-reminders.md",
-    "someday-maybe-lists-for-the-future.md",
-    "project-support-material.md",
-    "gtd-with-emails.md",
     "Untitled.canvas",
     "$projects",
     "$todo",

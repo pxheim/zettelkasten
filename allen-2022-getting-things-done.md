@@ -93,20 +93,21 @@ System for note-taking needs to facilitate the ability to quickly take notes abo
 [[disintegrated-self-trust]]
 
 
-
 To your brain, every task is equally important so cleaning the attic and complete company merger take up the same amount of mental capacity, just different contexts.
 
-Organizations are only as strong as their weakest links, something that also applies to GTD or more generally, communication and responsibility. You cannot force people to adopt GTD, but you can give them info about it and through using GTD yourself you can hold them accountable.
+
 
 Always always always ask, even yourself, "what's the next action?". Will change your mind.
 
 Bright people procrastinate because the see all the things can consequences of the stuff they need to do. Break the cycle by creating specific next actions.
 
-Do not mistake lon-term to mean projects in the future. Instead consider them for what they are, projects with more next-actions than normal ones.
+[[long-term-projects]]
 
-Asking what's the next action promotes clarity, accountability, productivity and empowerment. In other words, you get a sense of what needs to be done and who is going to do it, align on what needs to be done and empowers the people who now has complete control of what actually needs to be done.
+[[always-ask-what-the-next-action-is]]
 
-All of the ideas of GTD can and should be applies to a company level as well. Makes for a productive org.
+[[gtd-on-a-company-level]]
+
+
 
 The mind is a pattern recognition machine and an amazingly good one at that. However, it's terrible at remembering things. So by realizing this, we externalize the remembering process and let the brain do what it's good at.
 

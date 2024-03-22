@@ -7,3 +7,5 @@ Sorting projects into sub-projects can be tempting, but be cautious here. Start 
 A sign that a project you have created require more planning is that that either still on your mind even though you have defined a next action for it, or that you get ad-hoc ideas for this projects when you're out and about. These projects should ideally have a next action to reflect this, e.g. gather more data about X, research Y, brainstorm about Z, etc. It can also be setting up meetings or talking to people about the project.
 
 [[delegated-projects]]
+
+[[long-term-projects]]
