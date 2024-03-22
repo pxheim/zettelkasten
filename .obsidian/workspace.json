@@ -20,19 +20,18 @@
             }
           },
           {
-            "id": "c29e2487b6fd78b4",
+            "id": "43bc74982b72f8ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prioritize-what-to-do-based-on-horizon-system.md",
+                "file": "4-criteria-model-for-setting-priorities.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7751abc1f79ce599",
@@ -44,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "allen-2022-getting-things-done.md",
+                "file": "projects-for-stuff-with-multiple-actions.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "horizon",
+                "query": "projects",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prioritize-what-to-do-based-on-horizon-system.md",
+                "file": "projects-for-stuff-with-multiple-actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prioritize-what-to-do-based-on-horizon-system.md",
+                "file": "projects-for-stuff-with-multiple-actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prioritize-what-to-do-based-on-horizon-system.md"
+                "file": "projects-for-stuff-with-multiple-actions.md"
               }
             }
           }
@@ -158,10 +157,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c29e2487b6fd78b4",
+  "active": "80e253a7380d95fb",
   "lastOpenFiles": [
-    "allen-2022-getting-things-done.md",
+    "7-main-ways-where-actions-can-be-organized-into.md",
     "the-horizon-model.md",
+    "allen-2022-getting-things-done.md",
+    "4-criteria-model-for-setting-priorities.md",
+    "prioritize-what-to-do-based-on-horizon-system.md",
     "be-comfortable-not-doing-something.md",
     "avoid-taking-pure-reference-notes.md",
     "waiting-for-lists.md",
@@ -177,15 +179,12 @@
     "principles-of-the-natural-planning-model.md",
     "the-reactive-planning-model.md",
     "create-checklists-for-new-processes.md",
-    "7-main-ways-where-actions-can-be-organized-into.md",
     "calendar-for-efficient-reminders.md",
     "someday-maybe-lists-for-the-future.md",
     "project-support-material.md",
     "delegated-projects.md",
     "gtd-with-emails.md",
     "organize-based-on-what-something-means-to-you.md",
-    "reserve-the-calendar-for-time-and-date-sensitive-actions.md",
-    "gtd-workflow.md",
     "Untitled.canvas",
     "$projects",
     "$todo",

@@ -28,8 +28,6 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [review-your-current-workflow-lists-once-a-week](review-your-current-workflow-lists-once-a-week.md)
 
-[prioritize-what-to-do-based-on-horizon-system](prioritize-what-to-do-based-on-horizon-system.md)
-
 [horizontal-focus](horizontal-focus.md)
 
 [the-natural-planning-model](the-natural-planning-model.md)
@@ -84,15 +82,12 @@ Order of working with the system should be calendar first, the next actions, the
 
 After 2 years of GTD, do a "big picture review" where you consider the larger picture. You need to have your life in order first before you do this. That takes 2 years.
 
-4 criteria model for choosing actions in the moment is based on context first, which mean your next action should be based on the context you are in. Sort next actions list based on this.
+[[4-criteria-model-for-setting-priorities]]
 
 [[be-comfortable-not-doing-something]]
 
 [[the-horizon-model]]
 
-
-
-Lists can include just checklists which remind you to do certain things, e.g. professional focus list.
 
 Two main types of projects that need planning: The ones that are still on your mind even after you defined a next action, and the ones where you get ad-hoc ideas.
 
