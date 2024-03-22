@@ -32,16 +32,6 @@ Allen, D. (2019). _Getting Things Done: The Art of Stress-Free Productivity_ (Re
 
 [[the-natural-planning-model]]
 
-[[purpose-of-the-natural-planning-model]]
-
-[[principles-of-the-natural-planning-model]]
-
-[[vision-of-the-natural-planning-model]]
-
-[[brainstorming-in-the-natural-planning-model]]
-
-[[organizing-in-the-natural-planning-model]]
-
 [[the-reactive-planning-model]]
 
 [[emergency-scanning]]
@@ -68,11 +58,9 @@ Allen, D. (2019). _Getting Things Done: The Art of Stress-Free Productivity_ (Re
 
 [[calendar-for-efficient-reminders]]
 
-Keeping a reference for things that do not go into ZK needs to happen. E.g. contact information, dates that require no action, etc. It will be very individual how you want to and should store this.
-
 [[create-checklists-for-new-processes]]
 
-Order of working with the system should be calendar first, the next actions, then projects, then other lists if you have time.
+
 
 After 2 years of GTD, do a "big picture review" where you consider the larger picture. You need to have your life in order first before you do this. That takes 2 years.
 
