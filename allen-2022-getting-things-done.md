@@ -82,3 +82,6 @@ Keeping a reference for things that do not go into ZK needs to happen. E.g. cont
 
 Order of working with the system should be calendar first, the next actions, then projects, then other lists if you have time.
 
+After 2 years of GTD, do a "big picture review" where you consider the larger picture. You need to have your life in order first before you do this. That takes 2 years.
+
+4 criteria model for choosing actions in the moment is based on context first, which mean your next action should be based on the context you are in. Sort next actions list based on this.

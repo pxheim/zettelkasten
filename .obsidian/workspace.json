@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the-natural-planning-model.md",
+                "file": "allen-2022-getting-things-done.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the-natural-planning-model.md",
+                "file": "allen-2022-getting-things-done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the-natural-planning-model.md",
+                "file": "allen-2022-getting-things-done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the-natural-planning-model.md"
+                "file": "allen-2022-getting-things-done.md"
               }
             }
           }
@@ -183,8 +183,10 @@
   },
   "active": "de2f9cc8eb8ddce5",
   "lastOpenFiles": [
-    "purpose-of-the-natural-planning-model.md",
+    "ahrens-2022-how-to-take-smart-notes.md",
+    "$Hubs.md",
     "the-natural-planning-model.md",
+    "purpose-of-the-natural-planning-model.md",
     "principles-of-the-natural-planning-model.md",
     "the-reactive-planning-model.md",
     "allen-2022-getting-things-done.md",
@@ -204,11 +206,9 @@
     "next-action-lists-should-be-context-based.md",
     "gtd-workflow.md",
     "stuff-is-organized-when-its-put-in-the-place-that-mean.md",
-    "ahrens-2022-how-to-take-smart-notes.md",
     "structure-notes.md",
     "git-flow.md",
     "git-hub-flow.md",
-    "git-lab-flow.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
