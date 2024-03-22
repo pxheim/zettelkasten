@@ -85,3 +85,7 @@ Order of working with the system should be calendar first, the next actions, the
 After 2 years of GTD, do a "big picture review" where you consider the larger picture. You need to have your life in order first before you do this. That takes 2 years.
 
 4 criteria model for choosing actions in the moment is based on context first, which mean your next action should be based on the context you are in. Sort next actions list based on this.
+
+Consider a list of easy wins for times when you need a little boost. Another good list can be "Brain Gone" for when you no longer have mental energy for complex tasks.
+
+Be comfortable about _not_ doing something. If you have defined all the things in your life and next actions associated with them, and you know you are working on the most important one of those things because you organized and prioritized everything, you can feel Ok _not_ doing something.
