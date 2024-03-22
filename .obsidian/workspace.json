@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calendar-for-efficient-reminders.md",
+                "file": "allen-2022-getting-things-done.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-main-ways-where-actions-can-be-organized-into.md",
+                "file": "working-with-notes-set-zettelkasten-apart.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calendar-for-efficient-reminders.md",
+                "file": "allen-2022-getting-things-done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "calendar-for-efficient-reminders.md",
+                "file": "allen-2022-getting-things-done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calendar-for-efficient-reminders.md"
+                "file": "allen-2022-getting-things-done.md"
               }
             }
           }
@@ -184,15 +183,17 @@
   },
   "active": "de2f9cc8eb8ddce5",
   "lastOpenFiles": [
+    "working-with-notes-set-zettelkasten-apart.md",
     "allen-2022-getting-things-done.md",
+    "create-checklists-for-new-processes.md",
+    "7-main-ways-where-actions-can-be-organized-into.md",
+    "projects-for-stuff-with-multiple-actions.md",
     "calendar-for-efficient-reminders.md",
     "someday-maybe-lists-for-the-future.md",
     "project-support-material.md",
-    "projects-for-stuff-with-multiple-actions.md",
     "delegated-projects.md",
     "organize-personal-relations-with-agendas.md",
     "gtd-with-emails.md",
-    "7-main-ways-where-actions-can-be-organized-into.md",
     "waiting-for-lists.md",
     "organize-based-on-what-something-means-to-you.md",
     "reserve-the-calendar-for-time-and-date-sensitive-actions.md",
@@ -207,9 +208,7 @@
     "gtd-weekly-review.md",
     "avoid-taking-pure-reference-notes.md",
     "git-branching-strategies.md",
-    "working-with-notes-set-zettelkasten-apart.md",
     "$Hubs.md",
-    "skelton-pais-2019-team-topologies.md",
     "Untitled.canvas",
     "$projects",
     "$todo",

@@ -78,9 +78,7 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 Keeping a reference for things that do not go into ZK needs to happen. E.g. contact information, dates that require no action, etc. It will be very individual how you want to and should store this.
 
-
-
-Checklists are a great way to ensure that you follow a procedure when it's new to you, e.g. GTD. These lists can be set up as reminders for you to perform certain actions, or just useful for things you need to start doing.
+[[create-checklists-for-new-processes]]
 
 Order of working with the system should be calendar first, the next actions, then projects, then other lists if you have time.
 

@@ -1,0 +1,1 @@
+Checklists are a great way to ensure that you follow a procedure when it's new to you, e.g. GTD. These lists can be set up as reminders for you to perform certain actions, or just useful for things you need to start doing.
