@@ -86,13 +86,11 @@ After 2 years of GTD, do a "big picture review" where you consider the larger pi
 
 4 criteria model for choosing actions in the moment is based on context first, which mean your next action should be based on the context you are in. Sort next actions list based on this.
 
-Consider a list of easy wins for times when you need a little boost. Another good list can be "Brain Gone" for when you no longer have mental energy for complex tasks.
+[[be-comfortable-not-doing-something]]
 
-Be comfortable about _not_ doing something. If you have defined all the things in your life and next actions associated with them, and you know you are working on the most important one of those things because you organized and prioritized everything, you can feel fine _not_ doing something. Very useful when dealing with interrupting tasks - you can feel comfortable saying no to something, or you can consciously choose to do something other than what you are doing now.
+[[the-horizon-model]]
 
-Considering the "Horizon Model", counterintuitively, a bottom up approach is often the best. Clear the most immediate things to free your mind to think about the broader topics. If your boat is sinking, it does not matter what direction it's pointing.
 
-The three first layers of the "Horizon Model" are where the majority of actions come from. Level 2 are your focus areas or areas of responsibility, either at home or at work. These create projects for Level 1, which in turn create actions for the ground level. Make it a habit (or checklist) to review level 2 often.
 
 Lists can include just checklists which remind you to do certain things, e.g. professional focus list.
 
