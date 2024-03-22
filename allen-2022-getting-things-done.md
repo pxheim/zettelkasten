@@ -18,7 +18,7 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [efficiently-capturing-things-on-your-mind](efficiently-capturing-things-on-your-mind.md)
 
-[projects-with-multiple-actions](projects-with-multiple-actions.md)
+[projects-for-stuff-with-multiple-actions](projects-for-stuff-with-multiple-actions.md)
 
 [next-actions-only-go-into-one-of-three-places](next-actions-only-go-into-one-of-three-places.md)
 
@@ -66,25 +66,19 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [[gtd-with-emails]]
 
-[[projects-with-multiple-actions]]
+[[projects-for-stuff-with-multiple-actions]]
 
+[[delegated-projects]]
 
-Almost everything you do turn into projects, i.e. they last a while and require more than 1 next-action to complete. I'ts very important to get all projects down on paper or into software you are using. Problems you wish to solve and things you want to learn are all projects.
+[[project-support-material]]
 
-Sorting projects into sub-projects can be tempting, but be cautious here. Start off simple with one project first, even if the list is long.
+[[someday-maybe-lists-for-the-future]]
 
-Delegated projects are a hybrid between a project and a waiting for item. They are useful to keep around for managers that delegate a lot of work.
-
-Projects often come with support material. Very often this is project specific and does not have to go into ZK unless relevant. Sort this information in each specific project as project reference material.
+[[calendar-for-efficient-reminders]]
 
 Keeping a reference for things that do not go into ZK needs to happen. E.g. contact information, dates that require no action, etc. It will be very individual how you want to and should store this.
 
-Someday / Maybe lists seem to end up with a few specific categories:
-- Projects you're not going to work on for the next 5-6 months.
-- Dreams and things you want to do, typically bucket list stuff.
-- Other lists of things like books to read, wines to try, recipes to make, etc.
 
-Use the calendar to remind you to check in on projects at a later day. It's a useful way to make sure you check in on things you delay. It's also useful to set up reminders for yourself for actions you defer due to internal factors, e.g. "I need to sleep on this before making a decision".
 
 Checklists are a great way to ensure that you follow a procedure when it's new to you, e.g. GTD. These lists can be set up as reminders for you to perform certain actions, or just useful for things you need to start doing.
 

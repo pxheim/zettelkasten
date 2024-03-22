@@ -1,0 +1,1 @@
+Projects often come with support material. Very often this is project specific and does not have to go into ZK unless relevant. Sort this information in each specific project as project reference material.

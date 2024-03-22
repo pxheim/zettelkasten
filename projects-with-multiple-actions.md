@@ -1,1 +1,0 @@
-Projects are things that take several next-actions over a longer period of time to complete. Doing enough of the next actions will eventually complete the project. They can be things like "renovate the bedroom". These should be kept separate, but you should still define the next action for them!
