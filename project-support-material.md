@@ -1,1 +1,1 @@
-Projects often come with support material. Very often this is project specific and does not have to go into ZK unless relevant. Sort this information in each specific project as project reference material.
+Project support material is material that's only relevant to a specific project and, thus, should be kept along with it. When closing a project evaluate whether some parts of this reference material should be going into your permanent reference system.

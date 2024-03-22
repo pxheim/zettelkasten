@@ -8,13 +8,16 @@ When thinking about what you need to do, it's often tempting to just do the acti
 
 An example of a poorly defined next-action might be to "clean the garden shed", whereas the actual next physical action should be something like "drive the bags of trash to IVAR".
 
-When a stuff has been given a next-action, it should be organized into one of three possible places:
+There are 7 main categories to keep next-actions in to keep them organized:
 
-1. Calendar for time / day specific events. [[use-calendar-for-time-and-date-sensitive-actions]]
-2. Next-action lists [[sorting-next-actions-into-lists]]
-3. Waiting for lists. [[waiting-for-lists]]
+- Projects [[projects--stuff-with-multiple-actions]]
+- Project support material: [[project-support-material]]
+- Calendar actions: [[use-calendar-for-time-and-date-sensitive-actions]]
+- Next lists: [[sorting-next-actions-into-lists]]
+- Waiting-for lists: [[waiting-for-lists]]
+- Reference material: [[working-with-notes-set-zettelkasten-apart]]
+- Someday / Maybe list: [[someday-maybe-lists-for-the-future]]
 
 A great habit to get into, regardless or whether you are clarifying your projects or not is to [[always-ask-what-is-the-next-action]].
-
 
 

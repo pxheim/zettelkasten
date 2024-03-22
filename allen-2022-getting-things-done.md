@@ -50,7 +50,7 @@ Allen, D. (2019). _Getting Things Done: The Art of Stress-Free Productivity_ (Re
 
 [[organize-based-on-what-something-means-to-you]]
 
-[[7-main-ways-next-actions-can-be-organized]]
+[[working-with-next-actions]]
 
 [[use-calendar-for-time-and-date-sensitive-actions]]
 

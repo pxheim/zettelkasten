@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c2982a2732dc8d06",
+        "id": "b37f6227f32e77e4",
         "type": "tabs",
         "children": [
           {
-            "id": "bfda7a00ddff8f0d",
+            "id": "84a47d0014fe4ea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "allen-2022-getting-things-done.md",
+                "file": "working-with-next-actions.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "allen-2022-getting-things-done.md",
+                "file": "working-with-next-actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "allen-2022-getting-things-done.md",
+                "file": "working-with-next-actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "allen-2022-getting-things-done.md"
+                "file": "working-with-next-actions.md"
               }
             }
           }
@@ -127,20 +127,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bfda7a00ddff8f0d",
+  "active": "84a47d0014fe4ea0",
   "lastOpenFiles": [
-    "7-main-ways-next-actions-can-be-organized.md",
-    "sorting-next-actions-into-lists.md",
+    "2-minute-rule.md",
     "working-with-next-actions.md",
+    "always-ask-what-is-the-next-action.md",
+    "someday-maybe-lists-for-the-future.md",
+    "working-with-notes-set-zettelkasten-apart.md",
+    "sorting-next-actions-into-lists.md",
+    "use-calendar-for-time-and-date-sensitive-actions.md",
+    "allen-2022-getting-things-done.md",
+    "project-support-material.md",
+    "projects--stuff-with-multiple-actions.md",
+    "7-main-ways-next-actions-can-be-organized.md",
     "gtd-workflow.md",
     "efficiently-capturing-things-on-your-mind.md",
-    "allen-2022-getting-things-done.md",
     "use-agendas-to-organize-personal-relations.md",
     "distributed-cognition.md",
-    "always-ask-what-is-the-next-action.md",
-    "use-calendar-for-time-and-date-sensitive-actions.md",
-    "projects--stuff-with-multiple-actions.md",
-    "2-minute-rule.md",
     "next-action-lists-should-be-context-based.md",
     "planning-with-the-next-actions.md",
     "define-the-next-action-for-everything-you-plan-to-do.md",
@@ -152,9 +155,6 @@
     "$Hubs.md",
     "gtd-on-a-company-level.md",
     "$Bibliography.md",
-    "skelton-pais-2019-team-topologies.md",
-    "name-notes-in-the-context-you-wish-to-retrieve-them.md",
-    "waiting-for-lists.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
