@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "c03780acbf8ca737",
+        "id": "713838e253748e19",
         "type": "tabs",
         "children": [
           {
-            "id": "62807e7049d58b38",
+            "id": "ca6d9c0a19a1dea4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "7-main-ways-actions-can-be-organized.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b34b44acf0eb0900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0b504b0c21275ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "define-the-next-action-for-everything-you-plan-to-do.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7-main-ways-actions-can-be-organized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7-main-ways-actions-can-be-organized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7-main-ways-actions-can-be-organized.md"
+              }
             }
           }
         ]
@@ -118,34 +144,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "62807e7049d58b38",
+  "active": "ca6d9c0a19a1dea4",
   "lastOpenFiles": [
-    "gtd-on-a-company-level.md",
-    "waiting-for-lists.md",
+    "gtd-workflow.md",
+    "efficiently-capturing-things-on-your-mind.md",
+    "planning-with-the-next-actions.md",
+    "define-the-next-action-for-everything-you-plan-to-do.md",
+    "2-minute-rule.md",
+    "distributed-cognition.md",
+    "$Hubs.md",
+    "always-ask-what-is-the-next-action.md",
     "allen-2022-getting-things-done.md",
-    "always-ask-what-the-next-action-is.md",
+    "gtd-on-a-company-level.md",
+    "$Bibliography.md",
+    "ahrens-2022-how-to-take-smart-notes.md",
+    "skelton-pais-2019-team-topologies.md",
+    "name-notes-in-the-context-you-wish-to-retrieve-them.md",
+    "waiting-for-lists.md",
     "projects--stuff-with-multiple-actions.md",
     "4-criteria-model-for-setting-priorities.md",
     "disintegrated-self-trust.md",
-    "planning-with-the-next-actions.md",
     "delegated-projects.md",
     "long-term-projects.md",
     "everything-needs-to-be-taken-care-of.md",
-    "7-main-ways-where-actions-can-be-organized-into.md",
+    "7-main-ways-actions-can-be-organized.md",
     "the-horizon-model.md",
     "prioritize-what-to-do-based-on-horizon-system.md",
     "be-comfortable-not-doing-something.md",
     "avoid-taking-pure-reference-notes.md",
-    "next-action-lists-should-be-context-based.md",
-    "organize-personal-relations-with-agendas.md",
-    "gtd-weekly-review.md",
-    "working-with-notes-set-zettelkasten-apart.md",
-    "ahrens-2022-how-to-take-smart-notes.md",
-    "$Hubs.md",
-    "the-natural-planning-model.md",
-    "purpose-of-the-natural-planning-model.md",
-    "principles-of-the-natural-planning-model.md",
-    "the-reactive-planning-model.md",
     "Untitled.canvas",
     "$projects",
     "$todo",

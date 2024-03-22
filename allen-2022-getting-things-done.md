@@ -12,15 +12,13 @@ Allen, D. (2019). _Getting Things Done: The Art of Stress-Free Productivity_ (Re
 
 [define-the-next-action-for-everything-you-plan-to-do](define-the-next-action-for-everything-you-plan-to-do.md)
 
-A bottom-up approach to changing how an organization works is the best approach. High flying, top-down commitments usually get lost as people are too focused on their day-to-day actions.
-
 [gtd-workflow](gtd-workflow.md)
 
 [efficiently-capturing-things-on-your-mind](efficiently-capturing-things-on-your-mind.md)
 
 [projects--stuff-with-multiple-actions](projects--stuff-with-multiple-actions.md)
 
-[next-actions-only-go-into-one-of-three-places](next-actions-only-go-into-one-of-three-places.md)
+[[next-actions-only-go-into-one-of-three-places]]
 
 [reserve-the-calendar-for-time-and-date-sensitive-actions](reserve-the-calendar-for-time-and-date-sensitive-actions.md)
 
@@ -54,7 +52,7 @@ A bottom-up approach to changing how an organization works is the best approach.
 
 [[organize-based-on-what-something-means-to-you]]
 
-[[7-main-ways-where-actions-can-be-organized-into]]
+[[7-main-ways-actions-can-be-organized]]
 
 [[reserve-the-calendar-for-time-and-date-sensitive-actions]]
 
@@ -103,7 +101,7 @@ Bright people procrastinate because the see all the things can consequences of t
 
 [[long-term-projects]]
 
-[[always-ask-what-the-next-action-is]]
+[[always-ask-what-is-the-next-action]]
 
 [[gtd-on-a-company-level]]
 

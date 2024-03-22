@@ -58,7 +58,7 @@ Ahrens, S. (2022). _How to Take Smart Notes: One Simple Technique to Boost Writi
 
 [distributed-cognition](distributed-cognition.md)
 
-[notes-should-be-named-in-the-context-you-wish-to-retrieve-them](notes-should-be-named-in-the-context-you-wish-to-retrieve-them.md)
+[name-notes-in-the-context-you-wish-to-retrieve-them](name-notes-in-the-context-you-wish-to-retrieve-them.md)
 
 [less-choices-lead-to-increased-productivity](less-choices-lead-to-increased-productivity.md)
 
