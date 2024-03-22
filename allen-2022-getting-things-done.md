@@ -48,9 +48,7 @@ Allen, D. (2019). _Getting Things Done: The Art of Stress-Free Productivity_ (Re
 
 [[2-minute-rule]]
 
-[[organize-based-on-what-something-means-to-you]]
-
-[[working-with-next-actions]]
+[[organizing-your-work]]
 
 [[use-calendar-for-time-and-date-sensitive-actions]]
 
