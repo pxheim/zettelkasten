@@ -100,4 +100,23 @@ Two main types of projects that need planning: The ones that are still on your m
 
 Projects that need more planning should have a next action to reflect this, e.g. gather more data about X, research Y, brainstorm about Z, etc. It can also be setting up meetings or talking to people about the project.
 
-System for note-taking needs to facilitate the ability to quickly take notes about everything. Do not worry about organzing just yet.
+System for note-taking needs to facilitate the ability to quickly take notes about everything. Do not worry about organizing just yet.
+
+Having too much to do is not the source of negative feelings. The breaking of the agreement or obligation to the things you should do is. ~disintegrated self-trust.
+
+There are three ways to avoid breaking agreements you've made with yourself.
+- Don't make it in the first place. Saying no is not bad. Shows discipline.
+- Complete it
+- Renegotiate it.
+
+To your brain, every task is equally important so cleaning the attic and complete company merger take up the same amount of mental capacity, just different contexts.
+
+Organizations are only as strong as their weakest links, something that also applies to GTD or more generally, communication and responsibility. You cannot force people to adopt GTD, but you can give them info about it and through using GTD yourself you can hold them accountable.
+
+Always always always ask, even yourself, "what's the next action?". Will change your mind.
+
+Bright people procrastinate because the see all the things can consequences of the stuff they need to do. Break the cycle by creating specific next actions.
+
+Do not mistake lon-term to mean projects in the future. Instead consider them for what they are, projects with more next-actions than normal ones.
+
+Asking what's the next 
