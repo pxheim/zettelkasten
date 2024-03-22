@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "allen-2022-getting-things-done.md",
+                "file": "gtd-workflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "allen-2022-getting-things-done.md",
+                "file": "gtd-workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "allen-2022-getting-things-done.md",
+                "file": "gtd-workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "allen-2022-getting-things-done.md"
+                "file": "gtd-workflow.md"
               }
             }
           }
@@ -128,12 +128,12 @@
   },
   "active": "0c1d00bbd50ec00b",
   "lastOpenFiles": [
-    "next-action-lists-should-be-context-based.md",
     "allen-2022-getting-things-done.md",
+    "gtd-workflow.md",
+    "next-action-lists-should-be-context-based.md",
     "7-main-ways-where-actions-can-be-organized-into.md",
     "organizing-should-be-done-based-on-what-something-means-to-you.md",
     "stuff-is-organized-when-its-put-in-the-place-that-mean.md",
-    "gtd-workflow.md",
     "ahrens-2022-how-to-take-smart-notes.md",
     "structure-notes.md",
     "git-flow.md",
