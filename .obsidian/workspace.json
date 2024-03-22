@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d6bdfd0fdcbb3c8c",
+        "id": "8a251e3634290e96",
         "type": "tabs",
         "children": [
           {
-            "id": "d8be751d9a0f0275",
+            "id": "6eb057ff1c864715",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gtd-weekly-review.md",
+                "file": "allen-2022-getting-things-done.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gtd-weekly-review.md",
+                "file": "allen-2022-getting-things-done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gtd-weekly-review.md",
+                "file": "allen-2022-getting-things-done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gtd-weekly-review.md"
+                "file": "allen-2022-getting-things-done.md"
               }
             }
           }
@@ -127,11 +127,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d8be751d9a0f0275",
+  "active": "6eb057ff1c864715",
   "lastOpenFiles": [
     "gtd-workflow.md",
-    "organizing-in-the-natural-planning-model.md",
     "allen-2022-getting-things-done.md",
+    "gtd-weekly-review.md",
+    "organizing-in-the-natural-planning-model.md",
     "sorting-next-actions-into-lists.md",
     "working-with-next-actions.md",
     "projects--stuff-with-multiple-actions.md",
@@ -154,7 +155,6 @@
     "ahrens-2022-how-to-take-smart-notes.md",
     "learn-all-the-rules-so-you-can-deviate-from-them.md",
     "$Hubs.md",
-    "gtd-on-a-company-level.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
