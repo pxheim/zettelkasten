@@ -6,7 +6,7 @@ You most likely need to split your next-actions into multiple lists. Initially t
 - At home
 - Errands
 - Anywhere
-- Agendas [[organize-personal-relations-with-agendas]]
+- Agendas [[use-agendas-to-organize-personal-relations]]
 - Read / Review
 
 This way, you can easily figure out if you can do something or not. Are you at the office, well, that rules out the at home list. Do you have some minutes to spare? Maybe a call would be good.

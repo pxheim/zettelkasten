@@ -1,1 +1,0 @@
-Agendas are super useful. You should keep a list for each person you interact with. Similarly agendas can be useful to keep for recurring meetings such as standups.

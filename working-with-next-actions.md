@@ -8,25 +8,13 @@ When thinking about what you need to do, it's often tempting to just do the acti
 
 An example of a poorly defined next-action might be to "clean the garden shed", whereas the actual next physical action should be something like "drive the bags of trash to IVAR".
 
-It's often helpful to sort your next actions into lists: [[gtd--next-action-lists]].
+When a stuff has been given a next-action, it should be organized into one of three possible places:
 
-[[gtd--always-ask-what-is-the-next-action]].
+1. Calendar for time / day specific events. [[use-calendar-for-time-and-date-sensitive-actions]]
+2. Next-action lists [[sorting-next-actions-into-lists]]
+3. Waiting for lists. [[waiting-for-lists]]
 
+A great habit to get into, regardless or whether you are clarifying your projects or not is to [[always-ask-what-is-the-next-action]].
 
-
-
-
-When a project has been given a next-action, it should be organized into one of three possible places:
-
-1. Calendar for time / day specific events.
-2. Next-action lists
-3. Waiting for lists.
-
-
-
-
-
-
-[[distributed-cognition]]
 
 

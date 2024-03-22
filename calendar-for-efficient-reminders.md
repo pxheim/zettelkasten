@@ -2,4 +2,4 @@ Use the calendar to remind you to check in on projects at a later day. It's a us
 
 Remember that the calendar should, however, never contain actions that do not need to be done on a specific day. Reminders are not actions, but there's a fine line between them.
 
-[[reserve-the-calendar-for-time-and-date-sensitive-actions]]
+[[use-calendar-for-time-and-date-sensitive-actions]]
