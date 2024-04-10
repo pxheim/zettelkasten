@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "distributed-cognition.md",
+                "file": "skelton-pais-2019-team-topologies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e25b83fbe3b2acc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "humble-farley-2010-continuous-delivery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a05712d6282b629e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "humble-farley-2010-continuous-delivery.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "distributed-cognition.md",
+                "file": "humble-farley-2010-continuous-delivery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "distributed-cognition.md",
+                "file": "humble-farley-2010-continuous-delivery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "distributed-cognition.md"
+                "file": "humble-farley-2010-continuous-delivery.md"
               }
             }
           }
@@ -126,13 +151,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0415ba1f93938ebd",
+  "active": "a05712d6282b629e",
   "lastOpenFiles": [
+    "skelton-pais-2019-team-topologies.md",
+    "humble-farley-2010-continuous-delivery.md",
+    "$Bibliography.md",
+    "Untitled.md",
+    "distributed-cognition.md",
+    "Untitled 1.md",
+    "_templates",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
     "brainstorming-is-terrible.md",
     "4-criteria-model-for-setting-priorities.md",
     "2-minute-rule.md",
-    "distributed-cognition.md",
     "do-not-estimate-time-based-on-outcome.md",
     "efficiently-capturing-things-on-your-mind.md",
     "willpower-is-a-limited-resource.md",
@@ -149,11 +180,6 @@
     "gtd-weekly-review.md",
     "stuff-is-organized-when-its-put-in-the-place-that-mean.md",
     "the-natural-planning-model.md",
-    "organizing-in-the-natural-planning-model.md",
-    "brainstorming-in-the-natural-planning-model.md",
-    "vision-of-the-natural-planning-model.md",
-    "principles-of-the-natural-planning-model.md",
-    "purpose-of-the-natural-planning-model.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
