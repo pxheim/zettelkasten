@@ -12,3 +12,9 @@ Two main components of delivering high quality software is automation and freque
 3. Feedback must be acted upon.
 
 Feedback most often come in the form of test results.
+
+CI -> QA should not make their own builds, they should use production capable releases. If they build for themselves, their builds might be different from prod candidate.
+
+Every change should lead to a potential RC. If that's not the case, why make the RC in the first place? Test & dev happen at the same time. Different from traditional dev where RC is one of the last steps in the process.
+
+No need to automate everything at once. Incrementally is fine. Almost everything can and should be automated in the end.
