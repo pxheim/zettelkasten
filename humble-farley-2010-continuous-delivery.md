@@ -9,4 +9,6 @@ Two main components of delivering high quality software is automation and freque
 3 key components to good feedback from releases:
 1. Every change should provide feedback.
 2. Should get feedback as soon as possible.
-3. Key components 
+3. Feedback must be acted upon.
+
+Feedback most often come in the form of test results.
