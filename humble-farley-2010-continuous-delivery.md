@@ -132,7 +132,13 @@ Close collaboration between testers and devs are is super important. Testers sho
 1. Keep a bug backlog that should be empty at all times, i.e. zero tolerance for keeping bugs.
 2. Treat bugs as features instead, i.e. they get prioritized and developed just like anything else.
 
+Testing is the responsibility of the whole team.
 
+Rapid feedback is important for CI, but also in GTD. It must come asap, otherwise it's no longer relevant.
+
+A typical deployment pipeline goes through the steps of commit, acceptance, performance, UAT and then production. In other words, devs commit & unit tests are run. If pass, acceptance tests are run, then performance / other automated tests, then we involve manual testers before prod release.
+
+Never recreate binaries within the deployment pipeline. Build once and use the 
 
 
 The 5 step process for improving cycle time is:
