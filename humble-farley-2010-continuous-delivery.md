@@ -89,6 +89,9 @@ For CI to work efficiently, QA needs to work alongside developers. Define a test
 The testing quadrant
 - [ ] Add this.
 
+Happy path is when user does exactly what is intended and no errors occur. Also know as "given", "when", "then". Opposite of sad path.
+
+Automated acceptance tests can be costly to maintain, and can create quite the overhead. A good middle ground is to make automated accepta
 
 
 
