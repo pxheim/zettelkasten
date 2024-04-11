@@ -144,8 +144,24 @@ Use smoke tests (also called deployment tests) to test that your app is running 
 
 The whole team owns a failed build. It's a team after all, and only as strong as it's weakest link.
 
-The commit stage of a deployment pipeline is the first and should at a minimum compile (if needed), run unit tests and critical acceptance tests, create binaries for later and perform non-functional analysis, i.e. coverage, cyclomatic complexity, duplicate code, etc. Shoudl not take more than 5 minutes.
+The commit stage of a deployment pipeline is the first and should at a minimum compile (if needed), run unit tests and critical acceptance tests, create binaries for later and perform non-functional analysis, i.e. coverage, cyclomatic complexity, duplicate code, etc. Should not take more than 5 minutes.
 
+Acceptance testing should test business cases, not technology. If it does, it can become costly and hard to maintain.
+
+Testers should not just do regression tests when given a build. The should validate the acceptance tests, and do exploratory testing (that humans are good at). Good automates tests free up testers to do what they should.
+
+When setting up a new pipeline, first make a skeleton (mock) of all the parts in your value chain, then automate deployment and build, then unit and component tests, then acceptance tests and finally releases.
+
+Get metrics out of your pipeline. The most important is cycle time, i.e. time from feature idea to released to prod. Also measure each step in between. Secondary diagnostics include:
+- Coverage
+- Bugs reported
+- Code metrics
+- Velocity
+- Duration og builds / tests
+- Number of commits
+- Number of builds
+- Number of build failures
+- Size
 
 The 5 step process for improving cycle time is:
 
@@ -154,3 +170,4 @@ The 5 step process for improving cycle time is:
 3. Subordinate others, i.e. force others to help out wherever possible.
 4. Elevate the constraint, i.e. hire more people, add more compute power, etc.
 5. Start from 1 again.
+
