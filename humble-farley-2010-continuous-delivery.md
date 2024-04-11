@@ -176,4 +176,44 @@ All scripts & files needed for the whole deployment pipeline should be in VCS. O
 
 - [ ] Research Domain Driver Design.
 
-Deploying regardless of to prod or beta or anything 
+Deploying regardless of to prod or beta or anything else should use the same deployment script. Config should be refactored out.
+
+Always deploy your whole software from scratch.
+
+Deployment script should leave env. the way it found it, i.e. deployment should be atomic. How can we do this with s3?
+
+If part of a step in the pipeline fails, don't immediately fail the check. Perform all tasks, e.g. unit tests, integration tests, etc and then point out which failed / passed.
+
+- [ ] "Integration hell", time reserved for integrating PRs. Must be done to integrate often. Should be done in time for builds to pass before eod. 
+
+Set up the role of the "build master", which will oversee the status of the build. Usefor to establish good discipline. Role should rotate. Poke people who break the build and get them to fix / revert.
+
+- [ ] James Carr & TDD - read.
+
+An efficient commit stage should take no more than 5 minutes. Do not have any async tests as they are slow. Do not have tests with state. Do not test UI.
+
+A good way of thinking about unit vs acceptance is that unit tests verify that the program does what the developer expects whereas acceptance verifies that it does what the customer wants.
+
+If application is designed w/ smart / dumb components, then when doing acceptance testing, we are only interested in the smart components, thus we can forget about the dumb UI layer. This is good! We do not want to test UI unless we absolutely have to.
+
+Iterative deployment process:
+	1. Analyst, tester & customer work closely to defined and refine acceptance criteria.
+	2. Analyst, tester & dev agree on acceptance criteria to test. This way, testers know what to expect.
+	3. Dev makes feature & consults w/ analyst if anything is unclear.
+	4. Analyst, tester & dev sit together while dev demos the finished feature. Small issues are fixed.
+	5. Tester do the testing.
+
+A kickoff ensures a shared understanding, prevents ivory tower analyst, testers wont raise defects that are unrelated, devs won't make stuff nobody wants.
+
+> Acceptance tests are not just tests, they are executable specifications of the behavior of the program.
+
+Acceptance tests should be written
+- GIVEN (some initial context)
+- WHEN (an even occurs (by some user))
+- THEN (there are some outcomes)
+
+If you have to interact w/ UI for acceptance tests, implement window drivers for the parts you have to deal with. Instead of acting on buttons directly from your tests, go through the window layer instead.
+
+Same applies to application interaction. Make a driver.
+
+Keep state in acceptance tests to a minimum. do not dump state to init a series of tests 
