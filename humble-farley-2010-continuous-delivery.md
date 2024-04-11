@@ -164,10 +164,16 @@ Get metrics out of your pipeline. The most important is cycle time, i.e. time fr
 - Size
 
 The 5 step process for improving cycle time is:
-
 1. Identify the constraint.
 2. Exploit the constraint, i.e. set them up for success.
 3. Subordinate others, i.e. force others to help out wherever possible.
 4. Elevate the constraint, i.e. hire more people, add more compute power, etc.
 5. Start from 1 again.
 
+The data collected must be visible to all parties involved, pref. "in your face". Good idea to visualize it.
+
+All scripts & files needed for the whole deployment pipeline should be in VCS. One for commit stage, one for acceptance, and so on.
+
+- [ ] Research Domain Driver Design.
+
+Deploying regardless of to prod or beta or anything 

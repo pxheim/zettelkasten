@@ -1,4 +1,4 @@
-Git flow is largely considered an outdated git branching metod.
+Git flow is largely considered an outdated git branching method.
 
 A git branching strategy that is based on having a *master* branch with production code, a *develop* branch with code that's in development, *feature* branches for features that are in progress, *release* branches to track releases, and *hotfix* branches to track hotfixes.
 

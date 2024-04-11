@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2dfaaccd78697951",
+        "id": "d357d8481d137730",
         "type": "tabs",
         "children": [
           {
-            "id": "0415ba1f93938ebd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "skelton-pais-2019-team-topologies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e25b83fbe3b2acc5",
+            "id": "730f9b8c047ed65b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,11 +126,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e25b83fbe3b2acc5",
+  "active": "730f9b8c047ed65b",
   "lastOpenFiles": [
-    "skelton-pais-2019-team-topologies.md",
-    "humble-farley-2010-continuous-delivery.md",
     "$Bibliography.md",
+    "$Hubs.md",
+    "2-minute-rule.md",
+    "skelton-pais-2019-team-topologies.md",
+    "git-branching-strategies.md",
+    "git-flow.md",
+    "good-students-go-beyond-what-they-know.md",
+    "git-lab-flow.md",
+    "git-hub-flow.md",
+    "humble-farley-2010-continuous-delivery.md",
     "Untitled.md",
     "distributed-cognition.md",
     "Untitled 1.md",
@@ -151,7 +145,6 @@
     "write-things-down-to-reduce-the-load-on-the-brain.md",
     "brainstorming-is-terrible.md",
     "4-criteria-model-for-setting-priorities.md",
-    "2-minute-rule.md",
     "do-not-estimate-time-based-on-outcome.md",
     "efficiently-capturing-things-on-your-mind.md",
     "willpower-is-a-limited-resource.md",
@@ -162,12 +155,6 @@
     "avoid-taking-pure-reference-notes.md",
     "gtd-does-not-work-for-academic-writing.md",
     "gtd-workflow.md",
-    "sorting-next-actions-into-lists.md",
-    "allen-2022-getting-things-done.md",
-    "law-of-parkinson--work-takes-the-time-given-to-it.md",
-    "gtd-weekly-review.md",
-    "stuff-is-organized-when-its-put-in-the-place-that-mean.md",
-    "the-natural-planning-model.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
