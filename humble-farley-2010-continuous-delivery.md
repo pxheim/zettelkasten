@@ -18,3 +18,4 @@ CI -> QA should not make their own builds, they should use production capable re
 Every change should lead to a potential RC. If that's not the case, why make the RC in the first place? Test & dev happen at the same time. Different from traditional dev where RC is one of the last steps in the process.
 
 No need to automate everything at once. Incrementally is fine. Almost everything can and should be automated in the end.
+
