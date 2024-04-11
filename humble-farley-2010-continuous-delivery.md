@@ -93,6 +93,44 @@ Happy path is when user does exactly what is intended and no errors occur. Also 
 
 Automated acceptance tests can be costly to maintain, and can create quite the overhead. A good middle ground is to make automated acceptance tests for all happy paths mixed with 80% unit test coverage and some acceptance tests for the most important flows. This is the best starting point.
 
+Dialog w/ QA is important to automate all the most common acceptance tests.
+
+Three main types of tests that are made by and for developers, unit, component and deployment tests.
+
+Business facing critique tests often involve testing or showcasing completed features to get feedback for changes.
+
+Nonfunctional acceptance tests test things that are not "features", instead things like capacity, security, load, performance, etc.
+
+Test doubles are parts of tests that simulate some real part of the application. They are
+- Dummies
+- Fake objects
+- Stubs
+- Spies
+- Mocks
+
+INVEST principle for stories:
+- independent,
+- negotiable,
+- valuable,
+- estimable,
+- small,
+- testable
+- [ ] Expand on this.
+
+Involve QA when writing acceptance criteria to ensure that it's testable and properly defined.
+
+Three times you can start adding tests:
+1. New project: Do it and don't skip it. This is the best time to do it.
+2. Midproject: Automate the most common happy paths. More manual testing. Automated any repeated tasks.
+3. Legacy: Test the code you change. Consider if adding tests for the sake of it actually add any value.
+
+When making proper integration tests, you test harness (copy of the system you have to integrate with, e.g. copy of API or similar) should be able to simulate anything that can possibly go wrong that's not under your control. Network outage, garbled responses, etc.
+
+Close collaboration between testers and devs are is super important. Testers should make tests for all cases that devs are working against.
+
+2 ways to manage defects (bugs)
+1. Keep a bug backlog that should be empty at all times, i.e. zero tolerance for keeping bugs.
+2. Treat bugs as features instead, i.e. they get prioritized and developed just like anything else.
 
 
 
