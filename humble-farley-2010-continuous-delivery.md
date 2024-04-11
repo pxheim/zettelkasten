@@ -58,8 +58,36 @@ Simplified 7 step workflow for CI:
 	1. Fail: Fix and go to step 3
 	2. Pass: Rejoice!
 
+Unit tests small pieces of your application in isolation, i.e. a method. These are the fastes and cheapest tests to run.
 
+Component tests test the behavior of several components in your application.
 
+Acceptance tests test against business criteria. Test against the whole app.
+
+Tests must be kept short. If they are not, consider splitting your test process, e.g. one for building & unit tests and another for integration / acceptance.
+
+Lock down versions, even minor ones, to ensure we always have the same dev. environment.
+
+Reporting from CI must be very visible, especially when working as a distributed team. Also make it fun!
+
+Humble and Farley mention that discipline is extremely important for efficient CI. This contradicts setting up env. where you have to use little willpower.
+
+Always run at least some tests locally before committing. Ensures you don't break the build unnecessarily or waste CI resources.
+
+Never go home on a broken build. Fit it or revert it.
+
+Set a time limit for how long someone is allowed to try to fix their build before reverting.
+
+Good test coverage is a requirement for CI, thus TDD is almost a must.
+
+Consider failing builds on things like styleguide issues, warnings, builds taking too long, tests taking too long, etc.
+
+Self thought: PRs are generally anti-CI, but are a necessity. They MUST be kept small. Break down tasks & split PRs by using feature flags, abstractions, etc. Reserve time for deep focus on reviewing PRs.
+
+For CI to work efficiently, QA needs to work alongside developers. Define a testing strategy.
+
+The testing quadrant
+- [ ] Add this.
 
 
 
