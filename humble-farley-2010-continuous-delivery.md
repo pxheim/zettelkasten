@@ -235,3 +235,27 @@ Programmers love to refactor and optimize code, but most often they will do so f
 Capacity testing should test scenarios, not external systems in isolation. A good strategy will be to convert some acceptance tests to capacity tests.
 
 Avoid capacity testing through the UI, despite most common. Makes tests brittle and slow.
+
+Tests should be fast. Unit tests very fast, acceptance tests as fast as they can be. Benchmark the tests & fail if they are taking too long.
+
+Anybody should be able to deploy any version to any (maybe not prod) environment w/ click of a button. Developers should never do the release.
+
+Blue-Green deployment: deploying to a copy of production, say green, while another is active, say blue. When time to update switch routing to green.
+
+Canary releasing: release to prod a new version but only to a small set of users. Get feedback fast.
+
+Cont. deployment to production, i.e. every change that passes all tests will get automatically released to production. Might be a dream state for most, but you should strive to code like your code would be auto released.
+
+Not giving the users an option of whether they want to upgrade their system or not is most often the best idea. Automatic updates should be opt-out.
+
+Crash reporting is an invaluable metric when doing CI/CD.
+
+For ops / QA to be able to able to take over the deployment, they should be involved in making the deployment process.
+
+When deploying, do not delete old files. Move them  / keep a copy of them.
+
+- [ ] Look into symlinks for s3 maybe?
+
+Keep bus factor low, everybody should be able to perform a deployment.
+
+Deployment scripts should include tests to verify that the deployment was a success. These are smoke tests.
