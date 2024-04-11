@@ -19,3 +19,21 @@ Every change should lead to a potential RC. If that's not the case, why make the
 
 No need to automate everything at once. Incrementally is fine. Almost everything can and should be automated in the end.
 
+If there's some process in dev that "hurts", it's often tempting to stop doing it, or do it less. Releasing is typically one of these things. Wrong approach, the things that "hurt", do them more. That's the only way they will hurt less.
+
+"Done" means released to production. If it's not, then it's not done. This means that a developer alone cannot make something some. The whole team w/ QA has to. Everybody is responsible for the delivery process.
+
+A good configuration management must
+- Exactly reproduce any environment you have for your application.
+- Allow incremental changes to any of your environments.
+- See and track all changes done to any environment.
+- Satisfy all compliance regulations.
+- Make it easy for all team members to get all the information they need and make the changes they need to make.
+
+Branching is bad because
+- Breaks with the principles of CI, e.g. it defers merging -- integrating your changes.
+- Many branches == more bad.
+- Merge conflicts.
+- Hard to refactor codebase when it touches a lot of code.
+
+CI only works w/ long commit messages describing what you did in detail. ALSO link to JIRA task or similar. This applies to our PRs more than commit
