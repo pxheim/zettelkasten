@@ -138,7 +138,13 @@ Rapid feedback is important for CI, but also in GTD. It must come asap, otherwis
 
 A typical deployment pipeline goes through the steps of commit, acceptance, performance, UAT and then production. In other words, devs commit & unit tests are run. If pass, acceptance tests are run, then performance / other automated tests, then we involve manual testers before prod release.
 
-Never recreate binaries within the deployment pipeline. Build once and use the 
+Never recreate binaries within the deployment pipeline. Build once and use the same binary throughout. Do not store these in VCS.
+
+Use smoke tests (also called deployment tests) to test that your app is running after deployment.
+
+The whole team owns a failed build. It's a team after all, and only as strong as it's weakest link.
+
+The commit stage of a deployment pipeline is the first and should at a minimum compile (if needed), run unit tests and critical acceptance tests, create binaries for later and perform non-functional analysis, i.e. coverage, cyclomatic complexity, duplicate code, etc. Shoudl not take more than 5 minutes.
 
 
 The 5 step process for improving cycle time is:
