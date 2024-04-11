@@ -91,7 +91,7 @@ The testing quadrant
 
 Happy path is when user does exactly what is intended and no errors occur. Also know as "given", "when", "then". Opposite of sad path.
 
-Automated acceptance tests can be costly to maintain, and can create quite the overhead. A good middle ground is to make automated accepta
+Automated acceptance tests can be costly to maintain, and can create quite the overhead. A good middle ground is to make automated acceptance tests for all happy paths mixed with 80% unit test coverage and some acceptance tests for the most important flows. This is the best starting point.
 
 
 
