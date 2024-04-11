@@ -1,0 +1,1 @@
+The Deployment Pipeline is the process that takes your application from built to deploy to test to release. Will vary greatly from company to company or even app to app.

@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "86f87ce64f0dfd6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "deployment-pipeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "518b7701eb04aee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "deployment-pipeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "humble-farley-2010-continuous-delivery.md",
+                "file": "deployment-pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "humble-farley-2010-continuous-delivery.md",
+                "file": "deployment-pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "humble-farley-2010-continuous-delivery.md"
+                "file": "deployment-pipeline.md"
               }
             }
           }
@@ -126,8 +151,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "730f9b8c047ed65b",
+  "active": "86f87ce64f0dfd6b",
   "lastOpenFiles": [
+    "humble-farley-2010-continuous-delivery.md",
+    "deployment-pipeline.md",
     "$Bibliography.md",
     "$Hubs.md",
     "2-minute-rule.md",
@@ -137,7 +164,6 @@
     "good-students-go-beyond-what-they-know.md",
     "git-lab-flow.md",
     "git-hub-flow.md",
-    "humble-farley-2010-continuous-delivery.md",
     "Untitled.md",
     "distributed-cognition.md",
     "Untitled 1.md",
@@ -154,7 +180,6 @@
     "be-comfortable-not-doing-something.md",
     "avoid-taking-pure-reference-notes.md",
     "gtd-does-not-work-for-academic-writing.md",
-    "gtd-workflow.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
