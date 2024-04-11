@@ -59,9 +59,13 @@ Simplified 7 step workflow for CI:
 
 [[unit-tests]]
 
+[[acceptance-tests]]
+
+[[nonfunctional-acceptance-tests]]
+
 Component tests test the behavior of several components in your application.
 
-Acceptance tests test against business criteria. Test against the whole app.
+
 
 Tests must be kept short. If they are not, consider splitting your test process, e.g. one for building & unit tests and another for integration / acceptance.
 
