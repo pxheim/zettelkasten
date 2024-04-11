@@ -36,4 +36,5 @@ Branching is bad because
 - Merge conflicts.
 - Hard to refactor codebase when it touches a lot of code.
 
-CI only works w/ long commit messages describing what you did in detail. ALSO link to JIRA task or similar. This applies to our PRs more than commit
+CI only works w/ long commit messages describing what you did in detail. ALSO link to JIRA task or similar. This applies to our PRs more than commits in "our flow".
+
