@@ -20,31 +20,18 @@
             }
           },
           {
-            "id": "86f87ce64f0dfd6b",
+            "id": "e9f994e4bbc59ca4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deployment-pipeline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "518b7701eb04aee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deployment-pipeline.md",
+                "file": "ci-requires-a-change-of-mindset.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deployment-pipeline.md",
+                "file": "humble-farley-2010-continuous-delivery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deployment-pipeline.md",
+                "file": "humble-farley-2010-continuous-delivery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deployment-pipeline.md"
+                "file": "humble-farley-2010-continuous-delivery.md"
               }
             }
           }
@@ -151,9 +138,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "86f87ce64f0dfd6b",
+  "active": "730f9b8c047ed65b",
   "lastOpenFiles": [
+    "ci-requires-a-change-of-mindset.md",
     "humble-farley-2010-continuous-delivery.md",
+    "do-more-often-the-steps-in-a-process-that-hurt.md",
     "deployment-pipeline.md",
     "$Bibliography.md",
     "$Hubs.md",
@@ -178,8 +167,6 @@
     "change-workflow-when-adapting-new-tool.md",
     "calendar-for-efficient-reminders.md",
     "be-comfortable-not-doing-something.md",
-    "avoid-taking-pure-reference-notes.md",
-    "gtd-does-not-work-for-academic-writing.md",
     "Untitled.canvas",
     "$projects",
     "$todo",

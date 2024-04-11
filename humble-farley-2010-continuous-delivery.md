@@ -4,6 +4,9 @@ Humble, J., & Farley, D. (2010). _Continuous Delivery: Reliable Software Release
 
 [[deployment-pipeline]]
 
+[[ci-requires-a-change-of-mindset]]
+
+[[atuomated-freqent-releases-are-needed-for-quality-software]]
 
 
 
@@ -18,11 +21,12 @@ Feedback most often come in the form of test results.
 
 CI -> QA should not make their own builds, they should use production capable releases. If they build for themselves, their builds might be different from prod candidate.
 
-Every change should lead to a potential RC. If that's not the case, why make the RC in the first place? Test & dev happen at the same time. Different from traditional dev where RC is one of the last steps in the process.
 
 No need to automate everything at once. Incrementally is fine. Almost everything can and should be automated in the end.
 
-If there's some process in dev that "hurts", it's often tempting to stop doing it, or do it less. Releasing is typically one of these things. Wrong approach, the things that "hurt", do them more. That's the only way they will hurt less.
+[[do-more-often-the-steps-in-a-process-that-hurt]]
+
+
 
 "Done" means released to production. If it's not, then it's not done. This means that a developer alone cannot make something some. The whole team w/ QA has to. Everybody is responsible for the delivery process.
 

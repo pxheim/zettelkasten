@@ -1,0 +1,1 @@
+If there's some process in dev that "hurts", it's often tempting to stop doing it, or do it less. Releasing is typically one of these things that hurt. The best way to make them hurt less is paradoxically to do them more often.
