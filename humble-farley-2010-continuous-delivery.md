@@ -216,4 +216,22 @@ If you have to interact w/ UI for acceptance tests, implement window drivers for
 
 Same applies to application interaction. Make a driver.
 
-Keep state in acceptance tests to a minimum. do not dump state to init a series of tests 
+Keep state in acceptance tests to a minimum. do not dump state to init a series of tests. INstead use the application to get to the state you want.
+
+Tests must be atomic, i.e. they leave no traces of ever being run. This is why they can run in parallell == faster.
+
+Making code testable = have to change how you write it. However, do not create "backdoors" that exposes things to be tested. If you have to do this, it usually is indicative of poor code design. (Example using the analysis package and private members).
+
+Automated acceptance testing of external systems (e.g. API) is complicated. If you stub them you have full control, but then you do not actually integrate. Solution is to do both:
+1. Have a small suite of integration tests that test the actual external system.
+2. Stub the rest that you test.
+
+- [ ] Idea: team huddle as soon as the build fails? It's painful as it should be, but perhaps effective? What seems to work best is something fun, but at the same time serious.
+
+It is the responsibility of the whole team to keep the acceptance tests fresh.
+
+Programmers love to refactor and optimize code, but most often they will do so for code that might not yield any benefit. Be strict and identify critical code before working on it. Donald Knuth: 97% time, premature optimization is the root of all evil. However, do not forget about the 3%.
+
+Capacity testing should test scenarios, not external systems in isolation. A good strategy will be to convert some acceptance tests to capacity tests.
+
+Avoid capacity testing through the UI, despite most common. Makes tests brittle and slow.
