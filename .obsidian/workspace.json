@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "types-of-software-tests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caa635fc0e0b5555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "humble-farley-2010-continuous-delivery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4c6e2d61211001d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "testing-quadrant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6415e1d1c1a8edf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "automated-frequent-releases-for-quality-software.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "humble-farley-2010-continuous-delivery.md",
+                "file": "types-of-software-tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "humble-farley-2010-continuous-delivery.md",
+                "file": "types-of-software-tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "humble-farley-2010-continuous-delivery.md"
+                "file": "types-of-software-tests.md"
               }
             }
           }
@@ -140,10 +176,14 @@
   },
   "active": "730f9b8c047ed65b",
   "lastOpenFiles": [
-    "ci-requires-a-change-of-mindset.md",
+    "testing-quadrant.md",
     "humble-farley-2010-continuous-delivery.md",
-    "do-more-often-the-steps-in-a-process-that-hurt.md",
+    "types-of-software-tests.md",
     "deployment-pipeline.md",
+    "unit-tests.md",
+    "ci-requires-a-change-of-mindset.md",
+    "automated-frequent-releases-for-quality-software.md",
+    "do-more-often-the-steps-in-a-process-that-hurt.md",
     "$Bibliography.md",
     "$Hubs.md",
     "2-minute-rule.md",
@@ -163,10 +203,6 @@
     "do-not-estimate-time-based-on-outcome.md",
     "efficiently-capturing-things-on-your-mind.md",
     "willpower-is-a-limited-resource.md",
-    "change-the-environment-to-preserve-willpower.md",
-    "change-workflow-when-adapting-new-tool.md",
-    "calendar-for-efficient-reminders.md",
-    "be-comfortable-not-doing-something.md",
     "Untitled.canvas",
     "$projects",
     "$todo",

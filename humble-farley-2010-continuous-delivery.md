@@ -6,29 +6,18 @@ Humble, J., & Farley, D. (2010). _Continuous Delivery: Reliable Software Release
 
 [[ci-requires-a-change-of-mindset]]
 
-[[atuomated-freqent-releases-are-needed-for-quality-software]]
-
-
-
-Two main components of delivering high quality software is automation and frequent releases. Automated because otherwise each release can be different and frequent in order to mitigate risk, but also get feedback often.
+[[automated-frequent-releases-for-quality-software]]
 
 3 key components to good feedback from releases:
 1. Every change should provide feedback.
 2. Should get feedback as soon as possible.
 3. Feedback must be acted upon.
 
-Feedback most often come in the form of test results.
-
 CI -> QA should not make their own builds, they should use production capable releases. If they build for themselves, their builds might be different from prod candidate.
-
 
 No need to automate everything at once. Incrementally is fine. Almost everything can and should be automated in the end.
 
 [[do-more-often-the-steps-in-a-process-that-hurt]]
-
-
-
-"Done" means released to production. If it's not, then it's not done. This means that a developer alone cannot make something some. The whole team w/ QA has to. Everybody is responsible for the delivery process.
 
 A good configuration management must
 - Exactly reproduce any environment you have for your application.
@@ -49,7 +38,6 @@ Checking in all your ext. libraries to VCS is prob not going to work, but good i
 
 Configuration management is all about keeping your config files, e.g. package.json, env. pubspec, or similar in VCS so that they can be used to set up same env. when new person starts or you wish to check out an older version.
 
-CI requires a shift in thinking. Traditionally your application is broken until you prove that it's not (through tests, etc.). With CI, your application is always assumed to be working until it's not.
 
 CI requires at minimum three things:
 1. Everything must be in VSC.
@@ -65,7 +53,11 @@ Simplified 7 step workflow for CI:
 	1. Fail: Fix and go to step 3
 	2. Pass: Rejoice!
 
-Unit tests small pieces of your application in isolation, i.e. a method. These are the fastes and cheapest tests to run.
+[[types-of-software-tests]]
+
+[[testing-quadrant]]
+
+[[unit-tests]]
 
 Component tests test the behavior of several components in your application.
 
@@ -92,9 +84,6 @@ Consider failing builds on things like styleguide issues, warnings, builds takin
 Self thought: PRs are generally anti-CI, but are a necessity. They MUST be kept small. Break down tasks & split PRs by using feature flags, abstractions, etc. Reserve time for deep focus on reviewing PRs.
 
 For CI to work efficiently, QA needs to work alongside developers. Define a testing strategy.
-
-The testing quadrant
-- [ ] Add this.
 
 Happy path is when user does exactly what is intended and no errors occur. Also know as "given", "when", "then". Opposite of sad path.
 
