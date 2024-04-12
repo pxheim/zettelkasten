@@ -57,13 +57,7 @@ Humble and Farley mention that discipline is extremely important for efficient C
 
 Always run at least some tests locally before committing. Ensures you don't break the build unnecessarily or waste CI resources.
 
-Never go home on a broken build. Fix it or revert it.
-
-Set a time limit for how long someone is allowed to try to fix their build before reverting.
-
 Good test coverage is a requirement for CI, thus TDD is almost a must.
-
-Consider failing builds on things like styleguide issues, warnings, builds taking too long, tests taking too long, etc.
 
 Self thought: PRs are generally anti-CI, but are a necessity. They MUST be kept small. Break down tasks & split PRs by using feature flags, abstractions, etc. Reserve time for deep focus on reviewing PRs.
 
@@ -110,6 +104,8 @@ Rapid feedback is important for CI, but also in GTD. It must come asap, otherwis
 
 [[failing-builds]]
 
+[[build-master]]
+
 The commit stage of a deployment pipeline is the first and should at a minimum compile (if needed), run unit tests and critical acceptance tests, create binaries for later and perform non-functional analysis, i.e. coverage, cyclomatic complexity, duplicate code, etc. Should not take more than 5 minutes.
 
 Acceptance testing should test business cases, not technology. If it does, it can become costly and hard to maintain.
@@ -143,11 +139,7 @@ Always deploy your whole software from scratch.
 
 Deployment script should leave env. the way it found it, i.e. deployment should be atomic. How can we do this with s3?
 
-If part of a step in the pipeline fails, don't immediately fail the check. Perform all tasks, e.g. unit tests, integration tests, etc and then point out which failed / passed.
-
 - [ ] "Integration hell", time reserved for integrating PRs. Must be done to integrate often. Should be done in time for builds to pass before eod. 
-
-Set up the role of the "build master", which will oversee the status of the build. Usefor to establish good discipline. Role should rotate. Poke people who break the build and get them to fix / revert.
 
 - [ ] James Carr & TDD - read.
 
@@ -168,7 +160,7 @@ If you have to interact w/ UI for acceptance tests, implement window drivers for
 
 Same applies to application interaction. Make a driver.
 
-Keep state in acceptance tests to a minimum. do not dump state to init a series of tests. INstead use the application to get to the state you want.
+Keep state in acceptance tests to a minimum. do not dump state to init a series of tests. Instead use the application to get to the state you want.
 
 Tests must be atomic, i.e. they leave no traces of ever being run. This is why they can run in parallell == faster.
 
