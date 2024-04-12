@@ -2,3 +2,7 @@ Tests small pieces of your application in isolation from the rest of the applica
 
 These are the fastes and cheapest tests to run, and should be included as one of the first steps in your [[deployment-pipeline]].
 
+Unit tests should be structured in a way so that they have three distinct steps:
+- PREPARE
+- TRIGGER
+- TEST

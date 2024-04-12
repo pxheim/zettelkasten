@@ -4,15 +4,17 @@ Humble, J., & Farley, D. (2010). _Continuous Delivery: Reliable Software Release
 
 [[deployment-pipeline]]
 
+[[implementing-ci]]
+
 [[ci-requires-a-change-of-mindset]]
 
 [[automated-frequent-releases-for-quality-software]]
 
 [[only-build-binaries-once]]
 
-No need to automate everything at once. Incrementally is fine. Almost everything can and should be automated in the end.
-
 [[do-more-often-the-steps-in-a-process-that-hurt]]
+
+[[happy-path]]
 
 A good configuration management must
 - Exactly reproduce any environment you have for your application.
@@ -33,21 +35,6 @@ Checking in all your ext. libraries to VCS is prob not going to work, but good i
 
 Configuration management is all about keeping your config files, e.g. package.json, env. pubspec, or similar in VCS so that they can be used to set up same env. when new person starts or you wish to check out an older version.
 
-
-CI requires at minimum three things:
-1. Everything must be in VSC.
-2. One click build & test from CLI.
-3. Team must agree on doing it.
-
-Simplified 7 step workflow for CI:
-1. Wait for current build to succeed.
-2. Update your code /w origin.
-3. Ensure local code runs w/ changes.
-4. Commit your changes.
-5. Wait for CI to check your changes.
-	1. Fail: Fix and go to step 3
-	2. Pass: Rejoice!
-
 [[types-of-software-tests]]
 
 [[universal-rules-for-software-tests]]
@@ -59,8 +46,6 @@ Simplified 7 step workflow for CI:
 [[acceptance-tests]]
 
 [[nonfunctional-acceptance-tests]]
-
-Automated acceptance tests can be costly to maintain, and can create quite the overhead. A good middle ground is to make automated acceptance tests for all happy paths mixed with 80% unit test coverage and some acceptance tests for the most important flows. This is the best starting point.
 
 Component tests test the behavior of several components in your application.
 
@@ -83,8 +68,6 @@ Consider failing builds on things like styleguide issues, warnings, builds takin
 Self thought: PRs are generally anti-CI, but are a necessity. They MUST be kept small. Break down tasks & split PRs by using feature flags, abstractions, etc. Reserve time for deep focus on reviewing PRs.
 
 For CI to work efficiently, QA needs to work alongside developers. Define a testing strategy.
-
-Happy path is when user does exactly what is intended and no errors occur. Also know as "given", "when", "then". Opposite of sad path.
 
 
 
@@ -156,12 +139,7 @@ Get metrics out of your pipeline. The most important is cycle time, i.e. time fr
 - Number of build failures
 - Size
 
-The 5 step process for improving cycle time is:
-1. Identify the constraint.
-2. Exploit the constraint, i.e. set them up for success.
-3. Subordinate others, i.e. force others to help out wherever possible.
-4. Elevate the constraint, i.e. hire more people, add more compute power, etc.
-5. Start from 1 again.
+[[5-step-process-improving-cycle-time]]
 
 The data collected must be visible to all parties involved, pref. "in your face". Good idea to visualize it.
 
@@ -195,11 +173,6 @@ Iterative deployment process:
 	5. Tester do the testing.
 
 A kickoff ensures a shared understanding, prevents ivory tower analyst, testers wont raise defects that are unrelated, devs won't make stuff nobody wants.
-
-Acceptance tests should be written
-- GIVEN (some initial context)
-- WHEN (an even occurs (by some user))
-- THEN (there are some outcomes)
 
 If you have to interact w/ UI for acceptance tests, implement window drivers for the parts you have to deal with. Instead of acting on buttons directly from your tests, go through the window layer instead.
 
