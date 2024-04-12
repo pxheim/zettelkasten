@@ -8,12 +8,7 @@ Humble, J., & Farley, D. (2010). _Continuous Delivery: Reliable Software Release
 
 [[automated-frequent-releases-for-quality-software]]
 
-3 key components to good feedback from releases:
-1. Every change should provide feedback.
-2. Should get feedback as soon as possible.
-3. Feedback must be acted upon.
-
-CI -> QA should not make their own builds, they should use production capable releases. If they build for themselves, their builds might be different from prod candidate.
+[[only-build-binaries-once]]
 
 No need to automate everything at once. Incrementally is fine. Almost everything can and should be automated in the end.
 
@@ -65,13 +60,13 @@ Simplified 7 step workflow for CI:
 
 Component tests test the behavior of several components in your application.
 
-
-
 Tests must be kept short. If they are not, consider splitting your test process, e.g. one for building & unit tests and another for integration / acceptance.
 
 Lock down versions, even minor ones, to ensure we always have the same dev. environment.
 
-Reporting from CI must be very visible, especially when working as a distributed team. Also make it fun!
+[[reporting-from-ci-must-be-visible]]
+
+
 
 Humble and Farley mention that discipline is extremely important for efficient CI. This contradicts setting up env. where you have to use little willpower.
 
@@ -137,8 +132,6 @@ Testing is the responsibility of the whole team.
 Rapid feedback is important for CI, but also in GTD. It must come asap, otherwise it's no longer relevant.
 
 A typical deployment pipeline goes through the steps of commit, acceptance, performance, UAT and then production. In other words, devs commit & unit tests are run. If pass, acceptance tests are run, then performance / other automated tests, then we involve manual testers before prod release.
-
-Never recreate binaries within the deployment pipeline. Build once and use the same binary throughout. Do not store these in VCS.
 
 Use smoke tests (also called deployment tests) to test that your app is running after deployment.
 

@@ -13,67 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "humble-farley-2010-continuous-delivery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc4502156f879267",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testing-quadrant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "caa635fc0e0b5555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "humble-farley-2010-continuous-delivery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4c6e2d61211001d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testing-quadrant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6415e1d1c1a8edf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "automated-frequent-releases-for-quality-software.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9f994e4bbc59ca4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ci-requires-a-change-of-mindset.md",
+                "file": "only-build-binaries-once.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "humble-farley-2010-continuous-delivery.md",
+                "file": "only-build-binaries-once.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "humble-farley-2010-continuous-delivery.md",
+                "file": "only-build-binaries-once.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "humble-farley-2010-continuous-delivery.md"
+                "file": "only-build-binaries-once.md"
               }
             }
           }
@@ -188,15 +128,18 @@
   },
   "active": "730f9b8c047ed65b",
   "lastOpenFiles": [
+    "humble-farley-2010-continuous-delivery.md",
+    "only-build-binaries-once.md",
+    "automated-frequent-releases-for-quality-software.md",
+    "produce-feedback-from-releases.md",
+    "reporting-from-ci-must-be-visible.md",
     "types-of-software-tests.md",
     "acceptance-tests.md",
-    "humble-farley-2010-continuous-delivery.md",
     "nonfunctional-acceptance-tests.md",
     "unit-tests.md",
     "testing-quadrant.md",
     "deployment-pipeline.md",
     "ci-requires-a-change-of-mindset.md",
-    "automated-frequent-releases-for-quality-software.md",
     "do-more-often-the-steps-in-a-process-that-hurt.md",
     "$Bibliography.md",
     "$Hubs.md",
@@ -212,9 +155,6 @@
     "Untitled 1.md",
     "_templates",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
-    "brainstorming-is-terrible.md",
-    "4-criteria-model-for-setting-priorities.md",
-    "do-not-estimate-time-based-on-outcome.md",
     "Untitled.canvas",
     "$projects",
     "$todo",
