@@ -50,6 +50,8 @@ Simplified 7 step workflow for CI:
 
 [[types-of-software-tests]]
 
+[[universal-rules-for-software-tests]]
+
 [[testing-quadrant]]
 
 [[unit-tests]]
@@ -60,7 +62,7 @@ Simplified 7 step workflow for CI:
 
 Component tests test the behavior of several components in your application.
 
-Tests must be kept short. If they are not, consider splitting your test process, e.g. one for building & unit tests and another for integration / acceptance.
+
 
 Lock down versions, even minor ones, to ensure we always have the same dev. environment.
 
