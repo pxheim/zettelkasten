@@ -129,6 +129,7 @@
   "active": "46b9094c59e8e0e6",
   "lastOpenFiles": [
     "humble-farley-2010-continuous-delivery.md",
+    "testing-quadrant.md",
     "5-step-process-improving-cycle-time.md",
     "unit-tests.md",
     "acceptance-tests.md",
@@ -150,7 +151,6 @@
     "automated-frequent-releases-for-quality-software.md",
     "produce-feedback-from-releases.md",
     "reporting-from-ci-must-be-visible.md",
-    "testing-quadrant.md",
     "do-more-often-the-steps-in-a-process-that-hurt.md",
     "2-minute-rule.md",
     "skelton-pais-2019-team-topologies.md",
