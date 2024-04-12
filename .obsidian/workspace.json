@@ -11,8 +11,12 @@
             "id": "46b9094c59e8e0e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "$Bibliography.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "$Bibliography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "$Bibliography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "$Bibliography.md"
+              }
             }
           }
         ]
@@ -120,15 +128,15 @@
   },
   "active": "46b9094c59e8e0e6",
   "lastOpenFiles": [
+    "$Hubs.md",
+    "$Bibliography.md",
+    "humble-farley-2010-continuous-delivery.md",
     "distributed-cognition.md",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
     "brainstorming-is-terrible.md",
     "the-natural-planning-model.md",
-    "$Hubs.md",
-    "$Bibliography.md",
     "always-ask-what-is-the-next-action.md",
     "universal-rules-for-software-tests.md",
-    "humble-farley-2010-continuous-delivery.md",
     "types-of-software-tests.md",
     "deployment-pipeline.md",
     "only-build-binaries-once.md",
