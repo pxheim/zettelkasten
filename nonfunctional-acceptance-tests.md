@@ -1,0 +1,1 @@
+Nonfunctional acceptance tests test things that are not "features", instead things like capacity, security, load, performance, etc.

@@ -60,21 +60,19 @@ Simplified 7 step workflow for CI:
 
 [[nonfunctional-acceptance-tests]]
 
+Automated acceptance tests can be costly to maintain, and can create quite the overhead. A good middle ground is to make automated acceptance tests for all happy paths mixed with 80% unit test coverage and some acceptance tests for the most important flows. This is the best starting point.
+
 Component tests test the behavior of several components in your application.
-
-
 
 Lock down versions, even minor ones, to ensure we always have the same dev. environment.
 
 [[reporting-from-ci-must-be-visible]]
 
-
-
 Humble and Farley mention that discipline is extremely important for efficient CI. This contradicts setting up env. where you have to use little willpower.
 
 Always run at least some tests locally before committing. Ensures you don't break the build unnecessarily or waste CI resources.
 
-Never go home on a broken build. Fit it or revert it.
+Never go home on a broken build. Fix it or revert it.
 
 Set a time limit for how long someone is allowed to try to fix their build before reverting.
 
@@ -88,7 +86,7 @@ For CI to work efficiently, QA needs to work alongside developers. Define a test
 
 Happy path is when user does exactly what is intended and no errors occur. Also know as "given", "when", "then". Opposite of sad path.
 
-Automated acceptance tests can be costly to maintain, and can create quite the overhead. A good middle ground is to make automated acceptance tests for all happy paths mixed with 80% unit test coverage and some acceptance tests for the most important flows. This is the best starting point.
+
 
 Dialog w/ QA is important to automate all the most common acceptance tests.
 
@@ -96,7 +94,7 @@ Three main types of tests that are made by and for developers, unit, component a
 
 Business facing critique tests often involve testing or showcasing completed features to get feedback for changes.
 
-Nonfunctional acceptance tests test things that are not "features", instead things like capacity, security, load, performance, etc.
+
 
 Test doubles are parts of tests that simulate some real part of the application. They are
 - Dummies
@@ -187,8 +185,6 @@ Set up the role of the "build master", which will oversee the status of the buil
 
 An efficient commit stage should take no more than 5 minutes. Do not have any async tests as they are slow. Do not have tests with state. Do not test UI.
 
-A good way of thinking about unit vs acceptance is that unit tests verify that the program does what the developer expects whereas acceptance verifies that it does what the customer wants.
-
 If application is designed w/ smart / dumb components, then when doing acceptance testing, we are only interested in the smart components, thus we can forget about the dumb UI layer. This is good! We do not want to test UI unless we absolutely have to.
 
 Iterative deployment process:
@@ -199,8 +195,6 @@ Iterative deployment process:
 	5. Tester do the testing.
 
 A kickoff ensures a shared understanding, prevents ivory tower analyst, testers wont raise defects that are unrelated, devs won't make stuff nobody wants.
-
-> Acceptance tests are not just tests, they are executable specifications of the behavior of the program.
 
 Acceptance tests should be written
 - GIVEN (some initial context)
