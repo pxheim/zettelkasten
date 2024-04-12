@@ -7,3 +7,4 @@ Following is a collection of the most commonly need types of tests:
 - [[unit-tests]] - Testing small pieces of your application in isolation.
 - [[acceptance-tests]] - Testing of business cases.
 - [[nonfunctional-acceptance-tests]] - Testing of technology cases.
+- [[smoke-tests]] - Test success of deployment.

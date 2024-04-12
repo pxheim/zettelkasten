@@ -67,17 +67,11 @@ Consider failing builds on things like styleguide issues, warnings, builds takin
 
 Self thought: PRs are generally anti-CI, but are a necessity. They MUST be kept small. Break down tasks & split PRs by using feature flags, abstractions, etc. Reserve time for deep focus on reviewing PRs.
 
-For CI to work efficiently, QA needs to work alongside developers. Define a testing strategy.
-
-
-
-Dialog w/ QA is important to automate all the most common acceptance tests.
-
 Three main types of tests that are made by and for developers, unit, component and deployment tests.
 
+[[smoke-tests]]
+
 Business facing critique tests often involve testing or showcasing completed features to get feedback for changes.
-
-
 
 Test doubles are parts of tests that simulate some real part of the application. They are
 - Dummies
@@ -114,11 +108,7 @@ Testing is the responsibility of the whole team.
 
 Rapid feedback is important for CI, but also in GTD. It must come asap, otherwise it's no longer relevant.
 
-A typical deployment pipeline goes through the steps of commit, acceptance, performance, UAT and then production. In other words, devs commit & unit tests are run. If pass, acceptance tests are run, then performance / other automated tests, then we involve manual testers before prod release.
-
-Use smoke tests (also called deployment tests) to test that your app is running after deployment.
-
-The whole team owns a failed build. It's a team after all, and only as strong as it's weakest link.
+[[failing-builds]]
 
 The commit stage of a deployment pipeline is the first and should at a minimum compile (if needed), run unit tests and critical acceptance tests, create binaries for later and perform non-functional analysis, i.e. coverage, cyclomatic complexity, duplicate code, etc. Should not take more than 5 minutes.
 
@@ -188,8 +178,6 @@ Automated acceptance testing of external systems (e.g. API) is complicated. If y
 1. Have a small suite of integration tests that test the actual external system.
 2. Stub the rest that you test.
 
-- [ ] Idea: team huddle as soon as the build fails? It's painful as it should be, but perhaps effective? What seems to work best is something fun, but at the same time serious.
-
 It is the responsibility of the whole team to keep the acceptance tests fresh.
 
 Programmers love to refactor and optimize code, but most often they will do so for code that might not yield any benefit. Be strict and identify critical code before working on it. Donald Knuth: 97% time, premature optimization is the root of all evil. However, do not forget about the 3%.
@@ -220,4 +208,3 @@ When deploying, do not delete old files. Move them  / keep a copy of them.
 
 Keep bus factor low, everybody should be able to perform a deployment.
 
-Deployment scripts should include tests to verify that the deployment was a success. These are smoke tests.

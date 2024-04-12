@@ -1,0 +1,1 @@
+The whole team owns a failed build. It's a team after all, and only as strong as it's weakest link.

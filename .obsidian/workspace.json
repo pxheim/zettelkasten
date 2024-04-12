@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing-quadrant.md",
+                "file": "failing-builds.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing-quadrant.md",
+                "file": "failing-builds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing-quadrant.md",
+                "file": "failing-builds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing-quadrant.md"
+                "file": "failing-builds.md"
               }
             }
           }
@@ -129,16 +129,19 @@
   "active": "46b9094c59e8e0e6",
   "lastOpenFiles": [
     "humble-farley-2010-continuous-delivery.md",
+    "failing-builds.md",
+    "deployment-pipeline.md",
+    "types-of-software-tests.md",
+    "smoke-tests.md",
+    "$Bibliography.md",
+    "ci-requires-a-change-of-mindset.md",
+    "implementing-ci.md",
     "testing-quadrant.md",
     "5-step-process-improving-cycle-time.md",
     "unit-tests.md",
     "acceptance-tests.md",
     "happy-path.md",
-    "implementing-ci.md",
-    "ci-requires-a-change-of-mindset.md",
-    "types-of-software-tests.md",
     "nonfunctional-acceptance-tests.md",
-    "$Bibliography.md",
     "$Hubs.md",
     "distributed-cognition.md",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
@@ -146,14 +149,11 @@
     "the-natural-planning-model.md",
     "always-ask-what-is-the-next-action.md",
     "universal-rules-for-software-tests.md",
-    "deployment-pipeline.md",
     "only-build-binaries-once.md",
     "automated-frequent-releases-for-quality-software.md",
     "produce-feedback-from-releases.md",
     "reporting-from-ci-must-be-visible.md",
     "do-more-often-the-steps-in-a-process-that-hurt.md",
-    "2-minute-rule.md",
-    "skelton-pais-2019-team-topologies.md",
     "_templates",
     "Untitled.canvas",
     "$projects",

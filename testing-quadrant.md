@@ -20,4 +20,7 @@ This is also often referred to as the agile testing quadrant.
 ```
 
 For reference:
-Q1 = Technology
+- Q1: Technology Facing, Supports Development
+- Q2: Business Facing, Critiques Product
+- Q3: Technology Facing, Critiques Product
+- Q4: Business Facing, Supports Team
