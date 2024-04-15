@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "priori",
+                "query": "constr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f2e29864079c7e1c",
+  "active": "353e6fd6e50e12ce",
   "lastOpenFiles": [
     "$Bibliography.md",
     "kim-behr-spafford-2013-the-phoenix-project.md",
