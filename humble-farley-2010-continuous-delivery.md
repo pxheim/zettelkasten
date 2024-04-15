@@ -125,7 +125,7 @@ Get metrics out of your pipeline. The most important is cycle time, i.e. time fr
 - Number of build failures
 - Size
 
-[[5-step-process-improving-cycle-time]]
+[[theory-of-constraints]]
 
 The data collected must be visible to all parties involved, pref. "in your face". Good idea to visualize it.
 
