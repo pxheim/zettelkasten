@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "6f0c07dcbbf60201",
+            "id": "de53d085d6ba1294",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ahrens-2022-how-to-take-smart-notes.md",
+                "file": "5-step-process-improving-cycle-time.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "constr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kim-behr-spafford-2013-the-phoenix-project.md",
+                "file": "5-step-process-improving-cycle-time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kim-behr-spafford-2013-the-phoenix-project.md",
+                "file": "5-step-process-improving-cycle-time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kim-behr-spafford-2013-the-phoenix-project.md"
+                "file": "5-step-process-improving-cycle-time.md"
               }
             }
           }
@@ -139,10 +140,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "353e6fd6e50e12ce",
+  "active": "de53d085d6ba1294",
   "lastOpenFiles": [
-    "$Bibliography.md",
     "kim-behr-spafford-2013-the-phoenix-project.md",
+    "5-step-process-improving-cycle-time.md",
+    "$Bibliography.md",
     "ahrens-2022-how-to-take-smart-notes.md",
     "humble-farley-2010-continuous-delivery.md",
     "skelton-pais-2019-team-topologies.md",
@@ -159,7 +161,6 @@
     "ci-requires-a-change-of-mindset.md",
     "implementing-ci.md",
     "testing-quadrant.md",
-    "5-step-process-improving-cycle-time.md",
     "unit-tests.md",
     "acceptance-tests.md",
     "happy-path.md",
