@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "$Bibliography.md",
+                "file": "kim-behr-spafford-2013-the-phoenix-project.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "$Bibliography.md",
+                "file": "kim-behr-spafford-2013-the-phoenix-project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "$Bibliography.md",
+                "file": "kim-behr-spafford-2013-the-phoenix-project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "$Bibliography.md"
+                "file": "kim-behr-spafford-2013-the-phoenix-project.md"
               }
             }
           }
@@ -140,9 +140,9 @@
   },
   "active": "f2e29864079c7e1c",
   "lastOpenFiles": [
-    "ahrens-2022-how-to-take-smart-notes.md",
-    "kim-behr-spafford-2013-the-phoenix-project.md",
     "$Bibliography.md",
+    "kim-behr-spafford-2013-the-phoenix-project.md",
+    "ahrens-2022-how-to-take-smart-notes.md",
     "humble-farley-2010-continuous-delivery.md",
     "skelton-pais-2019-team-topologies.md",
     "organizing-your-work.md",
