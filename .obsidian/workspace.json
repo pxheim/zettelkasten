@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "branching-is-bad-for-ci.md",
+                "file": "git-branching-strategies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "branching-is-bad-for-ci.md",
+                "file": "humble-farley-2010-continuous-delivery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "branching-is-bad-for-ci.md",
+                "file": "humble-farley-2010-continuous-delivery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "branching-is-bad-for-ci.md"
+                "file": "humble-farley-2010-continuous-delivery.md"
               }
             }
           }
@@ -139,10 +138,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "80ed306969532332",
+  "active": "f2e29864079c7e1c",
   "lastOpenFiles": [
-    "humble-farley-2010-continuous-delivery.md",
+    "git-branching-strategies.md",
+    "git-flow.md",
     "branching-is-bad-for-ci.md",
+    "git-hub-flow.md",
+    "humble-farley-2010-continuous-delivery.md",
     "acceptance-tests.md",
     "theory-of-constraints.md",
     "kim-behr-spafford-2013-the-phoenix-project.md",
@@ -164,9 +166,6 @@
     "testing-quadrant.md",
     "unit-tests.md",
     "happy-path.md",
-    "nonfunctional-acceptance-tests.md",
-    "$Hubs.md",
-    "distributed-cognition.md",
     "_templates",
     "Untitled.canvas",
     "$projects",

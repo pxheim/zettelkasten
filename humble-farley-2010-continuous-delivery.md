@@ -8,6 +8,8 @@ Humble, J., & Farley, D. (2010). _Continuous Delivery: Reliable Software Release
 
 [[ci-requires-a-change-of-mindset]]
 
+Humble and Farley mention that discipline is extremely important for efficient CI. This contradicts setting up env. where you have to use little willpower.
+
 [[automated-frequent-releases-for-quality-software]]
 
 [[only-build-binaries-once]]
@@ -16,6 +18,8 @@ Humble, J., & Farley, D. (2010). _Continuous Delivery: Reliable Software Release
 
 [[happy-path]]
 
+Configuration management is all about keeping your config files, e.g. package.json, env. pubspec, or similar in VCS so that they can be used to set up same env. when new person starts or you wish to check out an older version.
+
 A good configuration management must
 - Exactly reproduce any environment you have for your application.
 - Allow incremental changes to any of your environments.
@@ -23,15 +27,13 @@ A good configuration management must
 - Satisfy all compliance regulations.
 - Make it easy for all team members to get all the information they need and make the changes they need to make.
 
-[[branching-is-bad-for-ci]]
-
-
-
-CI only works w/ long commit messages describing what you did in detail. ALSO link to JIRA task or similar. This applies to our PRs more than commits in "our flow".
+Lock down versions, even minor ones, to ensure we always have the same dev. environment.
 
 Checking in all your ext. libraries to VCS is prob not going to work, but good idea to keep a separate repo w/ the dependencies. App can then get the dependencies from there.
 
-Configuration management is all about keeping your config files, e.g. package.json, env. pubspec, or similar in VCS so that they can be used to set up same env. when new person starts or you wish to check out an older version.
+[[branching-is-bad-for-ci]]
+
+CI only works w/ long commit messages describing what you did in detail. ALSO link to JIRA task or similar. This applies to our PRs more than commits in "our flow".
 
 [[types-of-software-tests]]
 
@@ -47,11 +49,7 @@ Configuration management is all about keeping your config files, e.g. package.js
 
 Component tests test the behavior of several components in your application.
 
-Lock down versions, even minor ones, to ensure we always have the same dev. environment.
-
 [[reporting-from-ci-must-be-visible]]
-
-Humble and Farley mention that discipline is extremely important for efficient CI. This contradicts setting up env. where you have to use little willpower.
 
 Always run at least some tests locally before committing. Ensures you don't break the build unnecessarily or waste CI resources.
 
