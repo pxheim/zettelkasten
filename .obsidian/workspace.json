@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory-of-constraints.md",
+                "file": "humble-farley-2010-continuous-delivery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80ed306969532332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "branching-is-bad-for-ci.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory-of-constraints.md",
+                "file": "branching-is-bad-for-ci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory-of-constraints.md",
+                "file": "branching-is-bad-for-ci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory-of-constraints.md"
+                "file": "branching-is-bad-for-ci.md"
               }
             }
           }
@@ -127,13 +139,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f2e29864079c7e1c",
+  "active": "80ed306969532332",
   "lastOpenFiles": [
-    "kim-behr-spafford-2013-the-phoenix-project.md",
+    "humble-farley-2010-continuous-delivery.md",
+    "branching-is-bad-for-ci.md",
+    "acceptance-tests.md",
     "theory-of-constraints.md",
+    "kim-behr-spafford-2013-the-phoenix-project.md",
     "$Bibliography.md",
     "ahrens-2022-how-to-take-smart-notes.md",
-    "humble-farley-2010-continuous-delivery.md",
     "skelton-pais-2019-team-topologies.md",
     "organizing-your-work.md",
     "working-with-notes-set-zettelkasten-apart.md",
@@ -149,12 +163,10 @@
     "implementing-ci.md",
     "testing-quadrant.md",
     "unit-tests.md",
-    "acceptance-tests.md",
     "happy-path.md",
     "nonfunctional-acceptance-tests.md",
     "$Hubs.md",
     "distributed-cognition.md",
-    "write-things-down-to-reduce-the-load-on-the-brain.md",
     "_templates",
     "Untitled.canvas",
     "$projects",

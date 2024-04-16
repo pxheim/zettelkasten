@@ -23,11 +23,9 @@ A good configuration management must
 - Satisfy all compliance regulations.
 - Make it easy for all team members to get all the information they need and make the changes they need to make.
 
-Branching is bad because
-- Breaks with the principles of CI, e.g. it defers merging -- integrating your changes.
-- Many branches == more bad.
-- Merge conflicts.
-- Hard to refactor codebase when it touches a lot of code.
+[[branching-is-bad-for-ci]]
+
+
 
 CI only works w/ long commit messages describing what you did in detail. ALSO link to JIRA task or similar. This applies to our PRs more than commits in "our flow".
 
@@ -131,7 +129,7 @@ The data collected must be visible to all parties involved, pref. "in your face"
 
 All scripts & files needed for the whole deployment pipeline should be in VCS. One for commit stage, one for acceptance, and so on.
 
-- [ ] Research Domain Driver Design.
+- [ ] Research Domain Driven Design.
 
 Deploying regardless of to prod or beta or anything else should use the same deployment script. Config should be refactored out.
 
