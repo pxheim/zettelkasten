@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "16f7f8468feca868",
+        "id": "c2696daaf8364549",
         "type": "tabs",
         "children": [
           {
-            "id": "f2e29864079c7e1c",
+            "id": "54b69d00bfa13c02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nonfunctional-acceptance-tests.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80ed306969532332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git-branching-strategies.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -90,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nonfunctional-acceptance-tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nonfunctional-acceptance-tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "nonfunctional-acceptance-tests.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -139,11 +119,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f2e29864079c7e1c",
+  "active": "54b69d00bfa13c02",
   "lastOpenFiles": [
+    "git-branching-strategies.md",
+    "nonfunctional-acceptance-tests.md",
     "acceptance-tests.md",
     "humble-farley-2010-continuous-delivery.md",
-    "git-branching-strategies.md",
     "git-flow.md",
     "branching-is-bad-for-ci.md",
     "git-hub-flow.md",
@@ -166,7 +147,6 @@
     "implementing-ci.md",
     "testing-quadrant.md",
     "unit-tests.md",
-    "happy-path.md",
     "_templates",
     "Untitled.canvas",
     "$projects",
