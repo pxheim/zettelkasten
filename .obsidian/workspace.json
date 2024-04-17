@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "acceptance-tests.md",
+                "file": "nonfunctional-acceptance-tests.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "given",
+                "query": "specifi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "acceptance-tests.md",
+                "file": "nonfunctional-acceptance-tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "acceptance-tests.md",
+                "file": "nonfunctional-acceptance-tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "acceptance-tests.md"
+                "file": "nonfunctional-acceptance-tests.md"
               }
             }
           }
@@ -141,12 +141,12 @@
   },
   "active": "f2e29864079c7e1c",
   "lastOpenFiles": [
+    "acceptance-tests.md",
     "humble-farley-2010-continuous-delivery.md",
     "git-branching-strategies.md",
     "git-flow.md",
     "branching-is-bad-for-ci.md",
     "git-hub-flow.md",
-    "acceptance-tests.md",
     "theory-of-constraints.md",
     "kim-behr-spafford-2013-the-phoenix-project.md",
     "$Bibliography.md",
