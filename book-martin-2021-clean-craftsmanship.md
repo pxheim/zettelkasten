@@ -21,7 +21,15 @@ Three laws:
 2. Only write the bare minimum of a test that is needed to make it fail. Resolve failure by writing production code.
 3. Only write the bare minimum production code to make the test pass. Then write more tests.
 
-Following these laws, your workflow will now be something like 1, 2, 3, 2, 3, 2, 3... until you finish what you are working on.
+Following these laws, your workflow will now be something like 1, 2, 3, 2, 3, 2, 3... until you finish what you are working on. Initially this might seem tedious... However...
+
+> You should be bad at the tools you do not want to use often. E.e. you should be bad at using the debugger in your IDE as it's indicative of having to debug often. If you're really good at debugging, perhaps you do it too much?
+
+When writing good tests, they will become the documentation of your code.
+
+Writing test after the fact is pain, not just because it's boring, but also because you probably wrote the code in a way that cannot easily be tested, and thus you have to rewrite the code in order to test it. This sucks.
+
+
 
 
 
