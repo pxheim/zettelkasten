@@ -20,6 +20,7 @@ Three laws:
 1. Write no production code until you write a test that fails due to the lack of the production code.
 2. Only write the bare minimum of a test that is needed to make it fail. Resolve failure by writing production code.
 3. Only write the bare minimum production code to make the test pass. Then write more tests.
+4. (Refactoring). Every time you make something work, you also make it nice.
 
 Following these laws, your workflow will now be something like 1, 2, 3, 2, 3, 2, 3... until you finish what you are working on. Initially this might seem tedious... However...
 
@@ -31,7 +32,7 @@ Writing test after the fact is pain, not just because it's boring, but also beca
 
 Boy scout rule, leave the code cleaner than what you found it, only really works if you have tests in place. Otherwise you might end up inadvertently breaking some code.
 
-
+Refactoring is not something you plan for. It's not something that shows up in your sprint. It happens all the time as part of TDD. Refactoring never changes behavior, which is why it plays nicely with TDD.
 
 
 
