@@ -4,6 +4,16 @@ Kim, G., Behr, K., & Spafford, G. (2013). _The Phoenix Project: A novel about IT
 
 [[theory-of-constraints]]
 
-Resource utilization, 50% utilized resource will on average keep things in queue for 50 / 50 = 1 unit of time. 90% utilized will keep things in queue for 90 / 10 = 9 units of time. I.e. over utilized resources cause a delay.
+[[over-utilized-resource-bottleneck]]
 
-The whole of an organization needs to work towards it's goals, not just parts of it.
+
+
+Devops three ways:
+
+The first way: company should emphasize performance of the whole system vs just focusing on parts of it. The whole of an organization needs to work towards it's goals, not just parts of it. 
+
+The second way: Feedback loops from left to right (i.e. backwards) must be amplified and made visible. Fixes can then be made quickly and issues can be reacted upon.
+
+The third way: Take risks and experiment, and learn from failure.
+
+

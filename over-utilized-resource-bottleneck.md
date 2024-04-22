@@ -1,0 +1,1 @@
+Resource utilization, 50% utilized resource will on average keep things in queue for 50 / 50 = 1 unit of time. 90% utilized will keep things in queue for 90 / 10 = 9 units of time. I.e. over utilized resources cause a delay. Law of utilization.
