@@ -41,9 +41,9 @@ Get into the habit of fail, pass, refactor, fail, pass, refactor, and so on.
 Every test you write is a transition in the finite state machine that you are trying to create in your program. Your program is a finite state machine as your computer is a finite state machine processor. How do you ensure that all transition changes are tested? Well, by writing tests first!
 
 Mezaro's formal vocabulary of test doubles:
-	- Dummies: implementation of a class that does nothing.
-	- Stubs
-	- Spies
+	- Dummies: implementation of an interface that does nothing. Not terribly useful, but sometimes necessary.
+	- Stubs: implementation of an interface that returns something specific in order to be used in a test.
+	- Spies: same as stubs, but also remembers what was done and can be queried about it later. E.g. how many times was method x called with value y. Perhaps the most common test double.
 	- Mocks
 	- Fakes
 
