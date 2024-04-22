@@ -29,6 +29,8 @@ When writing good tests, they will become the documentation of your code.
 
 Writing test after the fact is pain, not just because it's boring, but also because you probably wrote the code in a way that cannot easily be tested, and thus you have to rewrite the code in order to test it. This sucks.
 
+Boy scout rule, leave the code cleaner than what you found it, only really works if you have tests in place. Otherwise you might end up inadvertently breaking some code.
+
 
 
 
