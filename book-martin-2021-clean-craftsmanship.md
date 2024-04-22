@@ -14,7 +14,14 @@ For TDD, tests come first. Always. Not just when writing new features, but also 
 
 Refactoring, cleaning up code without changing its behavior is neigh impossible without TDD. First write tests of current behavior, then write code, when tests pass again, you know you're safe. This way we know that the refactor changed nothing.
 
+The essence of TDD is that you maintain a test suite that ensures that if any code passes, it will be deployable. I.e. passing tests implies deployability.
 
+Three laws:
+1. Write no production code until you write a test that fails due to the lack of the production code.
+2. Only write the bare minimum of a test that is needed to make it fail. Resolve failure by writing production code.
+3. Only write the bare minimum production code to make the test pass. Then write more tests.
+
+Following these laws, your workflow will now be something like 1, 2, 3, 2, 3, 2, 3... until you finish what you are working on.
 
 
 
