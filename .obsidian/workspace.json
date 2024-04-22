@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "humble-farley-2010-continuous-delivery.md",
+                "file": "kim-behr-spafford-2013-the-phoenix-project.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "humble-farley-2010-continuous-delivery.md",
+                "file": "kim-behr-spafford-2013-the-phoenix-project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "humble-farley-2010-continuous-delivery.md",
+                "file": "kim-behr-spafford-2013-the-phoenix-project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "humble-farley-2010-continuous-delivery.md"
+                "file": "kim-behr-spafford-2013-the-phoenix-project.md"
               }
             }
           }
@@ -128,8 +128,8 @@
   },
   "active": "54b69d00bfa13c02",
   "lastOpenFiles": [
-    "theory-of-constraints.md",
     "humble-farley-2010-continuous-delivery.md",
+    "theory-of-constraints.md",
     "types-of-software-tests.md",
     "law-of-parkinson--work-takes-the-time-given-to-it.md",
     "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
