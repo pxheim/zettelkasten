@@ -36,3 +36,5 @@ Refactoring is not something you plan for. It's not something that shows up in y
 
 Get into the habit of fail, pass, refactor, fail, pass, refactor, and so on.
 
+3A pattern when writing tests. Arrange, Act, Assert. All tests follow this pattern, basically set up stuff, perform the action you are testing, then check if the action actually completed.
+
