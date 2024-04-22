@@ -128,8 +128,9 @@
   },
   "active": "54b69d00bfa13c02",
   "lastOpenFiles": [
-    "over-utilized-resource-bottleneck.md",
+    "devops-three-ways.md",
     "kim-behr-spafford-2013-the-phoenix-project.md",
+    "over-utilized-resource-bottleneck.md",
     "humble-farley-2010-continuous-delivery.md",
     "theory-of-constraints.md",
     "types-of-software-tests.md",
@@ -153,7 +154,6 @@
     "build-master.md",
     "failing-builds.md",
     "deployment-pipeline.md",
-    "smoke-tests.md",
     "_templates",
     "Untitled.canvas",
     "$projects",
