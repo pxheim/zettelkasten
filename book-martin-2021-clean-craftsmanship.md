@@ -36,5 +36,14 @@ Refactoring is not something you plan for. It's not something that shows up in y
 
 Get into the habit of fail, pass, refactor, fail, pass, refactor, and so on.
 
-3A pattern when writing tests. Arrange, Act, Assert. All tests follow this pattern, basically set up stuff, perform the action you are testing, then check if the action actually completed.
+3A pattern when writing tests. Arrange, Act, Assert. All tests follow this pattern, basically set up stuff, perform the action you are testing, then check if the action actually completed. This can also be converted to given when then of BDD.
+
+Every test you write is a transition in the finite state machine that you are trying to create in your program. Your program is a finite state machine as your computer is a finite state machine processor. How do you ensure that all transition changes are tested? Well, by writing tests first!
+
+Mezaro's formal vocabulary of test doubles:
+	- Dummies: implementation of a class that does nothing.
+	- Stubs
+	- Spies
+	- Mocks
+	- Fakes
 
