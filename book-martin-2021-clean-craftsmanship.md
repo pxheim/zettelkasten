@@ -34,5 +34,5 @@ Boy scout rule, leave the code cleaner than what you found it, only really works
 
 Refactoring is not something you plan for. It's not something that shows up in your sprint. It happens all the time as part of TDD. Refactoring never changes behavior, which is why it plays nicely with TDD.
 
-
+Get into the habit of fail, pass, refactor, fail, pass, refactor, and so on.
 
