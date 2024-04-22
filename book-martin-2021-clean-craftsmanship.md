@@ -19,7 +19,7 @@ The essence of TDD is that you maintain a test suite that ensures that if any co
 Three laws:
 1. Write no production code until you write a test that fails due to the lack of the production code.
 2. Only write the bare minimum of a test that is needed to make it fail. Resolve failure by writing production code.
-3. Only write the bare minimum production code to make the test pass. Then write more tests.
+3. Only write the bare minimum production code to make the test pass. Then write more tests. Also referred to as "don't go for the gold", implying that you should do things step by step.
 4. (Refactoring). Every time you make something work, you also make it nice.
 
 Following these laws, your workflow will now be something like 1, 2, 3, 2, 3, 2, 3... until you finish what you are working on. Initially this might seem tedious... However...
