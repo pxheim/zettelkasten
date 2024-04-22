@@ -1,4 +1,4 @@
-The Horizon Model is a renaming of the system proposed by [[allen-2022-getting-things-done]] to get a sense of your priorities. It's a 6 layer system where the top layers create context for the bottom layers. It's called the horizon layer as when you're at level 0 (ground) you only consider what's right in front of you (next actions), but the further up you go the more and more of the horizon you consider.
+The Horizon Model is a renaming of the system proposed by [[book-allen-2022-getting-things-done]] to get a sense of your priorities. It's a 6 layer system where the top layers create context for the bottom layers. It's called the horizon layer as when you're at level 0 (ground) you only consider what's right in front of you (next actions), but the further up you go the more and more of the horizon you consider.
 
 5. purpose
 4. vision

@@ -9,6 +9,6 @@ The natural planning model is the way our brains naturally want to plan things, 
 5. Organizing - Organizing roughly follows three steps: first Identify the important bits, then sort the stuff by some criteria, e.g. priority and then detail out what needs to be done.
 6. Action - Do the things!
 
-[[ahrens-2022-how-to-take-smart-notes]] advocates that [[brainstorming-is-terrible]] as the only place you can draw on for information when brainstorming is your own head.
+[[book-ahrens-2022-how-to-take-smart-notes]] advocates that [[brainstorming-is-terrible]] as the only place you can draw on for information when brainstorming is your own head.
 
 The opposite of the natural planning model is [[the-reactive-planning-model]], which is the natural planning model in reverse.

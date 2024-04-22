@@ -1,1 +1,1 @@
-GTD (Getting Things Done) really shines for things that have clear goals and direct ways of getting to those goals. Academic writing does not follow this linear path and thus the methods described by [[allen-2022-getting-things-done]] does not work.
+GTD (Getting Things Done) really shines for things that have clear goals and direct ways of getting to those goals. Academic writing does not follow this linear path and thus the methods described by [[book-allen-2022-getting-things-done]] does not work.
