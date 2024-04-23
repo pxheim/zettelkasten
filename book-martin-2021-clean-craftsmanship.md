@@ -8,6 +8,8 @@ E.g. good code should consist of at least 80% unit tests. The essence is that yo
 
 When disagreeing with a discipline, make sure that you don't just disagree with the arbitrary part.
 
+# TDD
+
 TDD, along with simple design, refactoring and pairing (collaborative programming) and acceptance tests form the fundamentals of software craftsmanship, however, TDD might be the most important one. 
 
 For TDD, tests come first. Always. Not just when writing new features, but also when fixing bugs and really doing anything. Tests come first.
@@ -65,6 +67,11 @@ The act of making your code more generic can be summarized in several specific s
 - constant --> variable: to make the test more generic, we can convert constants into variables in the code.
 - unconditional --> selection: instead of making all your code run for all inputs, you can add an if statement to narrow the scope. Take care not to make it too narrow.
 - value --> list: a list is a more complex container that can hold more information vs. a single variable, thus making it more generic.
-- statement --> recursion: 
 - selection --> iteration: converting if statements to while / for loops.
+- statement --> recursion: 
 - value --> mutated value:
+
+If one of these transformation leads you down a path that is suboptimal, backtrack and try another one. The order presented above is usually the preferred order in which you should perform the transformations. Always try to do the simples transformation before moving the the more complex ones. Do not skip steps as it can lead you to missing tests.
+
+# Refactoring
+
