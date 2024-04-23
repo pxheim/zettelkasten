@@ -23,8 +23,12 @@
             "id": "4a5f0be883887fed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "book-martin-2021-clean-craftsmanship.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -70,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 200
   },
   "right": {
     "id": "2fcfa59adc960966",
@@ -86,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "book-martin-2021-clean-craftsmanship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "book-martin-2021-clean-craftsmanship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "book-martin-2021-clean-craftsmanship.md"
+              }
             }
           }
         ]
@@ -134,9 +142,9 @@
   },
   "active": "4a5f0be883887fed",
   "lastOpenFiles": [
+    "$Bibliography.md",
     "book-martin-2021-clean-craftsmanship.md",
     "book-kim-behr-spafford-2013-the-phoenix-project.md",
-    "$Bibliography.md",
     "book-skelton-pais-2019-team-topologies.md",
     "$Hubs.md",
     "book-humble-farley-2010-continuous-delivery.md",

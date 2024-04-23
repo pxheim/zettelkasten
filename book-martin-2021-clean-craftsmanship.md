@@ -14,8 +14,6 @@ TDD, along with simple design, refactoring and pairing (collaborative programmin
 
 For TDD, tests come first. Always. Not just when writing new features, but also when fixing bugs and really doing anything. Tests come first.
 
-Refactoring, cleaning up code without changing its behavior is neigh impossible without TDD. First write tests of current behavior, then write code, when tests pass again, you know you're safe. This way we know that the refactor changed nothing.
-
 The essence of TDD is that you maintain a test suite that ensures that if any code passes, it will be deployable. I.e. passing tests implies deployability.
 
 Three laws:
@@ -74,4 +72,20 @@ The act of making your code more generic can be summarized in several specific s
 If one of these transformation leads you down a path that is suboptimal, backtrack and try another one. The order presented above is usually the preferred order in which you should perform the transformations. Always try to do the simples transformation before moving the the more complex ones. Do not skip steps as it can lead you to missing tests.
 
 # Refactoring
+
+Refactoring preserves behavior. This is why tests are so important. If they pass, the behavior has not changed, thus you can refactor without worrying about breaking anything.
+
+Refactoring, cleaning up code without changing its behavior is neigh impossible without TDD. First write tests of current behavior, then write code, when tests pass again, you know you're safe. This way we know that the refactor changed nothing.
+
+"Extract until you drop". Split methods into smaller and smaller pieces until you cannot do it anymore. This way you ensure that each function does one thing and one thing only. This makes testing easier.
+
+Name of a function should be inversely proportional to its scope. I.e. the longer the name of a function, the more specific it is.
+
+Thus, make sure your code reads like well written prose. This way you can _read_ your code and understand what it does, e.g. inst
+
+```
+if (somethingIsTrue()) {
+	doSomethingSpecial();
+}
+```
 
