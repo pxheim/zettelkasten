@@ -49,6 +49,7 @@ Mezaro's formal vocabulary of test doubles:
 
 Som testing practices:
 	- Do not test the database. Test the queries.
-	- Do not test the UI. 
+	- Do not test the UI. Split into smart / dumb components and test the smart ones, or alternatively wherever the business logic is kept (view model, cubit, etc.)
+	- 
 
 
