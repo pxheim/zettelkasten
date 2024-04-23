@@ -59,3 +59,12 @@ When testing a class, try as much as possible to make your test not depend on th
 
 The more tests you add, the more specific they get. While doing this the production code should become more and more generic. This process of making it more generic often happens in the refactoring step.
 
+The act of making your code more generic can be summarized in several specific steps.
+- {} --> Null: Given that you start with a method that does nothing, you can make it more general by actually returning something, in this case null.
+- null --> constant: returning a constant from null is usually the nest step that makes a test pass.
+- constant --> variable: to make the test more generic, we can convert constants into variables in the code.
+- unconditional --> selection: instead of making all your code run for all inputs, you can add an if statement to narrow the scope. Take care not to make it too narrow.
+- value --> list: a list is a more complex container that can hold more information vs. a single variable, thus making it more generic.
+- statement --> recursion: 
+- selection --> iteration: converting if statements to while / for loops.
+- value --> mutated value:
