@@ -47,6 +47,8 @@ Mezaro's formal vocabulary of test doubles:
 	- Mocks: same as spies, but also knows what to expect, i.e. test assertions are part of the mock. Basically you can see how many times method x was called with value y, and it'll fail if value z was provided instead.
 	- Fakes: Different from all the previous ones. These are fake implements some business rule that allow you to use it to test certain scenarios. E.g. for authentication it can return true for 'goodPassword' and false for 'badPassword'. Fakes are not used often. As application grows, so do fakes.
 
-
+Som testing practices:
+	- Do not test the database. Test the queries.
+	- Do not test the UI. 
 
 
