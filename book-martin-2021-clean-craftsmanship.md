@@ -24,7 +24,7 @@ Three laws:
 
 Following these laws, your workflow will now be something like 1, 2, 3, 2, 3, 2, 3... until you finish what you are working on. Initially this might seem tedious... However...
 
-> You should be bad at the tools you do not want to use often. E.e. you should be bad at using the debugger in your IDE as it's indicative of having to debug often. If you're really good at debugging, perhaps you do it too much?
+You should be bad at the tools you do not want to use often. E.e. you should be bad at using the debugger in your IDE as it's indicative of having to debug often. If you're really good at debugging, perhaps you do it too much? [[$Research]]
 
 When writing good tests, they will become the documentation of your code.
 
@@ -47,9 +47,12 @@ Mezaro's formal vocabulary of test doubles:
 	- Mocks: same as spies, but also knows what to expect, i.e. test assertions are part of the mock. Basically you can see how many times method x was called with value y, and it'll fail if value z was provided instead.
 	- Fakes: Different from all the previous ones. These are fake implements some business rule that allow you to use it to test certain scenarios. E.g. for authentication it can return true for 'goodPassword' and false for 'badPassword'. Fakes are not used often. As application grows, so do fakes.
 
-Som testing practices:
+Some testing practices:
 	- Do not test the database. Test the queries.
 	- Do not test the UI. Split into smart / dumb components and test the smart ones, or alternatively wherever the business logic is kept (view model, cubit, etc.)
 	- 
 
+Designing tests is just as important as designing production code. If care is not taken, you'll end up with fragile tests (tests that are too coupled to code) that will break often.
+
+It's a bad idea to have any module or class x have a corresponding test class x.test. This couples the test file with the module whereas in reality the testing of x might depend on y and z. Thus, decouple the structure of your tests with the structure of your production code. [[$Research]]
 
