@@ -48,3 +48,5 @@ Mezaro's formal vocabulary of test doubles:
 	- Fakes: Different from all the previous ones. These are fake implements some business rule that allow you to use it to test certain scenarios. E.g. for authentication it can return true for 'goodPassword' and false for 'badPassword'. Fakes are not used often. As application grows, so do fakes.
 
 
+
+
