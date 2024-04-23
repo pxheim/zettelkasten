@@ -97,3 +97,18 @@ if (somethingIsTrue()) {
 
 All your functions should read like "TO paragraphs", e.g. "to do something, we need to do something else. To do something else, we need to do something entirely different. To do something entirely different, we need to ..." This is called the stepdown rule.
 
+Extracting variables usually come before extracting methods. Sometimes also done to explain things better. E.g. instead of hardcoding a number into your method, your code is more likely to read like prose if you extract the variable. E.g. 
+
+```ts
+if (item.abv > 4.7) {
+	sendToVinmonopolet();
+}
+```
+
+is much easier to understand if you write:
+
+```ts
+if (alcoholLimitExceedsGroceryStoreLimit) {
+	sendToVinmonopolet();
+}
+```
