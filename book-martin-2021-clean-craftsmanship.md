@@ -50,9 +50,12 @@ Mezaro's formal vocabulary of test doubles:
 Some testing practices:
 	- Do not test the database. Test the queries.
 	- Do not test the UI. Split into smart / dumb components and test the smart ones, or alternatively wherever the business logic is kept (view model, cubit, etc.)
-	- 
 
 Designing tests is just as important as designing production code. If care is not taken, you'll end up with fragile tests (tests that are too coupled to code) that will break often.
 
 It's a bad idea to have any module or class x have a corresponding test class x.test. This couples the test file with the module whereas in reality the testing of x might depend on y and z. Thus, decouple the structure of your tests with the structure of your production code. [[$Research]]
+
+When testing a class, try as much as possible to make your test not depend on the other classes that the class you want to test depend on. E.g. if you have a class x that depends on a class y, save from instantiating the class y, your tests for class x should not know about the details of class y. The same applies to private methods that are part of class x. By testing the public ones, you should be able to assert that the private ones also do what they are supposed to.
+
+The more tests you add, the more specific they get. While doing this the production code should become more and more generic. This process of making it more generic often happens in the refactoring step.
 
