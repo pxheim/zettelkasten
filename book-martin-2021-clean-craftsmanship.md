@@ -121,3 +121,9 @@ Abstraction is the amplification of the essential, and elimination of the irrele
 
 YAGNI, you aren't gonna need it. If something can be left out of your code, you should probably do so. If you do not need it now, you're prob not going to need it in the future. Always ask yourself this, and consider whether you actually need the stuff you are adding.
 
+4 rules of simple design
+- Covered by tests (sometimes passes tests)
+- Reveals the intention
+- No duplication
+- Fewest elements (small)
+
