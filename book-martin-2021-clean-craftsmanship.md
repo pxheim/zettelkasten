@@ -213,3 +213,8 @@ The oath, shamefully copied:
 
 # Harm
 
+You are responsible for the code that you write and what it does. If you write code, you are to blame. You cannot blame upper management for giving you requirements.
+
+It's often hard to know whether your software can harm or not. Thus, you must know exactly what your code can and cannot do. There's almost always more risk than you think.
+
+Messy software is harmful software, thus you must not harm the structure of your code.
