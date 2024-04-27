@@ -211,3 +211,5 @@ The oath, shamefully copied:
 9. I will respect my fellow programmers for their ethics, standards, disciplines, and skill. No other attribute or characteristic will be a factor in my regard for my fellow programmers.
 10. I will never stop learning and improving my craft.
 
+# Harm
+
