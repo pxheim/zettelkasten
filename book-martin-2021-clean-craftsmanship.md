@@ -132,3 +132,14 @@ Testable code facilitates simple design as you need to write good gode for it to
 There are two types of duplication, real duplication and accidental duplication. Real duplication is bad, and should be removed. Accidental duplication is duplication where it's often the intention that the duplicated code either represents different things, or will evolve in different directions.
 
 After doing the green, red, refactor loop to get where you want, the last step is often to clean up everything (a last refactor if you will) where you make the code as small as possible without making it less expressive.
+
+# Collaborative programming
+
+Collaborative programming, often called pair programming, does not make the productivity drop by 50%. Studies have shown that it does drop, but only by about 15%. However, at the same time, 15% less bugs are introduced, and 15% less code is needed per feature.
+
+Senior + Junior = Good
+Senior + Senior = Good
+Junior + Junior = Warning. Should be watched by senior.
+
+# Acceptance tests
+
