@@ -180,3 +180,11 @@ QA should be at the front of the process, defining the system in terms of tests 
 
 QA should do exploratory testing, i.e. testing that needs human interaction, ingenuity, intuition or insight.
 
+Do not test the business logic through the user interface.
+
+If you need to test the user interface, all replies to it should be stubbed.
+
+# Courage
+
+Bus factor must never be 1. This should not be the responsibility of the company. It's "your" responsibility to make sure someone can cover for you.
+
