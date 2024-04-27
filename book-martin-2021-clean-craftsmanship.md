@@ -188,3 +188,13 @@ If you need to test the user interface, all replies to it should be stubbed.
 
 Bus factor must never be 1. This should not be the responsibility of the company. It's "your" responsibility to make sure someone can cover for you.
 
+Give honest estimates.
+
+Say no. Managers need it.
+
+Learn 1 new language every year. Try to make it something that is very different from what you are currently familiar with.
+
+Mentor people. Always. The best way to learn is to teach.
+
+
+
