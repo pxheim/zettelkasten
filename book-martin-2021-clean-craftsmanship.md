@@ -155,3 +155,9 @@ Never ship shit.
 - Poorly written functions
 - Dependency on details
 - Unnecessary couplings
+
+Take pride in your work and keep the promise to your customers (and colleagues) to never ship shit.
+
+When asked to change something, developers should come up with an estimate that is proportional to the scope of the change. Making software that is inflexible goes against the whole point of making software. Alas, this is often the case due to missing testing and refactoring.
+
+The rhythm of releasing software should be quick. At most a week or
