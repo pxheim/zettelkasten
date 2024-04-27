@@ -166,3 +166,17 @@ Stable productivity is only possible if testing discipline is kept from the star
 
 # Quality
 
+Quality of everything else in our world increases, so why should software be any different?
+
+Developers should never fear making changes to software. Tests should have their backs.
+
+Never accept that bugs are just a natural part of our software.
+
+Never accept to ship with some known issues.
+
+QA should not be at the end of the process. If they are, we expect them to find bugs, and thus we expect the developers to not do their jobs. If at the end, QA should find nothing and wonder why they are there in the first place.
+
+QA should be at the front of the process, defining the system in terms of tests along with BA. Then developers will automate these tests, leaving everything working.
+
+QA should do exploratory testing, i.e. testing that needs human interaction, ingenuity, intuition or insight.
+
