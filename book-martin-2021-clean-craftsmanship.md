@@ -115,9 +115,7 @@ if (alcoholLimitExceedsGroceryStoreLimit) {
 
 # Simple Design
 
-A simple design is a design where the concern of high level policies are decouples from low level details.
-
-Abstraction is the amplification of the essential, and elimination of the irrelevant.
+A simple design is a design where the concern of high level policies are decoupled from low level details. Abstraction is the amplification of the essential, and elimination of the irrelevant. An example of this would be a method call that just calls other methods that deal with the details of what you want to do. You would then clearly be able to read what's going on by looking at the main method, without worrying about complex if statements, switches, etc.
 
 YAGNI, you aren't gonna need it. If something can be left out of your code, you should probably do so. If you do not need it now, you're prob not going to need it in the future. Always ask yourself this, and consider whether you actually need the stuff you are adding.
 
@@ -131,3 +129,6 @@ How much coverage is enough? 100%, that's the only way you know that all your co
 
 Testable code facilitates simple design as you need to write good gode for it to be testable.
 
+There are two types of duplication, real duplication and accidental duplication. Real duplication is bad, and should be removed. Accidental duplication is duplication where it's often the intention that the duplicated code either represents different things, or will evolve in different directions.
+
+After doing the green, red, refactor loop to get where you want, the last step is often to clean up everything (a last refactor if you will) where you make the code as small as possible without making it less expressive.
