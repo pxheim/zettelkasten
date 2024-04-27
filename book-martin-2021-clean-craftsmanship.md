@@ -127,3 +127,7 @@ YAGNI, you aren't gonna need it. If something can be left out of your code, you 
 - No duplication
 - Fewest elements (small)
 
+How much coverage is enough? 100%, that's the only way you know that all your code actually works, but it's unreachable in most cases. Still, aim towards it as an asymptotic goal.
+
+Testable code facilitates simple design as you need to write good gode for it to be testable.
+
