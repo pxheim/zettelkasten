@@ -160,4 +160,9 @@ Take pride in your work and keep the promise to your customers (and colleagues) 
 
 When asked to change something, developers should come up with an estimate that is proportional to the scope of the change. Making software that is inflexible goes against the whole point of making software. Alas, this is often the case due to missing testing and refactoring.
 
-The rhythm of releasing software should be quick. At most a week or
+The rhythm of releasing software should be quick. At most a week or so. At best software should always be ready to be released. This is possible through good tests and communication.
+
+Stable productivity is only possible if testing discipline is kept from the start. Otherwise productivity will decline until a complete rewrite is in order.
+
+# Quality
+
