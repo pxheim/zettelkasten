@@ -143,3 +143,15 @@ Junior + Junior = Warning. Should be watched by senior.
 
 # Acceptance tests
 
+Advocates that these tests should be written by business analysts or qa department, but completed by developers. Thus, developers are lazy and do not want to, so they will end up being automated. Crucially, since they are written by product people, they will be understood by them. Typically GIVEN WHEN THEN.
+
+# Productivity
+
+> Ask GPT to be my new CTO?
+
+Never ship shit.
+- Bugs
+- Untested functions
+- Poorly written functions
+- Dependency on details
+- Unnecessary couplings
