@@ -196,5 +196,9 @@ Learn 1 new language every year. Try to make it something that is very different
 
 Mentor people. Always. The best way to learn is to teach.
 
+# Ethics
+
+The oath:
+
 
 
