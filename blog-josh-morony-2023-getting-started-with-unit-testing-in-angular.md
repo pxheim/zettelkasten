@@ -28,3 +28,8 @@ Remember to initialize your @inputs by supplying a default value to them in the 
 
 Observer spy: @hirez_io/observer-spy [[$Research]]
 
+A good way to write these tests are
+
+`describe('input: something, () => {})`
+
+`describe('output: something, () => {})`
