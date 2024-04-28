@@ -220,3 +220,4 @@ It's often hard to know whether your software can harm or not. Thus, you must kn
 Messy software is harmful software, keep it clean, functional and tested. Do not leave crap around in your code. Quick fixes and workarounds must be removed or fixed, not left.
 
 Doing TDD will prevent these potential harmful issues. TDD is a requirement for being a professional developer. You cannot be one without.
+
