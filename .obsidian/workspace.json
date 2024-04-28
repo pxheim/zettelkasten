@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d8d6cc0b5daf713c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog-josh-morony-2023-testing-smart-components-services-in-angular.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b2d41a5d5b71057a",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog-josh-morony-2023-getting-started-with-unit-testing-in-angular.md",
+                "file": "blog-josh-morony-2023-testing-smart-components-services-in-angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog-josh-morony-2023-getting-started-with-unit-testing-in-angular.md",
+                "file": "blog-josh-morony-2023-testing-smart-components-services-in-angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog-josh-morony-2023-getting-started-with-unit-testing-in-angular.md"
+                "file": "blog-josh-morony-2023-testing-smart-components-services-in-angular.md"
               }
             }
           }
@@ -151,12 +164,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "54b69d00bfa13c02",
+  "active": "d8d6cc0b5daf713c",
   "lastOpenFiles": [
+    "blog-josh-morony-2023-getting-started-with-unit-testing-in-angular.md",
+    "blog-josh-morony-2023-testing-smart-components-services-in-angular.md",
     "book-skelton-pais-2019-team-topologies.md",
     "$Bibliography.md",
     "$Blogs.md",
-    "blog-josh-morony-2023-getting-started-with-unit-testing-in-angular.md",
     "book-martin-2021-clean-craftsmanship.md",
     "book-kim-behr-spafford-2013-the-phoenix-project.md",
     "book-humble-farley-2010-continuous-delivery.md",
@@ -179,7 +193,6 @@
     "acceptance-tests.md",
     "git-flow.md",
     "branching-is-bad-for-ci.md",
-    "git-hub-flow.md",
     "_templates",
     "Untitled.canvas",
     "$projects",
