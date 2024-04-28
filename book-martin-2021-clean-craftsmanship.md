@@ -221,3 +221,13 @@ Messy software is harmful software, keep it clean, functional and tested. Do not
 
 Doing TDD will prevent these potential harmful issues. TDD is a requirement for being a professional developer. You cannot be one without.
 
+Do not allow rushing at the cost of you doing your best work. I.e. don't skip tests and refactoring just because you are in a hurry. Often the pressure to code fast comes from within, not even our boss.
+
+Good structure comes from writing tests first. You cannot test code with poor structure.
+
+Code with poor structure is
+- Rigid: Minor changes to the system is hard to integrate with the rest of the system
+- Fragile: Minor changes force many changes in other modules. Then, that small change is likely to cause something else to break.
+- Immobile: If you want to use some part of code and you cannot because it's so entangled in other code.
+
+
