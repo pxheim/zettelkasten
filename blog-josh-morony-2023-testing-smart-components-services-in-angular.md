@@ -7,4 +7,3 @@ Smart components supply dumb ones with input, this needs to be tested. They also
 Often, the tests for the smart components are very similar to the dumb ones, with just a few things moved around.
 
 Do not actually test the service, use mocks.
-
