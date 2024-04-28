@@ -60,8 +60,6 @@ Allen, D. (2019). _Getting Things Done: The Art of Stress-Free Productivity_ (Re
 
 [[create-checklists-for-new-processes]]
 
-
-
 After 2 years of GTD, do a "big picture review" where you consider the larger picture. You need to have your life in order first before you do this. That takes 2 years.
 
 [[4-criteria-model-for-setting-priorities]]

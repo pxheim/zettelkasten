@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-martin-2021-clean-craftsmanship.md",
+                "file": "book-skelton-pais-2019-team-topologies.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-martin-2021-clean-craftsmanship.md",
+                "file": "book-skelton-pais-2019-team-topologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-martin-2021-clean-craftsmanship.md",
+                "file": "book-skelton-pais-2019-team-topologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-martin-2021-clean-craftsmanship.md"
+                "file": "book-skelton-pais-2019-team-topologies.md"
               }
             }
           }
@@ -130,15 +129,16 @@
   },
   "active": "54b69d00bfa13c02",
   "lastOpenFiles": [
+    "book-martin-2021-clean-craftsmanship.md",
+    "book-kim-behr-spafford-2013-the-phoenix-project.md",
     "book-humble-farley-2010-continuous-delivery.md",
+    "implementing-ci.md",
+    "book-allen-2022-getting-things-done.md",
+    "book-ahrens-2022-how-to-take-smart-notes.md",
     "$Hubs.md",
     "$Bibliography.md",
     "theory-of-constraints.md",
-    "book-martin-2021-clean-craftsmanship.md",
-    "book-kim-behr-spafford-2013-the-phoenix-project.md",
     "book-skelton-pais-2019-team-topologies.md",
-    "book-allen-2022-getting-things-done.md",
-    "book-ahrens-2022-how-to-take-smart-notes.md",
     "$Research.md",
     "_refs",
     "Untitled.md",
@@ -156,7 +156,6 @@
     "git-hub-flow.md",
     "organizing-your-work.md",
     "working-with-notes-set-zettelkasten-apart.md",
-    "elaboration-best-way-to-learn.md",
     "_templates",
     "Untitled.canvas",
     "$projects",
