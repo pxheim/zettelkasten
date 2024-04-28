@@ -230,4 +230,5 @@ Code with poor structure is
 - Fragile: Minor changes force many changes in other modules. Then, that small change is likely to cause something else to break.
 - Immobile: If you want to use some part of code and you cannot because it's so entangled in other code.
 
+Structure is more important than behavior, but this contradicts "make it work and then make it right.". This is why when working on user stories, you first make it work and then you do not ever move on until you have the structure right. TDD follows this.
 
