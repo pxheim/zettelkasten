@@ -22,3 +22,5 @@ To check that an element exists you should use a test-id or similar that is deco
 
 Remember TDD principles. Write as much of a test as you can before it fails, then fix the test by writing bare minimum, then cont. writing test, and so on.
 
+Observer spy: @hirez_io/observer-spy [[$Research]]
+
