@@ -232,3 +232,12 @@ Code with poor structure is
 
 Structure is more important than behavior, but this contradicts "make it work and then make it right.". This is why when working on user stories, you first make it work and then you do not ever move on until you have the structure right. TDD follows this.
 
+Structured programming, proven by Dijkstra that any computer program can be broken down into only 
+- Sequence: lines of code in order.
+- Selection: if, else, switch, etc.
+- Iteration: for, while, etc.
+
+As a result of structured programming came functional decomposition, the act of starting your program at the top and breaking it down into smaller and smaller functions that are ultimately testable.
+
+# Integrity
+
