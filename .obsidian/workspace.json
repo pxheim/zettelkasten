@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54b69d00bfa13c02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8d6cc0b5daf713c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog-morony-2023-testing-smart-components-services-in-angular.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0829973352217bb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
+                "file": "dysfunction-lack-of-trust.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
+                "file": "dysfunction-lack-of-trust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
+                "file": "dysfunction-lack-of-trust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md"
+                "file": "dysfunction-lack-of-trust.md"
               }
             }
           }
@@ -178,13 +153,14 @@
   },
   "active": "0829973352217bb9",
   "lastOpenFiles": [
-    "book-kim-behr-spafford-2013-the-phoenix-project.md",
     "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
+    "dysfunction-lack-of-trust.md",
+    "blog-morony-2023-testing-smart-components-services-in-angular.md",
+    "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
+    "book-kim-behr-spafford-2013-the-phoenix-project.md",
     "book-humble-farley-2010-continuous-delivery.md",
     "book-allen-2022-getting-things-done.md",
     "book-ahrens-2022-how-to-take-smart-notes.md",
-    "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
-    "blog-morony-2023-testing-smart-components-services-in-angular.md",
     "book-skelton-pais-2019-team-topologies.md",
     "$Bibliography.md",
     "$Blogs.md",
@@ -204,7 +180,6 @@
     "git-branching-strategies.md",
     "nonfunctional-acceptance-tests.md",
     "acceptance-tests.md",
-    "git-flow.md",
     "_templates",
     "Untitled.canvas",
     "$projects",
