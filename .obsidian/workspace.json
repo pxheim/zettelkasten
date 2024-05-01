@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dysfunction-fear-of-conflict.md",
+                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dysfunction-fear-of-conflict.md",
+                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dysfunction-fear-of-conflict.md",
+                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dysfunction-fear-of-conflict.md"
+                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md"
               }
             }
           }
@@ -153,9 +153,13 @@
   },
   "active": "0829973352217bb9",
   "lastOpenFiles": [
+    "the -five-dysfunctions-of-a-team.md",
     "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
-    "dysfunction-fear-of-conflict.md",
-    "dysfunction-lack-of-trust.md",
+    "dysfunction-5-inattention-to-results.md",
+    "dysfunction-4-avoidance-of-accountability.md",
+    "dysfunction-3-lack-of-commitment.md",
+    "dysfunction-2-fear-of-conflict.md",
+    "dysfunction-1-lack-of-trust.md",
     "$Bibliography.md",
     "blog-morony-2023-testing-smart-components-services-in-angular.md",
     "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
@@ -176,10 +180,6 @@
     "over-utilized-resource-bottleneck.md",
     "types-of-software-tests.md",
     "law-of-parkinson--work-takes-the-time-given-to-it.md",
-    "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
-    "distributed-cognition.md",
-    "git-branching-strategies.md",
-    "nonfunctional-acceptance-tests.md",
     "_templates",
     "Untitled.canvas",
     "$projects",

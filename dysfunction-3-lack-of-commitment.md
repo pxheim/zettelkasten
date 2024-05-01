@@ -1,0 +1,1 @@
+Lack of commitment: ambiguity. If you're not able offload your opinions, you are less likely to buy-in to commitments that are made (as you feel like you were unable to contribute), thus leading to ambiguity.

@@ -1,0 +1,1 @@
+Inattention to results: status and ego. Your team goals are the most important, not your own. And your team should share the same goals. It's not sales' responsibility that sales are down. It's the whole fucking team.
