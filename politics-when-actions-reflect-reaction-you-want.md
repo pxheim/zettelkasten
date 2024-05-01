@@ -1,0 +1,1 @@
+Politics is when your actions reflect the reaction you want from others vs. what you believe yourself.

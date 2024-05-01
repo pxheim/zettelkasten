@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
+                "file": "dysfunction-3-lack-of-commitment.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
+                "file": "dysfunction-3-lack-of-commitment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
+                "file": "dysfunction-3-lack-of-commitment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md"
+                "file": "dysfunction-3-lack-of-commitment.md"
               }
             }
           }
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,31 +154,31 @@
   "lastOpenFiles": [
     "the -five-dysfunctions-of-a-team.md",
     "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
+    "book-martin-2021-clean-craftsmanship.md",
+    "always-ask-what-is-the-next-action.md",
+    "acceptance-tests.md",
+    "4-criteria-model-for-setting-priorities.md",
+    "2-minute-rule.md",
+    "$Research.md",
+    "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
+    "blog-morony-2023-testing-smart-components-services-in-angular.md",
+    "politics-when-actions-reflect-reaction-you-want.md",
+    "dysfunction-2-fear-of-conflict.md",
     "dysfunction-5-inattention-to-results.md",
     "dysfunction-4-avoidance-of-accountability.md",
     "dysfunction-3-lack-of-commitment.md",
-    "dysfunction-2-fear-of-conflict.md",
     "dysfunction-1-lack-of-trust.md",
     "$Bibliography.md",
-    "blog-morony-2023-testing-smart-components-services-in-angular.md",
-    "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
     "book-kim-behr-spafford-2013-the-phoenix-project.md",
     "book-humble-farley-2010-continuous-delivery.md",
     "book-allen-2022-getting-things-done.md",
     "book-ahrens-2022-how-to-take-smart-notes.md",
     "book-skelton-pais-2019-team-topologies.md",
     "$Blogs.md",
-    "book-martin-2021-clean-craftsmanship.md",
     "implementing-ci.md",
     "$Hubs.md",
     "theory-of-constraints.md",
-    "$Research.md",
     "_refs",
-    "Untitled.md",
-    "devops-three-ways.md",
-    "over-utilized-resource-bottleneck.md",
-    "types-of-software-tests.md",
-    "law-of-parkinson--work-takes-the-time-given-to-it.md",
     "_templates",
     "Untitled.canvas",
     "$projects",
