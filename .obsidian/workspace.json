@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dysfunction-lack-of-trust.md",
+                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dysfunction-lack-of-trust.md",
+                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dysfunction-lack-of-trust.md",
+                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dysfunction-lack-of-trust.md"
+                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md"
               }
             }
           }
@@ -153,8 +153,9 @@
   },
   "active": "0829973352217bb9",
   "lastOpenFiles": [
-    "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
     "dysfunction-lack-of-trust.md",
+    "$Bibliography.md",
+    "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
     "blog-morony-2023-testing-smart-components-services-in-angular.md",
     "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
     "book-kim-behr-spafford-2013-the-phoenix-project.md",
@@ -162,7 +163,6 @@
     "book-allen-2022-getting-things-done.md",
     "book-ahrens-2022-how-to-take-smart-notes.md",
     "book-skelton-pais-2019-team-topologies.md",
-    "$Bibliography.md",
     "$Blogs.md",
     "book-martin-2021-clean-craftsmanship.md",
     "implementing-ci.md",

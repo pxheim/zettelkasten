@@ -4,7 +4,7 @@ Lencioni, P. (2002). _The Five Dysfunctions of a Team: A Leadership Fable_. Joss
 
 The five dysfunctions of a team are represented as a pyramid where the bottommost dysfunction leads to the upper layers. From the top, they are:
 - [[dysfunction-lack-of-trust]]
-- 
+- [[dysfunction-]]
 - 
 
 
