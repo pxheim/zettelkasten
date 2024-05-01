@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
+                "file": "dysfunction-fear-of-conflict.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
+                "file": "dysfunction-fear-of-conflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
+                "file": "dysfunction-fear-of-conflict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-lencioni-2002-the-five-dysfunctions-of-a-team.md"
+                "file": "dysfunction-fear-of-conflict.md"
               }
             }
           }
@@ -153,8 +153,8 @@
   },
   "active": "0829973352217bb9",
   "lastOpenFiles": [
-    "dysfunction-fear-of-conflict.md",
     "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
+    "dysfunction-fear-of-conflict.md",
     "dysfunction-lack-of-trust.md",
     "$Bibliography.md",
     "blog-morony-2023-testing-smart-components-services-in-angular.md",
