@@ -253,4 +253,7 @@ Project lifecycle steps:
 2. Inception: Gather requirements, scope features & analyze data w/ stakeholders from pt. 1. Loosely based on speculation. Don't be worried if things decided here will change.
 3. Initiation: Agree on the "practical" stuff before you actually start work. Architecture, set up server, etc.
 4. Develop and release: iteratively.
-5. Operation: support release and 
+5. Operation: support release and develop new things following the procedure, starting from 1.
+
+Risk management 101: On a scale from 0 to 1, determine the probability of something going wrong. Figure out cost if the risk materializes. These values multiplied will be your risk. Mitigate based on what has the highest risk, however discount force majeure things.
+
