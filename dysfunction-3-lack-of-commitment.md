@@ -8,3 +8,4 @@ In order to achieve commitment:
 - Contingency and worst case: If struggling to commit, evaluate worst case first, then, when that's not too bad, making a decision might get easier.
 - Low risk exposure therapy: Be very clear about even small decisions. Also do not spend too much time gathering data for decisions up front. That can come later.
 
+As a leader you must be comfortable making decisions that ultimately turn out to be wrong. Also you must be fine not reaching a consensus and then being the tie breaker.
