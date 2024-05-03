@@ -241,3 +241,11 @@ As a result of structured programming came functional decomposition, the act of 
 
 # Integrity
 
+Following the story of version control, in the start the cycle time was the length of the project. Then gradually, as new tech became available, the cycle time shortened more and more until we got to where we are today, CI.
+
+Branching is evil in the eyes of CI, but in rare cases necessary. For tracking releases it's fine. For very few select features that are isolated from the rest of the code and cannot be split up into pieces, it's fine. But these are extreme cases. It's much better to integrate often and use strategies like.
+- Feature flags
+- Command pattern [[$Research]]
+- Decorator pattern [[$Research]]
+- Factory pattern [[$Research]]
+
