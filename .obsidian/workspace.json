@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-martin-2019-clean-agile.md",
+                "file": "book-humble-farley-2010-continuous-delivery.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-martin-2019-clean-agile.md",
+                "file": "book-humble-farley-2010-continuous-delivery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-martin-2019-clean-agile.md",
+                "file": "book-humble-farley-2010-continuous-delivery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-martin-2019-clean-agile.md"
+                "file": "book-humble-farley-2010-continuous-delivery.md"
               }
             }
           }
@@ -141,8 +141,8 @@
   },
   "active": "83bf961527041a72",
   "lastOpenFiles": [
-    "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
     "book-martin-2019-clean-agile.md",
+    "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
     "book-martin-2021-clean-craftsmanship.md",
     "book-humble-farley-2010-continuous-delivery.md",
     "book-kim-behr-spafford-2013-the-phoenix-project.md",

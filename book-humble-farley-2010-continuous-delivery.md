@@ -196,3 +196,11 @@ When deploying, do not delete old files. Move them  / keep a copy of them.
 
 Keep bus factor low, everybody should be able to perform a deployment.
 
+Law of Demeter: design guideline for OOP to prevent tightly coupled classses stating that for a method M of class C, M should only invoke methods of:
+- C itself
+- Object created by C
+- Object passed as arg to M
+- Object held in an instance variable of C
+- A static field
+
+Componentization is key to be able to release things continuously. Do componentization when a project is in its infancy. T
