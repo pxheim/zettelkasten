@@ -267,5 +267,8 @@ The only way to go "fast" as a developer is to go "well". Do the right thing. Do
 
 Three direct ways of achieving productivity:
 - Viscosity: How long does it take you to do things. Coding is only a small part of being a developer. Make sure things like building, testing, debugging and deployment all are super fast.
-- Distractions: 
-- Time management
+- Distractions: Meetings should only be attended when you are needed. Otherwise leave. Subjective: Try to code without music. It occupies the brain. Also, try to resist getting into the flow. The code produced then seems to be quite bad.
+- Time management: Pomodoro timer. Divide work into segments of 25 minutes then 5 min break. Do not let yourself get interrupted during those 25 minutes. If someone needs you, get back to them during your 5 minutes.
+
+# Teamwork
+
