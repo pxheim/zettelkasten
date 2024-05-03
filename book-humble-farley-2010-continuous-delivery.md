@@ -203,4 +203,34 @@ Law of Demeter: design guideline for OOP to prevent tightly coupled classses sta
 - Object held in an instance variable of C
 - A static field
 
-Componentization is key to be able to release things continuously. Do componentization when a project is in its infancy. T
+Componentization is key to be able to release things continuously. Do componentization when a project is in its infancy. Terrible later.
+
+3  main strategies for keeping your app releasable. Following all can enable a team to forgo branches completely in VCS.
+1. Hide new functionality (feature flags).
+2. Incremental releasable changes.
+3. "Branching" by abstraction for larger changes.
+
+Componentization is a 4th, but is only reserved for large scale applications.
+
+Tempting to do big changes as it may seem easier to break app then then fix it again when changes are made. This is most often an illusion. You are better off breaking changes down and keeping the app releasable.
+
+Branching by abstraction is a method where you replace a part of your code by first identifying the "seam", i.e. all entry points to this code. Then make an abstraction of the code you need to replace before implementing the abstraction. Then you can replace the code by making a new implementation of the abstracted interface.
+
+Do not split teams up based on components. Do it instead on user stories. Then componentization become everybody's responsibility.
+
+Keep one pipeline for your entire application if you can. Can get quite large before needing to split it up. There's always additional overhead associated with splitting up.
+
+Potentially start integration as soon as unit tests pass (to save time).
+
+Common to refresh dependencies after every release.
+
+When making release branch, grab binary from artifact repo and use it. Do not regenerate build.
+
+Never ever use long lived branches (except for releases. Tag release branch when release is released). Branching in any form should be last resort.
+
+Branching by feature, i.e. each feature is branched from main and developed until completion until it's merged _can_ work, but should be avoided. Much better to split up.
+
+Branching by team, i.e. each team has their own branch for the stories they work on _can_ work, ut should also be avoided.
+
+It's always better to start off by not branching, and then introducing branching if you really truly have to in the future.
+
