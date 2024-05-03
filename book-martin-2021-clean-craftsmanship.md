@@ -249,3 +249,13 @@ Branching is evil in the eyes of CI, but in rare cases necessary. For tracking r
 - Decorator pattern [[$Research]]
 - Factory pattern [[$Research]]
 
+If, after your tests pass, you are confident that you can deploy to production, your tests are good enough. Otherwise they are not.
+
+CD does not mean that you _should_ deploy multiple times per day, but instead that you _can_ deploy multiple times per day. As a developer you should always be ready, and when business comes, you can tell them to go ahead.
+
+Never allow the build to fail.
+
+Do not turn code coverage into a management metric, don't fail the build if coverage is low and don't accept any goal other than 100%. You're likely never able to achieve 100% coverage for your entire application, but you should work towards it by creating meaningful tests nonetheless.
+
+Mutation testing is a tactic to uncover areas of your code that might appear to be covered by tests, but have some cases that are not. Running a mutation test will change certain parts of the code, e.g. `==` to `!=` and `<` to `>` and then run your tests again.
+
