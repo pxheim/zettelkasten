@@ -259,3 +259,13 @@ Do not turn code coverage into a management metric, don't fail the build if cove
 
 Mutation testing is a tactic to uncover areas of your code that might appear to be covered by tests, but have some cases that are not. Running a mutation test will change certain parts of the code, e.g. `==` to `!=` and `<` to `>` and then run your tests again.
 
+The goal of test coverage and mutation testing is  to create a test suite that ensures semantic stability, i.e. it tests that the system does what it's required to do.
+
+Boy scout rule is to leave the code a little cleaner, a little better, than how you found it. By doing this, you essentially test how flexible the code is, i.e. how easy it is to make changes to certain parts of the code. If you happen to find some part of the code that's hard to clean, you have uncovered some part that might be poorly structured.
+
+The only way to go "fast" as a developer is to go "well". Do the right thing. Do TDD. Refactor. User proper design patterns. Clean code. These are all indirect ways of going fast.
+
+Three direct ways of achieving productivity:
+- Viscosity: How long does it take you to do things. Coding is only a small part of being a developer. Make sure things like building, testing, debugging and deployment all are super fast.
+- Distractions: 
+- Time management
