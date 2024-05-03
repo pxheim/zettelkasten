@@ -3,7 +3,7 @@ The third dysfunction is a lack of commitment, which often comes from a wish to 
 In order to for this to work you need everybody to feel like they had their opinions heard. As mentioned, they might not all be taken into account, but at least they are voiced.
 
 In order to achieve commitment:
-- Cascading messages. After any meeting involving your peers, go over what the next actions for are. This ensures you are in agreement, but also ensures that communication downwards is the same coming from all executives.
+- Cascading messages. After any meeting involving your peers, go over what the next actions for are. This ensures you are in agreement, but also ensures that communication downwards is the same coming from all executives. [[working-with-next-actions]]
 - Deadlines: Commit to deadlines for when decision will be made.
 - Contingency and worst case: If struggling to commit, evaluate worst case first, then, when that's not too bad, making a decision might get easier.
 - Low risk exposure therapy: Be very clear about even small decisions. Also do not spend too much time gathering data for decisions up front. That can come later.
