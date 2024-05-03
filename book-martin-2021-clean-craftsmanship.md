@@ -272,3 +272,4 @@ Three direct ways of achieving productivity:
 
 # Teamwork
 
+If working remotely, create a virtual team room where everyone is at the same time. Mic active most of the t
