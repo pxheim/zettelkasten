@@ -280,4 +280,7 @@ Get together at least one week per quarter.
 
 Estimates based on an end date is a lie. Even if you _need_ to make a deadline, it just encourages lying about the estimate to ensure you meet the deadline.
 
-When estimating, add a fudge factor. Something you multiply your estimates by to account for all the things you forget to account for. This might seem odd, but indeed it's often quite accurate. If something is very 
+When estimating, add a fudge factor. Something you multiply your estimates by to account for all the things you forget to account for. This might seem odd, but indeed it's often quite accurate. If something is very complicated, you can double the fudge factor. Estimates are called estimates because they are wrong.
+
+Learn a new language every year, and pick the weird ones. But not just that, you should learn different frameworks, different processes and different methodologies as well.
+
