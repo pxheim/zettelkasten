@@ -6,3 +6,5 @@ In order to avoid:
 - Team rewards: Shift from individual achievements towards team achievements. A team is less likely to stand by and watch themselves fail due to a single person not dragging their weight when the goal is for the whole team.
 
 As a leader you must ensure that it's the team who's holding themselves accountable. It's very easy for a leader to enter into a position, willingly or not, where they become the sole source of discipline. The team will then look to the leader to hold the rest of them accountable. Don't let this happen.
+
+When avoiding accountability, you are more likely to focus on your own personal gains rather than those of the team, leading to [[dysfunction-5-inattention-to-results]].

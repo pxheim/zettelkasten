@@ -3,3 +3,5 @@ The last dysfunction is when the team puts individual results above those of the
 In order to achieve this
 - Public declaration of results: publicly proclaim that you intend to achieve success, and mean it. Be aware of teams who say "we'll do our best". That's just another way of saying that they expect failure.
 - Results-based rewards: tie the team's achievements to rewards, especially compensation, to ensure they are focused on what's important. Don't allow people to take home a bonus for "trying hard".
+
+As a leader, perhaps more than the other dysfunctions, you need to set an example for keeping focus. 

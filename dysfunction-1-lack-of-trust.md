@@ -8,3 +8,5 @@ Takes time to fix, but to get started you can do the following
 - "Traditional" team building: While there might be some merit to this, it's not controlled enough to be able to facilitate improving trust.
 
 As a leader, you must set an example when it comes to building trust. Be the first one to share something about yourself. Be vulnerable. And make sure to create an environment where everyone can be the same.
+
+Lack of trust leads to [[dysfunction-2-fear-of-conflict]] as without trust you're likely to avoid conflict in fear of negative personal repercussions.

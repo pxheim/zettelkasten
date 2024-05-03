@@ -9,3 +9,5 @@ In order to achieve commitment:
 - Low risk exposure therapy: Be very clear about even small decisions. Also do not spend too much time gathering data for decisions up front. That can come later.
 
 As a leader you must be comfortable making decisions that ultimately turn out to be wrong. Also you must be fine not reaching a consensus and then being the tie breaker.
+
+Lack of commitment leads to [[dysfunction-4-avoidance-of-accountability]] as when you're not committed you cannot be held accountable. You simply do not care.
