@@ -272,4 +272,12 @@ Three direct ways of achieving productivity:
 
 # Teamwork
 
-If working remotely, create a virtual team room where everyone is at the same time. Mic active most of the t
+If working remotely, create a virtual team room where everyone is at the same time. Mic active most of the time. Create the illusion of a shared office.
+
+Work at least 6 hours in the same room.
+
+Get together at least one week per quarter.
+
+Estimates based on an end date is a lie. Even if you _need_ to make a deadline, it just encourages lying about the estimate to ensure you meet the deadline.
+
+When estimating, add a fudge factor. Something you multiply your estimates by to account for all the things you forget to account for. This might seem odd, but indeed it's often quite accurate. If something is very 
