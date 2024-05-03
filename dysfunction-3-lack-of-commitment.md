@@ -5,5 +5,6 @@ In order to for this to work you need everybody to feel like they had their opin
 In order to achieve commitment:
 - Cascading messages. After any meeting involving your peers, go over what the next actions for are. This ensures you are in agreement, but also ensures that communication downwards is the same coming from all executives.
 - Deadlines: Commit to deadlines for when decision will be made.
-- Contingency and worst case: 
-- Low risk exposure therapy: 
+- Contingency and worst case: If struggling to commit, evaluate worst case first, then, when that's not too bad, making a decision might get easier.
+- Low risk exposure therapy: Be very clear about even small decisions. Also do not spend too much time gathering data for decisions up front. That can come later.
+
