@@ -1,1 +1,3 @@
-This is where hub-notes are stored in the backlinks.
+Backlink to hubs.
+
+These are starting points lots of information.

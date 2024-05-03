@@ -234,3 +234,23 @@ Branching by team, i.e. each team has their own branch for the stories they work
 
 It's always better to start off by not branching, and then introducing branching if you really truly have to in the future.
 
+Software that has not been released is the same as inventory in your warehouse. You spent money making it and you're not making money from it just sitting there.
+
+Maturity model [[$Reference]]
+
+Use the Demming cycle when working with the maturity model: plan, do, check, act.
+
+Incremental improvements when implementing CI. Do not attempt to do it all at once.
+
+1. Classify the current state.
+2. Pick an area that is a pain-point.
+3. Implement changes.
+4. Retrospective.
+5. Pick another option.
+
+Project lifecycle steps:
+1. Identification: Figure out the business case and determine stakeholders and other key people.
+2. Inception: Gather requirements, scope features & analyze data w/ stakeholders from pt. 1. Loosely based on speculation. Don't be worried if things decided here will change.
+3. Initiation: Agree on the "practical" stuff before you actually start work. Architecture, set up server, etc.
+4. Develop and release: iteratively.
+5. Operation: support release and 

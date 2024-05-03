@@ -1,1 +1,1 @@
-This is where blogs are stored in the backlinks.
+Backlink to blogs, articles, etc.
