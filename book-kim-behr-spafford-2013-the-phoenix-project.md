@@ -7,4 +7,3 @@ Kim, G., Behr, K., & Spafford, G. (2013). _The Phoenix Project: A novel about IT
 [[over-utilized-resource-bottleneck]]
 
 [[devops-three-ways]]
-
