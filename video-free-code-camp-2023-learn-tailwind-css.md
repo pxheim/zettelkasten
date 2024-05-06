@@ -50,4 +50,8 @@ Most spacing are self explanatory, `mt-1` is margin top 1, `pb-1` is padding bot
 
 Horizontal and vertical spacing is denoted by x and y respectively.
 
-Negative spacing is done by adding a 
+Negative spacing is done by adding a dash (minus) before the class, e.g. `-mt-1`.
+
+`w` and `h` are used to refer to width and height respectively. You can either use them with constant values, e.g. `w-16`, or with relative values, e.g. `w-1/2` which will work with flex.
+
+`w-full` refers to the whole width.
