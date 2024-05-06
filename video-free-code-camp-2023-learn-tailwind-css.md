@@ -36,8 +36,18 @@ You can add arbitrary variables into your classes if you have one-off things, e.
 You can create custom css classes using a combination of tailwind classes by using the `@apply` directive. E.g.
 
 ```css
-.card {
+.heading {
   @apply text-white;
   @apply text-xl;
 }
 ```
+
+Writing plugins [[$Research]] not covered well in the video.
+
+# Spacing
+
+Most spacing are self explanatory, `mt-1` is margin top 1, `pb-1` is padding bottom 1.
+
+Horizontal and vertical spacing is denoted by x and y respectively.
+
+Negative spacing is done by adding a 
