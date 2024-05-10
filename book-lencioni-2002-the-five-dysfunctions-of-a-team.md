@@ -2,7 +2,7 @@ Lencioni, P. (2002). _The Five Dysfunctions of a Team: A Leadership Fable_. Joss
 
 [[$Bibliography]]
 
-[[the -five-dysfunctions-of-a-team]]
+[[the-five-dysfunctions-of-a-team]]
 
 [[dysfunction-1-lack-of-trust]]
 

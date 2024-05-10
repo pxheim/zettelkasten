@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "video-free-code-camp-2023-learn-tailwind-css.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45c6b26a4deada79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "blog-makszy-2023-how-to-train-your-designer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,11 +127,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "45c6b26a4deada79",
+  "active": "6395a8a79fefbf6a",
   "lastOpenFiles": [
-    "dysfunction-5-inattention-to-results.md",
-    "blog-makszy-2023-how-to-train-your-designer.md",
     "video-free-code-camp-2023-learn-tailwind-css.md",
+    "the-five-dysfunctions-of-a-team.md",
+    "blog-makszy-2023-how-to-train-your-designer.md",
+    "dysfunction-5-inattention-to-results.md",
     "$Videos.md",
     "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
     "blog-morony-2023-testing-smart-components-services-in-angular.md",
@@ -163,7 +151,6 @@
     "2-minute-rule.md",
     "4-criteria-model-for-setting-priorities.md",
     "one-person-can-ruin-team.md",
-    "the -five-dysfunctions-of-a-team.md",
     "dysfunction-4-avoidance-of-accountability.md",
     "dysfunction-3-lack-of-commitment.md",
     "dysfunction-2-fear-of-conflict.md",

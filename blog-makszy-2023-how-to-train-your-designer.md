@@ -23,11 +23,9 @@ Design-critique is a session where designers present their work to all available
 It's important to facilitate the design-critique sessions well. Ego can come in the way of successful collaboration. Everyone must be treated as equals.
 
 > Team dysfunctions preventing efficient collaboration during design-critique should be handled separately. Ties into what was initially mentioned about having a company ready for change.
-> See also [[the -five-dysfunctions-of-a-team]]
+> See also [[the-five-dysfunctions-of-a-team]]
 > See also [[dysfunction-5-inattention-to-results]]
 
 > How to solve "too many cooks" problem?
 
 > Article mentions design process, but it's not clear where design-critique fits in here.
-
-
