@@ -10,7 +10,11 @@ Developers are tech focused whereas designers are user focused. Developers are f
 
 > Why are we looking into the design process?
 
-Design is rooted in data, research and technical feasibility.
+Design is rooted in data, research and technical feasibility. Designers are engineers, not artists.
+
+> Why is CX mentioned in the title of a paragraph, but not really talked about?
+
+Software development inherently requires structure: there's little room for interpretation, and things must make sense logically. Conversely, designing, while also being rooted in data, does not ned to conform to the same level of rigor as development. This can often be a source of tension between developers and designers, but can be remedied by designers presenting clean and clear designs in a structured manner.
 
 # Design critique
 
@@ -25,3 +29,5 @@ It's important to facilitate the design-critique sessions well. Ego can come in 
 > How to solve "too many cooks" problem?
 
 > Article mentions design process, but it's not clear where design-critique fits in here.
+
+
