@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45c6b26a4deada79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog-makszy-2023-how-to-train-your-designer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "video-free-code-camp-2023-learn-tailwind-css.md",
+                "file": "blog-makszy-2023-how-to-train-your-designer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "video-free-code-camp-2023-learn-tailwind-css.md",
+                "file": "blog-makszy-2023-how-to-train-your-designer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "video-free-code-camp-2023-learn-tailwind-css.md"
+                "file": "blog-makszy-2023-how-to-train-your-designer.md"
               }
             }
           }
@@ -127,16 +140,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6395a8a79fefbf6a",
+  "active": "45c6b26a4deada79",
   "lastOpenFiles": [
+    "video-free-code-camp-2023-learn-tailwind-css.md",
+    "blog-makszy-2023-how-to-train-your-designer.md",
     "$Videos.md",
     "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
     "blog-morony-2023-testing-smart-components-services-in-angular.md",
     "book-ahrens-2022-how-to-take-smart-notes.md",
     "book-allen-2022-getting-things-done.md",
     "book-humble-farley-2010-continuous-delivery.md",
-    "video-free-code-camp-2023-learn-tailwind-css.md",
-    "Untitled.md",
     "book-martin-2019-clean-agile.md",
     "$Blogs.md",
     "$Bibliography.md",
