@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INVEST-principle-for-stories.md",
+                "file": "branching-is-bad-for-ci.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INVEST-principle-for-stories.md",
+                "file": "branching-is-bad-for-ci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INVEST-principle-for-stories.md",
+                "file": "branching-is-bad-for-ci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INVEST-principle-for-stories.md"
+                "file": "branching-is-bad-for-ci.md"
               }
             }
           }
@@ -142,6 +142,10 @@
   "active": "6395a8a79fefbf6a",
   "lastOpenFiles": [
     "book-humble-farley-2010-continuous-delivery.md",
+    "branching-is-bad-for-ci.md",
+    "theory-of-constraints.md",
+    "when-a-build-fails.md",
+    "build-master-role.md",
     "INVEST-principle-for-stories.md",
     "book-martin-2021-clean-craftsmanship.md",
     "book-skelton-pais-2019-team-topologies.md",
@@ -163,10 +167,6 @@
     "$Hubs.md",
     "$Reference.md",
     "$Research.md",
-    "2-minute-rule.md",
-    "4-criteria-model-for-setting-priorities.md",
-    "one-person-can-ruin-team.md",
-    "dysfunction-4-avoidance-of-accountability.md",
     "_refs",
     "_templates",
     "Untitled.canvas",

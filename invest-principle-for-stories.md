@@ -2,8 +2,7 @@ INVEST is an acronym to help write good user stories. A story should follow all 
 
 - **Independent**. It should not depend on any other uer stories, not should it overlap any other story in concept.
 - **Negotiable**. It should not be set in stone. It can change over the course of development, either by customer or developer.
-- **Valuable**. 
+- **Valuable**. The story should provide value to the customer. If splitting up the story into smaller parts, each part should still provide some value.
 - **Estimable**. You should, to a certain degree, be able to estimate how long the user story will take.
 - **Small**. It should fit within one iteration (sprint).
 - **Testable**. You should be able to write tests for it once implemented.
-

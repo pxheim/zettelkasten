@@ -72,8 +72,6 @@ Test doubles are parts of tests that simulate some real part of the application.
 
 [[INVEST-principle-for-stories]]
 
-
-
 Involve QA when writing acceptance criteria to ensure that it's testable and properly defined.
 
 Three times you can start adding tests:
@@ -93,9 +91,9 @@ Testing is the responsibility of the whole team.
 
 Rapid feedback is important for CI, but also in GTD. It must come asap, otherwise it's no longer relevant.
 
-[[failing-builds]]
+[[when-a-build-fails]]
 
-[[build-master]]
+[[build-master-role]]
 
 The commit stage of a deployment pipeline is the first and should at a minimum compile (if needed), run unit tests and critical acceptance tests, create binaries for later and perform non-functional analysis, i.e. coverage, cyclomatic complexity, duplicate code, etc. Should not take more than 5 minutes.
 
@@ -135,6 +133,8 @@ Deployment script should leave env. the way it found it, i.e. deployment should 
 - [ ] James Carr & TDD - read.
 
 An efficient commit stage should take no more than 5 minutes. Do not have any async tests as they are slow. Do not have tests with state. Do not test UI.
+
+
 
 If application is designed w/ smart / dumb components, then when doing acceptance testing, we are only interested in the smart components, thus we can forget about the dumb UI layer. This is good! We do not want to test UI unless we absolutely have to.
 
@@ -219,15 +219,9 @@ Potentially start integration as soon as unit tests pass (to save time).
 
 Common to refresh dependencies after every release.
 
+[[branching-is-bad-for-ci]]
+
 When making release branch, grab binary from artifact repo and use it. Do not regenerate build.
-
-Never ever use long lived branches (except for releases. Tag release branch when release is released). Branching in any form should be last resort.
-
-Branching by feature, i.e. each feature is branched from main and developed until completion until it's merged _can_ work, but should be avoided. Much better to split up.
-
-Branching by team, i.e. each team has their own branch for the stories they work on _can_ work, ut should also be avoided.
-
-It's always better to start off by not branching, and then introducing branching if you really truly have to in the future.
 
 Software that has not been released is the same as inventory in your warehouse. You spent money making it and you're not making money from it just sitting there.
 
