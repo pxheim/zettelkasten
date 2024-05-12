@@ -70,14 +70,9 @@ Test doubles are parts of tests that simulate some real part of the application.
 - Spies
 - Mocks
 
-INVEST principle for stories:
-- independent,
-- negotiable,
-- valuable,
-- estimable,
-- small,
-- testable
-- [ ] Expand on this.
+[[invest-principle-for-stories]]
+
+
 
 Involve QA when writing acceptance criteria to ensure that it's testable and properly defined.
 

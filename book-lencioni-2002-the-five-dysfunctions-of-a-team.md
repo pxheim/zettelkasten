@@ -17,6 +17,3 @@ Lencioni, P. (2002). _The Five Dysfunctions of a Team: A Leadership Fable_. Joss
 [[politics-when-actions-reflect-reaction-you-want]]
 
 [[one-person-can-ruin-team]]
-
-
-

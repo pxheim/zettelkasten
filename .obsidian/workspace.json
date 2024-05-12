@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-humble-farley-2010-continuous-delivery.md",
+                "file": "invest-principle-for-stories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcfa0ebb8d5ce98d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "invest-principle-for-stories.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 203.5
   },
   "right": {
     "id": "2fcfa59adc960966",
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-humble-farley-2010-continuous-delivery.md",
+                "file": "invest-principle-for-stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-humble-farley-2010-continuous-delivery.md",
+                "file": "invest-principle-for-stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-humble-farley-2010-continuous-delivery.md"
+                "file": "invest-principle-for-stories.md"
               }
             }
           }
@@ -129,6 +141,13 @@
   },
   "active": "6395a8a79fefbf6a",
   "lastOpenFiles": [
+    "book-humble-farley-2010-continuous-delivery.md",
+    "invest-principle-for-stories.md",
+    "book-martin-2021-clean-craftsmanship.md",
+    "book-skelton-pais-2019-team-topologies.md",
+    "book-martin-2019-clean-agile.md",
+    "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
+    "book-kim-behr-spafford-2013-the-phoenix-project.md",
     "book-allen-2022-getting-things-done.md",
     "book-ahrens-2022-how-to-take-smart-notes.md",
     "blog-morony-2023-testing-smart-components-services-in-angular.md",
@@ -139,22 +158,15 @@
     "the-five-dysfunctions-of-a-team.md",
     "dysfunction-5-inattention-to-results.md",
     "$Videos.md",
-    "book-humble-farley-2010-continuous-delivery.md",
-    "book-martin-2019-clean-agile.md",
     "$Blogs.md",
     "$Bibliography.md",
     "$Hubs.md",
     "$Reference.md",
     "$Research.md",
-    "book-martin-2021-clean-craftsmanship.md",
-    "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
-    "book-kim-behr-spafford-2013-the-phoenix-project.md",
     "2-minute-rule.md",
     "4-criteria-model-for-setting-priorities.md",
     "one-person-can-ruin-team.md",
     "dysfunction-4-avoidance-of-accountability.md",
-    "dysfunction-3-lack-of-commitment.md",
-    "dysfunction-2-fear-of-conflict.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
