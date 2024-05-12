@@ -70,7 +70,7 @@ Test doubles are parts of tests that simulate some real part of the application.
 - Spies
 - Mocks
 
-[[invest-principle-for-stories]]
+[[INVEST-principle-for-stories]]
 
 
 

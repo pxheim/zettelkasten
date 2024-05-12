@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "invest-principle-for-stories.md",
+                "file": "INVEST-principle-for-stories.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "invest-principle-for-stories.md",
+                "file": "INVEST-principle-for-stories.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "invest-principle-for-stories.md",
+                "file": "INVEST-principle-for-stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "invest-principle-for-stories.md",
+                "file": "INVEST-principle-for-stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "invest-principle-for-stories.md"
+                "file": "INVEST-principle-for-stories.md"
               }
             }
           }
@@ -142,7 +142,7 @@
   "active": "6395a8a79fefbf6a",
   "lastOpenFiles": [
     "book-humble-farley-2010-continuous-delivery.md",
-    "invest-principle-for-stories.md",
+    "INVEST-principle-for-stories.md",
     "book-martin-2021-clean-craftsmanship.md",
     "book-skelton-pais-2019-team-topologies.md",
     "book-martin-2019-clean-agile.md",
