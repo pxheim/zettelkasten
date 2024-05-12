@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog-makszy-2023-how-to-train-your-designer.md",
+                "file": "blog-morony-2023-testing-smart-components-services-in-angular.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog-makszy-2023-how-to-train-your-designer.md",
+                "file": "blog-morony-2023-testing-smart-components-services-in-angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog-makszy-2023-how-to-train-your-designer.md",
+                "file": "blog-morony-2023-testing-smart-components-services-in-angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog-makszy-2023-how-to-train-your-designer.md"
+                "file": "blog-morony-2023-testing-smart-components-services-in-angular.md"
               }
             }
           }
@@ -129,12 +129,12 @@
   },
   "active": "6395a8a79fefbf6a",
   "lastOpenFiles": [
+    "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
+    "blog-makszy-2023-how-to-train-your-designer.md",
     "video-free-code-camp-2023-learn-tailwind-css.md",
     "the-five-dysfunctions-of-a-team.md",
-    "blog-makszy-2023-how-to-train-your-designer.md",
     "dysfunction-5-inattention-to-results.md",
     "$Videos.md",
-    "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
     "blog-morony-2023-testing-smart-components-services-in-angular.md",
     "book-ahrens-2022-how-to-take-smart-notes.md",
     "book-allen-2022-getting-things-done.md",
