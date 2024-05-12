@@ -14,6 +14,10 @@ When disagreeing with a discipline, make sure that you don't just disagree with 
 
 [[test-driven-development]]
 
+[[3A-pattern-for-tests-arrange-act-assert]]
+
+
+You should be bad at the tools you do not want to use often. E.e. you should be bad at using the debugger in your IDE as it's indicative of having to debug often. If you're really good at debugging, perhaps you do it too much? [[$Research]]
 
 
 # Refactoring

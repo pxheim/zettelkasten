@@ -1,27 +1,21 @@
-Test driven development means that you write tests first, which fails, then the code to make it pass. You'll do this for everything, not just The three laws of TDD is:
+Test driven development means that you write tests first, which fails, then the code to make it pass. You'll do this for everything; bugs, features, anything. The three laws of TDD is:
 
 1. Write no production code until you write a test that fails due to the lack of the production code.
 2. Only write the bare minimum of a test that is needed to make it fail. Resolve failure by writing production code.
 3. Only write the bare minimum production code to make the test pass. Then write more tests. Also referred to as "don't go for the gold", implying that you should do things step by step.
 4. (Refactoring). Every time you make something work, you also make it nice.
 
-Following these laws, your workflow will now be something like 1, 2, 3, 2, 3, 2, 3... until you finish what you are working on. Initially this might seem tedious... However...
+Following these laws, your workflow will now be something like 1, 2, 3, 2, 3, 2, 3... until you finish what you are working on. The essence of this is that you maintain a test suite that ensures that if any code passes, it will be deployable. I.e. passing tests implies deployability.
 
-
-Arguably the most important of the [[software-craftsmanship]] pillars.
-
-
-
-
-For TDD, tests come first. Always. Not just when writing new features, but also when fixing bugs and really doing anything. Tests come first.
-
-The essence of TDD is that you maintain a test suite that ensures that if any code passes, it will be deployable. I.e. passing tests implies deployability.
+Test driven development is arguably the most important of the [[software-craftsmanship]] pillars.
 
 
 
 
 
-You should be bad at the tools you do not want to use often. E.e. you should be bad at using the debugger in your IDE as it's indicative of having to debug often. If you're really good at debugging, perhaps you do it too much? [[$Research]]
+
+
+
 
 When writing good tests, they will become the documentation of your code.
 
@@ -31,9 +25,7 @@ Boy scout rule, leave the code cleaner than what you found it, only really works
 
 Refactoring is not something you plan for. It's not something that shows up in your sprint. It happens all the time as part of TDD. Refactoring never changes behavior, which is why it plays nicely with TDD.
 
-Get into the habit of fail, pass, refactor, fail, pass, refactor, and so on.
 
-3A pattern when writing tests. Arrange, Act, Assert. All tests follow this pattern, basically set up stuff, perform the action you are testing, then check if the action actually completed. This can also be converted to given when then of BDD.
 
 Every test you write is a transition in the finite state machine that you are trying to create in your program. Your program is a finite state machine as your computer is a finite state machine processor. How do you ensure that all transition changes are tested? Well, by writing tests first!
 

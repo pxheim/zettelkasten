@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test-driven-development.md",
+                "file": "book-martin-2021-clean-craftsmanship.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,6 +26,24 @@
               "type": "markdown",
               "state": {
                 "file": "INVEST-principle-for-stories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "270ea13a4522edf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aef459cf343de42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test-driven-development.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "given when then",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,11 +158,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6395a8a79fefbf6a",
+  "active": "5aef459cf343de42",
   "lastOpenFiles": [
-    "software-craftsmanship.md",
     "book-martin-2021-clean-craftsmanship.md",
+    "3A-pattern-for-tests-arrange-act-assert.md",
+    "acceptance-tests.md",
     "test-driven-development.md",
+    "software-craftsmanship.md",
     "book-martin-2019-clean-agile.md",
     "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
     "book-kim-behr-spafford-2013-the-phoenix-project.md",
@@ -165,8 +186,6 @@
     "dysfunction-5-inattention-to-results.md",
     "$Videos.md",
     "$Blogs.md",
-    "$Bibliography.md",
-    "$Hubs.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
