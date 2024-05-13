@@ -1,0 +1,1 @@
+Never plan for refactoring. It should not be a task or show up as part of a user story. It happens all the time as part of test driven development or alternatively as part of the [[boy-scout-rule]]. This only works if every part of your code is covered by tests.

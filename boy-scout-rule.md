@@ -1,0 +1,1 @@
+The boy scout rule states that you should always leave the code cleaner than how you found it. This only really works if you have tests in place, otherwise you might inadvertently end up breaking some code.

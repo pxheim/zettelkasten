@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-martin-2021-clean-craftsmanship.md",
+                "file": "yagni-you-arent-gonna-need-it.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "given when then",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-martin-2021-clean-craftsmanship.md",
+                "file": "yagni-you-arent-gonna-need-it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-martin-2021-clean-craftsmanship.md",
+                "file": "yagni-you-arent-gonna-need-it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-martin-2021-clean-craftsmanship.md"
+                "file": "yagni-you-arent-gonna-need-it.md"
               }
             }
           }
@@ -161,31 +160,31 @@
   "active": "6395a8a79fefbf6a",
   "lastOpenFiles": [
     "test-driven-development.md",
+    "yagni-you-arent-gonna-need-it.md",
     "book-martin-2021-clean-craftsmanship.md",
-    "3A-pattern-for-tests-arrange-act-assert.md",
-    "acceptance-tests.md",
+    "simple-design.md",
+    "INVEST-principle-for-stories.md",
     "software-craftsmanship.md",
+    "avoid-testing-the-ui.md",
+    "specific-tests-make-for-generic-code.md",
+    "be-bad-at-the-tools-you-should-not-use.md",
+    "types-of-software-tests.md",
+    "$Blogs.md",
+    "reducing-complexity-by-organizing-into-topics-does-not-work.md",
+    "keep-tests-specific-to-single-class.md",
+    "3a-pattern-for-tests-arrange-act-assert.md",
+    "decouple-tests-from-file-layout.md",
+    "$Research.md",
+    "mezaro-test-doubles-vocabulary.md",
+    "refactoring-should-never-be-planned.md",
+    "boy-scout-rule.md",
+    "acceptance-tests.md",
     "book-martin-2019-clean-agile.md",
     "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
     "book-kim-behr-spafford-2013-the-phoenix-project.md",
     "book-humble-farley-2010-continuous-delivery.md",
     "branching-is-bad-for-ci.md",
     "theory-of-constraints.md",
-    "when-a-build-fails.md",
-    "build-master-role.md",
-    "INVEST-principle-for-stories.md",
-    "book-skelton-pais-2019-team-topologies.md",
-    "book-allen-2022-getting-things-done.md",
-    "book-ahrens-2022-how-to-take-smart-notes.md",
-    "blog-morony-2023-testing-smart-components-services-in-angular.md",
-    "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
-    "smart-and-dumb-components.md",
-    "blog-makszy-2023-how-to-train-your-designer.md",
-    "video-free-code-camp-2023-learn-tailwind-css.md",
-    "the-five-dysfunctions-of-a-team.md",
-    "dysfunction-5-inattention-to-results.md",
-    "$Videos.md",
-    "$Blogs.md",
     "_refs",
     "_templates",
     "Untitled.canvas",

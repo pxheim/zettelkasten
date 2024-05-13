@@ -1,0 +1,1 @@
+You should be bad at the tools you do not want to use often. E.g. you should be bad at using the debugger in your IDE as it's indicative of having to debug often. If you're really good at debugging, perhaps you do it too much?

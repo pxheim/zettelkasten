@@ -1,0 +1,1 @@
+It's a bad idea to have any module or class x have a corresponding test class x.test. This couples the test file with the module whereas in reality the testing of x might depend on y and z. Thus, it's a good idea to decouple the structure of your tests with the structure of your production code.

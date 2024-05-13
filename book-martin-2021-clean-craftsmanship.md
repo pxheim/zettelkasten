@@ -14,12 +14,23 @@ When disagreeing with a discipline, make sure that you don't just disagree with 
 
 [[test-driven-development]]
 
-[[3A-pattern-for-tests-arrange-act-assert]]
+[[3a-pattern-for-tests-arrange-act-assert]]
 
+[[boy-scout-rule]]
 
+[[refactoring-should-never-be-planned]]
 
-You should be bad at the tools you do not want to use often. E.e. you should be bad at using the debugger in your IDE as it's indicative of having to debug often. If you're really good at debugging, perhaps you do it too much? [[$Research]]
+[[mezaro-test-doubles-vocabulary]]
 
+[[be-bad-at-the-tools-you-should-not-use]]
+
+[[decouple-tests-from-file-layout]]
+
+[[keep-tests-specific-to-single-class]]
+
+[[specific-tests-make-for-generic-code]]
+
+Every test you write is a transition in the finite state machine that you are trying to create in your program. Your program is a finite state machine as your computer is a finite state machine processor. How do you ensure that all transition changes are tested? Well, by writing tests first!
 
 # Refactoring
 
@@ -65,15 +76,14 @@ if (alcoholLimitExceedsGroceryStoreLimit) {
 
 # Simple Design
 
-A simple design is a design where the concern of high level policies are decoupled from low level details. Abstraction is the amplification of the essential, and elimination of the irrelevant. An example of this would be a method call that just calls other methods that deal with the details of what you want to do. You would then clearly be able to read what's going on by looking at the main method, without worrying about complex if statements, switches, etc.
+[[simple-design]]
 
-YAGNI, you aren't gonna need it. If something can be left out of your code, you should probably do so. If you do not need it now, you're prob not going to need it in the future. Always ask yourself this, and consider whether you actually need the stuff you are adding.
+[[yagni-you-arent-gonna-need-it]]
 
-4 rules of simple design
-- Covered by tests (sometimes passes tests)
-- Reveals the intention
-- No duplication
-- Fewest elements (small)
+
+
+
+
 
 How much coverage is enough? 100%, that's the only way you know that all your code actually works, but it's unreachable in most cases. Still, aim towards it as an asymptotic goal.
 
