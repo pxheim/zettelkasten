@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test-driven-development.md",
+                "file": "book-martin-2021-clean-craftsmanship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test-driven-development.md",
+                "file": "book-martin-2021-clean-craftsmanship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test-driven-development.md"
+                "file": "book-martin-2021-clean-craftsmanship.md"
               }
             }
           }
@@ -158,12 +158,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5aef459cf343de42",
+  "active": "6395a8a79fefbf6a",
   "lastOpenFiles": [
+    "test-driven-development.md",
     "book-martin-2021-clean-craftsmanship.md",
     "3A-pattern-for-tests-arrange-act-assert.md",
     "acceptance-tests.md",
-    "test-driven-development.md",
     "software-craftsmanship.md",
     "book-martin-2019-clean-agile.md",
     "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
