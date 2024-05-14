@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yagni-you-arent-gonna-need-it.md",
+                "file": "book-martin-2021-clean-craftsmanship.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yagni-you-arent-gonna-need-it.md",
+                "file": "book-martin-2021-clean-craftsmanship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yagni-you-arent-gonna-need-it.md",
+                "file": "book-martin-2021-clean-craftsmanship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yagni-you-arent-gonna-need-it.md"
+                "file": "book-martin-2021-clean-craftsmanship.md"
               }
             }
           }
@@ -159,8 +159,8 @@
   },
   "active": "6395a8a79fefbf6a",
   "lastOpenFiles": [
-    "test-driven-development.md",
     "yagni-you-arent-gonna-need-it.md",
+    "test-driven-development.md",
     "book-martin-2021-clean-craftsmanship.md",
     "simple-design.md",
     "INVEST-principle-for-stories.md",
