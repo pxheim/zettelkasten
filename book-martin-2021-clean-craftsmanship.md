@@ -90,11 +90,7 @@ After doing the green, red, refactor loop to get where you want, the last step i
 
 # Collaborative programming
 
-Collaborative programming, often called pair programming, does not make the productivity drop by 50%. Studies have shown that it does drop, but only by about 15%. However, at the same time, 15% less bugs are introduced, and 15% less code is needed per feature.
-
-Senior + Junior = Good
-Senior + Senior = Good
-Junior + Junior = Warning. Should be watched by senior.
+[[collaborative-programming]]
 
 # Acceptance tests
 
@@ -103,6 +99,8 @@ Advocates that these tests should be written by business analysts or qa departme
 # Productivity
 
 > Ask GPT to be my new CTO?
+
+[[never-ship-shit]]
 
 Never ship shit.
 - Bugs
