@@ -34,6 +34,8 @@ Every test you write is a transition in the finite state machine that you are tr
 
 # Refactoring
 
+[[refactoring]]
+
 Refactoring preserves behavior. This is why tests are so important. If they pass, the behavior has not changed, thus you can refactor without worrying about breaking anything.
 
 Refactoring, cleaning up code without changing its behavior is neigh impossible without TDD. First write tests of current behavior, then write code, when tests pass again, you know you're safe. This way we know that the refactor changed nothing.
@@ -101,15 +103,6 @@ Advocates that these tests should be written by business analysts or qa departme
 > Ask GPT to be my new CTO?
 
 [[never-ship-shit]]
-
-Never ship shit.
-- Bugs
-- Untested functions
-- Poorly written functions
-- Dependency on details
-- Unnecessary couplings
-
-Take pride in your work and keep the promise to your customers (and colleagues) to never ship shit.
 
 When asked to change something, developers should come up with an estimate that is proportional to the scope of the change. Making software that is inflexible goes against the whole point of making software. Alas, this is often the case due to missing testing and refactoring.
 

@@ -1,8 +1,8 @@
 The four pillars of software craftsmanship is:
 
 - [[test-driven-development]]: write tests before you write code.
-- Simple design
+- [[simple-design]]: abstract away complexity.
 - Refactoring
-- Collaborative programming
+- [[collaborative-programming]]: pair programming.
 - Acceptance tests
  
