@@ -82,30 +82,19 @@ Stable productivity is only possible if testing discipline is kept from the star
 
 # Courage
 
-Bus factor must never be 1. This should not be the responsibility of the company. It's "your" responsibility to make sure someone can cover for you.
+[[your-responsibility-that-bus-factor-is-not-1]]
 
 Give honest estimates.
 
 Say no. Managers need it.
 
-Learn 1 new language every year. Try to make it something that is very different from what you are currently familiar with.
+[[learn-1-new-language-every-year]]
 
 Mentor people. Always. The best way to learn is to teach.
 
 # Ethics
 
-The oath, shamefully copied:
-
-1. I will not produce harmful code.
-2. The code that I produce will always be my best work. I will not knowingly allow code that is defective either in behavior or structure to accumulate.
-3. I will produce, with each release, a quick, sure, and repeatable proof that every element of the code works as it should.
-4. I will make frequent, small releases so that I do not impede the progress of others.
-5. I will fearlessly and relentlessly improve my creations at every opportunity. I will never degrade them.
-6. I will do all that I can to keep the productivity of myself and others as high as possible. I will do nothing that decreases that productivity.
-7. I will continuously ensure that others can cover for me and that I can cover for them.
-8. I will produce estimates that are honest in both magnitude and precision. I will not make promises without reasonable certainty.
-9. I will respect my fellow programmers for their ethics, standards, disciplines, and skill. No other attribute or characteristic will be a factor in my regard for my fellow programmers.
-10. I will never stop learning and improving my craft.
+[[oath-of-the-programmer]]
 
 # Harm
 
