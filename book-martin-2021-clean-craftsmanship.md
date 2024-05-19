@@ -130,9 +130,9 @@ CD does not mean that you _should_ deploy multiple times per day, but instead th
 
 Never allow the build to fail.
 
-Do not turn code coverage into a management metric, don't fail the build if coverage is low and don't accept any goal other than 100%. You're likely never able to achieve 100% coverage for your entire application, but you should work towards it by creating meaningful tests nonetheless.
+[[code-coverage]]
 
-Mutation testing is a tactic to uncover areas of your code that might appear to be covered by tests, but have some cases that are not. Running a mutation test will change certain parts of the code, e.g. `==` to `!=` and `<` to `>` and then run your tests again.
+[[mutation-testing]]
 
 The goal of test coverage and mutation testing is  to create a test suite that ensures semantic stability, i.e. it tests that the system does what it's required to do.
 

@@ -8,3 +8,5 @@ Following is a collection of the most commonly need types of tests:
 - [[acceptance-tests]] - Testing of business cases.
 - [[nonfunctional-acceptance-tests]] - Testing of technology cases.
 - [[smoke-tests]] - Test success of deployment.
+
+A tactic that can be employed to ensure all parts of your code is covered is [[mutation-testing]].
