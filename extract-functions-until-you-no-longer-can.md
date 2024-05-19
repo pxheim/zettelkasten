@@ -1,0 +1,3 @@
+In [[book-martin-2021-clean-craftsmanship]], Martin advocates that you should extract functions from your code until it's no longer possible. "Extract until you drop", as this will make testing easier. In [[book-martin-2008-clean-code]], he also states that functions should only be somewhere between 6-15 lines long, or as small as possible. This plays well with the [[single-responsibility-principle]], part of [[solid-principles]], states that a function should only have one reason to change, thus, only have one responsibility.
+
+However, the concept known as [[locality-of-reference]] states related pieces of code should be grouped together. Thus, some care should be taken to not split functions into such small pieces that it's hard to work with the code.

@@ -6,3 +6,7 @@ Acceptance tests should be written in the form.
 - GIVEN (some initial context)
 - WHEN (an even occurs (by some user))
 - THEN (there are some outcomes)
+
+[[book-martin-2021-clean-craftsmanship]] advocates that acceptance tests should be written by QA (or business analysts) and then completed by the developers. The crucial part of this is that the tests will be written by business people and therefore be understood by them.
+
+Avoid testing the UI wherever possible.

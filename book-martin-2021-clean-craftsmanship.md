@@ -36,45 +36,11 @@ Every test you write is a transition in the finite state machine that you are tr
 
 [[refactoring]]
 
-Refactoring preserves behavior. This is why tests are so important. If they pass, the behavior has not changed, thus you can refactor without worrying about breaking anything.
+[[extract-functions-until-you-no-longer-can]]
 
-Refactoring, cleaning up code without changing its behavior is neigh impossible without TDD. First write tests of current behavior, then write code, when tests pass again, you know you're safe. This way we know that the refactor changed nothing.
+[[give-good-names-to-your-functions]]
 
-"Extract until you drop". Split methods into smaller and smaller pieces until you cannot do it anymore. This way you ensure that each function does one thing and one thing only. This makes testing easier.
-
-Name of a function should be inversely proportional to its scope. I.e. the longer the name of a function, the more specific it is.
-
-Thus, make sure your code reads like well written prose. This way you can _read_ your code and understand what it does, e.g. instead of
-
-``` ts
-if (a || b || c && y) {
-	x.map((y) => y + z);
-}
-```
-
-``` ts
-if (somethingIsTrue()) {
-	doSomethingSpecial();
-}
-```
-
-All your functions should read like "TO paragraphs", e.g. "to do something, we need to do something else. To do something else, we need to do something entirely different. To do something entirely different, we need to ..." This is called the stepdown rule.
-
-Extracting variables usually come before extracting methods. Sometimes also done to explain things better. E.g. instead of hardcoding a number into your method, your code is more likely to read like prose if you extract the variable. E.g. 
-
-```ts
-if (item.abv > 4.7) {
-	sendToVinmonopolet();
-}
-```
-
-is much easier to understand if you write:
-
-```ts
-if (alcoholLimitExceedsGroceryStoreLimit) {
-	sendToVinmonopolet();
-}
-```
+[[extract-variables-wherever-you-can]]
 
 # Simple Design
 
@@ -84,7 +50,7 @@ if (alcoholLimitExceedsGroceryStoreLimit) {
 
 How much coverage is enough? 100%, that's the only way you know that all your code actually works, but it's unreachable in most cases. Still, aim towards it as an asymptotic goal.
 
-Testable code facilitates simple design as you need to write good gode for it to be testable.
+Testable code facilitates simple design as you need to write good code for it to be testable.
 
 There are two types of duplication, real duplication and accidental duplication. Real duplication is bad, and should be removed. Accidental duplication is duplication where it's often the intention that the duplicated code either represents different things, or will evolve in different directions.
 
@@ -96,7 +62,7 @@ After doing the green, red, refactor loop to get where you want, the last step i
 
 # Acceptance tests
 
-Advocates that these tests should be written by business analysts or qa department, but completed by developers. Thus, developers are lazy and do not want to, so they will end up being automated. Crucially, since they are written by product people, they will be understood by them. Typically GIVEN WHEN THEN.
+[[acceptance-tests]]
 
 # Productivity
 
@@ -112,19 +78,9 @@ Stable productivity is only possible if testing discipline is kept from the star
 
 # Quality
 
-Quality of everything else in our world increases, so why should software be any different?
-
 Developers should never fear making changes to software. Tests should have their backs.
 
-Never accept that bugs are just a natural part of our software.
-
-Never accept to ship with some known issues.
-
-QA should not be at the end of the process. If they are, we expect them to find bugs, and thus we expect the developers to not do their jobs. If at the end, QA should find nothing and wonder why they are there in the first place.
-
-QA should be at the front of the process, defining the system in terms of tests along with BA. Then developers will automate these tests, leaving everything working.
-
-QA should do exploratory testing, i.e. testing that needs human interaction, ingenuity, intuition or insight.
+[[qa-should-be-at-the-front]]
 
 Do not test the business logic through the user interface.
 

@@ -4,58 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "da8ecb6bd6e7718c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6395a8a79fefbf6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book-martin-2021-clean-craftsmanship.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcfa0ebb8d5ce98d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INVEST-principle-for-stories.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "270ea13a4522edf5",
         "type": "tabs",
         "children": [
           {
-            "id": "8050ba556889aea8",
+            "id": "9d6e8232f3cad035",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "refactoring.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5aef459cf343de42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test-driven-development.md",
+                "file": "acceptance-tests.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "test ui never",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "refactoring.md",
+                "file": "acceptance-tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "refactoring.md",
+                "file": "acceptance-tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "refactoring.md"
+                "file": "acceptance-tests.md"
               }
             }
           }
@@ -169,34 +128,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8050ba556889aea8",
+  "active": "9d6e8232f3cad035",
   "lastOpenFiles": [
     "book-martin-2021-clean-craftsmanship.md",
-    "refactoring.md",
-    "test-driven-development.md",
     "never-ship-shit.md",
-    "software-craftsmanship.md",
-    "simple-design.md",
     "book-martin-2019-clean-agile.md",
+    "qa-should-be-at-the-front.md",
+    "acceptance-tests.md",
+    "software-craftsmanship.md",
     "collaborative-programming.md",
+    "solid-principles.md",
+    "single-responsibility-principle.md",
+    "smart-and-dumb-components.md",
+    "dependency-inversion-principle.md",
+    "interface-segregation-principle.md",
+    "liskov-substitution-principle.md",
+    "open-closed-principle.md",
+    "test-driven-development.md",
+    "refactoring.md",
+    "locality-of-reference.md",
+    "extract-variables-wherever-you-can.md",
+    "give-good-names-to-your-functions.md",
+    "extract-functions-until-you-no-longer-can.md",
+    "book-martin-2008-clean-code.md",
+    "simple-design.md",
     "yagni-you-arent-gonna-need-it.md",
     "INVEST-principle-for-stories.md",
     "avoid-testing-the-ui.md",
     "specific-tests-make-for-generic-code.md",
-    "be-bad-at-the-tools-you-should-not-use.md",
-    "types-of-software-tests.md",
-    "$Blogs.md",
-    "reducing-complexity-by-organizing-into-topics-does-not-work.md",
-    "keep-tests-specific-to-single-class.md",
-    "3a-pattern-for-tests-arrange-act-assert.md",
-    "decouple-tests-from-file-layout.md",
-    "$Research.md",
-    "mezaro-test-doubles-vocabulary.md",
-    "refactoring-should-never-be-planned.md",
-    "boy-scout-rule.md",
-    "acceptance-tests.md",
-    "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
-    "book-kim-behr-spafford-2013-the-phoenix-project.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
