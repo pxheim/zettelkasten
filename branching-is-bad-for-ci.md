@@ -8,4 +8,11 @@ Two other common branching strategies are branching by feature and branching by 
 
 It's always better to start off by not branching, and then introducing branching if you really truly have to in the future.
 
+Common strategies to circumvent having to branch is:
+
+- [[feature-flags]]
+- Command pattern [[$Research]]
+- Decorator pattern [[$Research]]
+- Factory pattern [[$Research]]
+
 [[git-branching-strategies]]

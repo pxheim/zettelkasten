@@ -1,0 +1,1 @@
+Do not allow rushing at the cost of you doing your best work. I.e. don't skip tests and refactoring just because you are in a hurry. Often the pressure to code fast comes from within, not even our boss.

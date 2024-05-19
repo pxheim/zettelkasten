@@ -98,15 +98,9 @@ Mentor people. Always. The best way to learn is to teach.
 
 # Harm
 
-You are responsible for the code that you write and what it does. If you write code, you are to blame. You cannot blame upper management for giving you requirements.
+[[poor-code-leads-to-harm]]
 
-It's often hard to know whether your software can harm or not. Thus, you must know exactly what your code can and cannot do. There's almost always more risk than you think.
-
-Messy software is harmful software, keep it clean, functional and tested. Do not leave crap around in your code. Quick fixes and workarounds must be removed or fixed, not left.
-
-Doing TDD will prevent these potential harmful issues. TDD is a requirement for being a professional developer. You cannot be one without.
-
-Do not allow rushing at the cost of you doing your best work. I.e. don't skip tests and refactoring just because you are in a hurry. Often the pressure to code fast comes from within, not even our boss.
+[[rushing-often-comes-from-within]]
 
 Good structure comes from writing tests first. You cannot test code with poor structure.
 
@@ -128,11 +122,7 @@ As a result of structured programming came functional decomposition, the act of 
 
 Following the story of version control, in the start the cycle time was the length of the project. Then gradually, as new tech became available, the cycle time shortened more and more until we got to where we are today, CI.
 
-Branching is evil in the eyes of CI, but in rare cases necessary. For tracking releases it's fine. For very few select features that are isolated from the rest of the code and cannot be split up into pieces, it's fine. But these are extreme cases. It's much better to integrate often and use strategies like.
-- Feature flags
-- Command pattern [[$Research]]
-- Decorator pattern [[$Research]]
-- Factory pattern [[$Research]]
+[[branching-is-bad-for-ci]]
 
 If, after your tests pass, you are confident that you can deploy to production, your tests are good enough. Otherwise they are not.
 
@@ -146,7 +136,7 @@ Mutation testing is a tactic to uncover areas of your code that might appear to 
 
 The goal of test coverage and mutation testing is  to create a test suite that ensures semantic stability, i.e. it tests that the system does what it's required to do.
 
-Boy scout rule is to leave the code a little cleaner, a little better, than how you found it. By doing this, you essentially test how flexible the code is, i.e. how easy it is to make changes to certain parts of the code. If you happen to find some part of the code that's hard to clean, you have uncovered some part that might be poorly structured.
+[[boy-scout-rule]]
 
 The only way to go "fast" as a developer is to go "well". Do the right thing. Do TDD. Refactor. User proper design patterns. Clean code. These are all indirect ways of going fast.
 

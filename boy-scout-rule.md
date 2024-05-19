@@ -1,1 +1,1 @@
-The boy scout rule states that you should always leave the code cleaner than how you found it. This only really works if you have tests in place, otherwise you might inadvertently end up breaking some code.
+Boy scout rule is to leave the code a little cleaner, a little better, than how you found it. By doing this, you essentially test how flexible the code is, i.e. how easy it is to make changes to certain parts of the code. If you happen to find some part of the code that's hard to clean, you have uncovered some part that might be poorly structured.
