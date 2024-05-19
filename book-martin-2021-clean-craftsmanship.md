@@ -88,7 +88,7 @@ Give honest estimates.
 
 Say no. Managers need it.
 
-[[learn-1-new-language-every-year]]
+[[learn-one-new-language-every-year]]
 
 Mentor people. Always. The best way to learn is to teach.
 
@@ -134,7 +134,7 @@ Never allow the build to fail.
 
 [[mutation-testing]]
 
-The goal of test coverage and mutation testing is  to create a test suite that ensures semantic stability, i.e. it tests that the system does what it's required to do.
+The goal of test coverage and mutation testing is to create a test suite that ensures semantic stability, i.e. it tests that the system does what it's required to do.
 
 [[boy-scout-rule]]
 
@@ -155,7 +155,4 @@ Get together at least one week per quarter.
 
 Estimates based on an end date is a lie. Even if you _need_ to make a deadline, it just encourages lying about the estimate to ensure you meet the deadline.
 
-When estimating, add a fudge factor. Something you multiply your estimates by to account for all the things you forget to account for. This might seem odd, but indeed it's often quite accurate. If something is very complicated, you can double the fudge factor. Estimates are called estimates because they are wrong.
-
-Learn a new language every year, and pick the weird ones. But not just that, you should learn different frameworks, different processes and different methodologies as well.
-
+[[when-estimating-a-task-add-fudge-factor]]

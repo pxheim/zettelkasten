@@ -1,0 +1,1 @@
+When estimating, add a fudge factor. Something you multiply your estimates by to account for all the things you forget to account for. This might seem odd, but indeed it's often quite accurate. If something is very complicated, you can double the fudge factor. Estimates are called estimates because they are wrong.

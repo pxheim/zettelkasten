@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "96a173ff890f19f9",
+        "id": "45961f4456fdae9a",
         "type": "tabs",
         "children": [
           {
-            "id": "36827b0a525eadd0",
+            "id": "3df4a3e4bee288a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-martin-2021-clean-craftsmanship.md",
+                "file": "book-martin-2019-clean-agile.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-martin-2021-clean-craftsmanship.md",
+                "file": "book-martin-2019-clean-agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-martin-2021-clean-craftsmanship.md",
+                "file": "book-martin-2019-clean-agile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-martin-2021-clean-craftsmanship.md"
+                "file": "book-martin-2019-clean-agile.md"
               }
             }
           }
@@ -127,11 +126,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36827b0a525eadd0",
+  "active": "3df4a3e4bee288a7",
   "lastOpenFiles": [
+    "book-martin-2021-clean-craftsmanship.md",
+    "when-estimating-a-task-add-fudge-factor.md",
+    "learn-one-new-language-every-year.md",
     "types-of-software-tests.md",
     "mutation-testing.md",
-    "book-martin-2021-clean-craftsmanship.md",
     "code-coverage.md",
     "blog-ordine-2023-feature-flags-setup-in-flutter-with-firebase-remote-config.md",
     "branching-is-bad-for-ci.md",
@@ -153,8 +154,6 @@
     "$Blogs.md",
     "$Videos.md",
     "rushing-often-comes-from-within.md",
-    "poor-code-leads-to-harm.md",
-    "boy-scout-rule.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
