@@ -1,1 +1,3 @@
 Refactoring is the act of cleaning up code without changing its behavior. This is neigh impossible without [[test-driven-development]], as you'll need to have the code you are changing covered by tests. Tests should pass before you start refactoring, and after you are done, that way you know that behavior was not changed.
+
+Developers should never fear making changes to software. Tests should have their backs.

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "270ea13a4522edf5",
+        "id": "92f9fad529ec6c7b",
         "type": "tabs",
         "children": [
           {
-            "id": "9d6e8232f3cad035",
+            "id": "e1059a98f71e07c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "acceptance-tests.md",
+                "file": "book-martin-2021-clean-craftsmanship.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "acceptance-tests.md",
+                "file": "book-martin-2021-clean-craftsmanship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "acceptance-tests.md",
+                "file": "book-martin-2021-clean-craftsmanship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "acceptance-tests.md"
+                "file": "book-martin-2021-clean-craftsmanship.md"
               }
             }
           }
@@ -128,13 +127,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9d6e8232f3cad035",
+  "active": "e1059a98f71e07c4",
   "lastOpenFiles": [
-    "book-martin-2021-clean-craftsmanship.md",
-    "never-ship-shit.md",
     "book-martin-2019-clean-agile.md",
-    "qa-should-be-at-the-front.md",
+    "refactoring.md",
+    "book-martin-2021-clean-craftsmanship.md",
     "acceptance-tests.md",
+    "qa-should-be-at-the-front.md",
+    "never-ship-shit.md",
     "software-craftsmanship.md",
     "collaborative-programming.md",
     "solid-principles.md",
@@ -145,7 +145,6 @@
     "liskov-substitution-principle.md",
     "open-closed-principle.md",
     "test-driven-development.md",
-    "refactoring.md",
     "locality-of-reference.md",
     "extract-variables-wherever-you-can.md",
     "give-good-names-to-your-functions.md",

@@ -78,13 +78,7 @@ Stable productivity is only possible if testing discipline is kept from the star
 
 # Quality
 
-Developers should never fear making changes to software. Tests should have their backs.
-
 [[qa-should-be-at-the-front]]
-
-Do not test the business logic through the user interface.
-
-If you need to test the user interface, all replies to it should be stubbed.
 
 # Courage
 
