@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "four-values-of-agile-development.md",
+                "file": "book-martin-2019-clean-agile.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "four-values-of-agile-development.md",
+                "file": "book-martin-2019-clean-agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "four-values-of-agile-development.md",
+                "file": "book-martin-2019-clean-agile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "four-values-of-agile-development.md"
+                "file": "book-martin-2019-clean-agile.md"
               }
             }
           }
@@ -129,9 +129,9 @@
   },
   "active": "660bed3b74345ebd",
   "lastOpenFiles": [
+    "agile-provides-data-to-make-the-right-decision.md",
     "book-martin-2019-clean-agile.md",
     "four-values-of-agile-development.md",
-    "agile-provides-data.md",
     "iron-cross-of-project-management.md",
     "book-martin-2021-clean-craftsmanship.md",
     "book-martin-2008-clean-code.md",

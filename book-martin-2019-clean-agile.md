@@ -10,10 +10,7 @@ Because the simple and small message of Agile has become muddled over the interv
 
 [[iron-cross-of-project-management]]
 
-[[agile-provides-data]]
-
-
-*****
+[[agile-provides-data-to-make-the-right-decision]]
 
 the thing about implementation is that is actually has to be done. Analysis and design are not binary deliverables. They do not have unambiguous completion criteria.
 
