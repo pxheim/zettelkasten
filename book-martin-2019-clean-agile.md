@@ -6,32 +6,12 @@ Because the simple and small message of Agile has become muddled over the interv
 
 *****
 
-the four values, which were Individuals and Interactions, Working Software, Customer Collaboration, and Responding to Change. Someone wrote these on the whiteboard at the front of the room and then had the brilliant idea to say that these are preferred, but do not replace, the complementary values of processes, tools, documentation, contracts, and plans
+[[four-values-of-agile-development]]
 
-> Important that they do not replace!
+[[iron-cross-of-project-management]]
 
-*****
+[[agile-provides-data]]
 
-Individuals and interactions over processes and tools.
-Working software over comprehensive documentation.
-Customer collaboration over contract negotiation.
-Responding to change over following a plan.
-
-*****
-
-Iron Cross of project management. Good, fast, cheap, done: Pick any three you like. You can’t have the fourth
-
-*****
-
-Agile provides data. An Agile development team produces just the kinds of data that managers need in order to make good decisions.
-
-*****
-
-provide the data that managers need to decide how to set the coefficients on the Iron Cross and drive the project to the best possible outcome.
-
-*****
-
-And, to be fair, it’s not actually the charts that matter. What matters is the data
 
 *****
 

@@ -1,0 +1,1 @@
+Agile will per definition provide the data a manager needs in order to make good decisions. It also provides information on how to make charts and all other kinds of visualization of your work. However, the data is what matters, not the charts.

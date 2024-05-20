@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b609b99a49c99dc",
+        "id": "67adbbbc2c4d7da1",
         "type": "tabs",
         "children": [
           {
-            "id": "873ef088ce2f805b",
+            "id": "660bed3b74345ebd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-martin-2019-clean-agile.md",
+                "file": "four-values-of-agile-development.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-martin-2019-clean-agile.md",
+                "file": "four-values-of-agile-development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-martin-2019-clean-agile.md",
+                "file": "four-values-of-agile-development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-martin-2019-clean-agile.md"
+                "file": "four-values-of-agile-development.md"
               }
             }
           }
@@ -126,10 +126,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "873ef088ce2f805b",
+  "active": "660bed3b74345ebd",
   "lastOpenFiles": [
-    "book-martin-2021-clean-craftsmanship.md",
     "book-martin-2019-clean-agile.md",
+    "four-values-of-agile-development.md",
+    "agile-provides-data.md",
+    "iron-cross-of-project-management.md",
+    "book-martin-2021-clean-craftsmanship.md",
     "book-martin-2008-clean-code.md",
     "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
     "book-humble-farley-2010-continuous-delivery.md",
@@ -151,9 +154,6 @@
     "book-allen-2022-getting-things-done.md",
     "gtd-workflow.md",
     "$Research.md",
-    "$Blogs.md",
-    "$Videos.md",
-    "rushing-often-comes-from-within.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
