@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "67adbbbc2c4d7da1",
+        "id": "3b191f4f5b476f23",
         "type": "tabs",
         "children": [
           {
-            "id": "660bed3b74345ebd",
+            "id": "dfa892f23ed415d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -127,10 +127,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "660bed3b74345ebd",
+  "active": "dfa892f23ed415d1",
   "lastOpenFiles": [
+    "$Bibliography.md",
+    "$Hubs.md",
+    "$Blogs.md",
     "agile-provides-data-to-make-the-right-decision.md",
     "book-martin-2019-clean-agile.md",
+    "agile-development.md",
+    "invest-principle-for-stories.md",
     "four-values-of-agile-development.md",
     "iron-cross-of-project-management.md",
     "book-martin-2021-clean-craftsmanship.md",
@@ -149,12 +154,7 @@
     "book-kim-behr-spafford-2013-the-phoenix-project.md",
     "blog-makszy-2023-how-to-train-your-designer.md",
     "$Reference.md",
-    "$Bibliography.md",
-    "$Hubs.md",
     "the-natural-planning-model.md",
-    "book-allen-2022-getting-things-done.md",
-    "gtd-workflow.md",
-    "$Research.md",
     "_refs",
     "_templates",
     "Untitled.canvas",

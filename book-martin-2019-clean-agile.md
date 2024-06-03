@@ -12,6 +12,8 @@ Because the simple and small message of Agile has become muddled over the interv
 
 [[agile-provides-data-to-make-the-right-decision]]
 
+[[agile-development]]
+
 the thing about implementation is that is actually has to be done. Analysis and design are not binary deliverables. They do not have unambiguous completion criteria.
 
 *****
@@ -49,11 +51,11 @@ Managing the Iron Cross
 
 *****
 
-Actually, this is exactly the opposite of the case. Brooks’ law22 states: Adding manpower to a late project makes it later.
+Actually, this is exactly the opposite of the case. Brooks’ law states: Adding manpower to a late project makes it later.
 
 *****
 
-Agile.Circle of Life
+Agile. Circle of Life
 
 > Make a note about all the aspects of the circle of life.
 
@@ -123,7 +125,7 @@ One technique that works quite well for large tasks is trivariate estimation. Su
 
 *****
 
-research the program evaluation and review technique (PERT).1
+research the program evaluation and review technique (PERT).
 
 *****
 
