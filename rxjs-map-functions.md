@@ -35,4 +35,3 @@ When clicked, `interval` will emit every second for 5 seconds. If clicked again 
 When clicked, `interval` will emit every second for 5 seconds. If clicked again before finished, the new stream will start right away and run alongside the first one.
 
 > Think of it like merging the streams together.
-
