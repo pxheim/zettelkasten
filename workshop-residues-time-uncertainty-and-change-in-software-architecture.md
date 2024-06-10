@@ -107,11 +107,17 @@ P bias (how likely the component is to communicated with another node over anoth
 
 An attractor is a state that a system tends to move towards. E.g. for a car, an attractor is standing still, moving, crashing, etc. Some happens more often than others. Attractors are therefore a subset of states a system can be in.
 
+How do you identify the different attractors. Random simulation.
+
 > Would an attractor be emergent patterns in software architecture? A pattern?
 
 ---
 
-Residuality theory - applied skepticism. 
+Residuality theory - "applied skepticism".
 
+One thing that's always true about a complex system is that it'll change. However, we don't know what's going to change. The remaining system after the system has changed is the **residue**. The only thing we know about the residue is that it's going to change. And so on.
 
+Important: It's not possible to map down the system. Cannot figure out what the change is.
+
+The only thing you can control as an architect is what the residue is going to look like. In other words, you control how the system falls apart.
 
