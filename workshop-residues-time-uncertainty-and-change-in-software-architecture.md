@@ -19,5 +19,9 @@ How do you deal with time, change and uncertainty:
 
 You don't get to control time, change and uncertainty. You need to deal with it and work around it.
 
-What is your unit of software architecture.
+What is your unit of software architecture? It depends on what "level" you are on. Business might have "features" as their unit, whereas a developer will think about "services". Design and developers do the same thing. You cannot take a design and break it down into services without some form of mapping.
+
+Proposed new unit for software engineering is **residue**.
+
+
 
