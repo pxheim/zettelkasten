@@ -139,10 +139,6 @@ What makes a story manageable, schedulable, and estimable is the temporary lack 
 
 *****
 
-Login is now our Golden Story.
-
-*****
-
 Why 1 to 6? Why not? There are many schemes for assigning cost. The simpler ones are usually better.
 
 *****
