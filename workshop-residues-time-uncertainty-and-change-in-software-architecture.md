@@ -54,5 +54,9 @@ Complexity science is the study of complex systems.
 	2. Complicated: not obvious how to solve problem, but can do wit from experience. Ordered.
 	3. Chaotic: "Tiger runs into the room"
 	4. Complex: Do small experiments. figure out.
-	5. Confused: ?? You don't know 
-2. 
+	5. Confused: ?? You don't know, you apply the wrong domain to your problem.
+
+Constraints. Example. cars driving on a road. The line separating which side to drive on is a constraint. Thus, we move from a chaotic env to a complex one. Now what about junctions? We add another constraint to make the system less complex. Then we add more constraints until we get to a system that's complicated. You then get some auth to make you take a test to prove that you can drive and get into the obvious domain.
+
+More and more constraints enable you to move from chaos --> complex --> complicated --> obvious.
+
