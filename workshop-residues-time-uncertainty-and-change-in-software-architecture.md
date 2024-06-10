@@ -77,4 +77,21 @@ Black swan effect, the things that are most unlikely tend to define how we do so
 - Ignore them?
 - Heuristics. Thing we have learned that are hard to unlearn. Dangerous for software dev as it's hard to change.
 
-Stress is they key to building a system that is anti-fragile.
+4 types
+- fragile - breaks.
+- ?? hard to break
+- resilient - comes back the same.
+- antifragile - comes back stronger.
+
+Stress is they key to building a system that is anti-fragile. Use stress as a driver of design decisions. Not patterns, not risk, nothing else. Just stress.
+
+Don't predict. Instead identify what you are sensitive to. Easier to figure out how you are going to break something instead of what is going to break it.
+
+4. Hyperlimilaity
+
+Ordered systems inside disorganized systems.
+
+---
+
+Watch the video about residuality. [[$Research]]
+
