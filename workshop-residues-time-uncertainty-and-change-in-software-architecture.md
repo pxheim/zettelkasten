@@ -95,4 +95,14 @@ Ordered systems inside disorganized systems.
 
 Watch the video about residuality. [[$Research]]
 
-Kauffman Networks (RBN). Grid of boolean values. Button press will turn them randomly to 1 or 0.
+Kauffman Networks (RBN). Grid of boolean values. Button press will turn them randomly to 1 or 0. Extreme amount of patterns. Change functionality so that each value can communicate with neighboring values. Reduces the amount of patterns drastically. Attractors.
+
+^ massively important as architect.
+
+NKP analysis.
+
+N number of nodes
+K number of connections
+P bias (how likely the component is to communicated with another node over another.)
+
+An attractor is a state that a system tends to move towards.
