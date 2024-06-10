@@ -68,3 +68,10 @@ Focus on the process, not the thing. Book.
 
 Things are random. We are fooled by it all the time.
 
+Black swan effect, the things that are most unlikely tend to define how we do something, e.g. systems engineering. Same as "what if we lose Italy". As an architect, you should identify and ignore them.
+
+80/20 rule. The stuff we expect to happen are the 80%, the rest are 20. But if drawn as a power curve, the probability of a 20% even happening is 1. How do we deal with these issues that are definitely going to happen?
+
+- Ignore them?
+- Heuristics. Thing we have learned that are hard to unlearn. Dangerous for software dev as it's hard to change.
+- 
