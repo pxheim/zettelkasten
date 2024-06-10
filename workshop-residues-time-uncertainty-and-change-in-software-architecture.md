@@ -27,6 +27,11 @@ Everyone is doing architecture differently as we've all learned it from differen
 
 [[book-schon-the-reflective-practitioner]]
 
+Architecture is not a structured practice. It's basically faking it, but pretending to know what you are doing. David Parnas mentioned this in his paper on how to fake it.
+
+When considering tools for architecture, none of them can be considered required as successful IT projects all use a different variation of them. Thus none of them are required. What's actually making them successful must therefore be something else.
+
+Data models are the bane of architectures E.g. defining a customer w/ ssid and credit card. Business changes and you now have to deal with business customers and your model breaks. Creating weak abstractions therefore are bad.
 
 
 
