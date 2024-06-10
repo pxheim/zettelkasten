@@ -39,8 +39,7 @@ Viewing the world in terms of defining things is what we do, and therefore also 
 
 ---
 
-Software is ordered, meaning that it's predictable. If you give it an input, you know what output to expect.
+Software is ordered, meaning that it's predictable. If you give it an input, you know what output to expect. Businesses are disordered, meaning there's no pattern and things are random. Architecture is hard because we have to make something ordered (software) in a disordered environment (business)
 
-Businesses are disordered, meaning there'
-
+---
 
