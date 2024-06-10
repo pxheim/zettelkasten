@@ -33,7 +33,7 @@ When considering tools for architecture, none of them can be considered required
 
 The tools applied are there to "do the walk" many many times looking at the problem from different angles.
 
-Data models are the bane of architectures E.g. defining a customer w/ ssid and credit card. Business changes and you now have to deal with business customers and your model breaks. Creating weak abstractions therefore are bad.
+Data models are the bane of architectures E.g. defining a customer w/ ssid and credit card. Business changes and you now have to deal with business customers and your model breaks. Creating weak abstractions therefore is bad.
 
 Viewing the world in terms of defining things is what we do, and therefore also how we make software.
 
@@ -48,6 +48,8 @@ Complex systems have non-linear responses to inputs, are coupled, unpredictavle 
 Complexity science is the study of complex systems.
 
 5 ways of describing complexity.
+
+[[cynefin-framework]]
 
 1. Cynefin (pron. "knevin"): divides into 5 domains:
 	1. Obvious: Things are 
