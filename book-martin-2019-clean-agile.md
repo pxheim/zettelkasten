@@ -89,11 +89,11 @@ The older a software system is, the better it should be.
 
 *****
 
-QA should wonder why they are stuck at the back end of the process checking systems that always work.
+[[qa-should-be-at-the-front]]
 
 *****
 
-For example, you may not know how long something will take, but you can compare one task to another in relative terms. You may not know how long it will take to build the Login page, but you might be able to tell me that the Change Password page will take about half the time as Login.
+[[estimating-tasks-based-on-points]]
 
 *****
 

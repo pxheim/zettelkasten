@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "49a8578c651cbf99",
+        "id": "e558de9acbda1277",
         "type": "tabs",
         "children": [
           {
-            "id": "feaf0b0266bf879e",
+            "id": "1ad7e854dbe5aa1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "artificial-delays-in-deployment-of-software.md",
+                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coverage",
+                "query": "qa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "artificial-delays-in-deployment-of-software.md",
+                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "artificial-delays-in-deployment-of-software.md",
+                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "artificial-delays-in-deployment-of-software.md"
+                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md"
               }
             }
           }
@@ -126,10 +126,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "feaf0b0266bf879e",
+  "active": "1ad7e854dbe5aa1c",
   "lastOpenFiles": [
-    "book-martin-2019-clean-agile.md",
     "artificial-delays-in-deployment-of-software.md",
+    "estimating-tasks-based-on-points.md",
+    "book-martin-2019-clean-agile.md",
+    "qa-should-be-at-the-front.md",
+    "ci-requires-a-change-of-mindset.md",
     "book-martin-2008-clean-code.md",
     "book-martin-2021-clean-craftsmanship.md",
     "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
@@ -151,9 +154,6 @@
     "agile-development.md",
     "invest-principle-for-stories.md",
     "iron-cross-of-project-management.md",
-    "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
-    "when-estimating-a-task-add-fudge-factor.md",
-    "learn-one-new-language-every-year.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
