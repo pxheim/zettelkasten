@@ -31,8 +31,16 @@ Architecture is not a structured practice. It's basically faking it, but pretend
 
 When considering tools for architecture, none of them can be considered required as successful IT projects all use a different variation of them. Thus none of them are required. What's actually making them successful must therefore be something else.
 
+The tools applied are there to "do the walk" many many times looking at the problem from different angles.
+
 Data models are the bane of architectures E.g. defining a customer w/ ssid and credit card. Business changes and you now have to deal with business customers and your model breaks. Creating weak abstractions therefore are bad.
 
+Viewing the world in terms of defining things is what we do, and therefore also how we make software.
 
+---
+
+Software is ordered, meaning that it's predictable. If you give it an input, you know what output to expect.
+
+Businesses are disordered, meaning there'
 
 
