@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
+                "file": "gut-feeling-is-experience-subconsciously.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
+                "file": "gut-feeling-is-experience-subconsciously.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
+                "file": "gut-feeling-is-experience-subconsciously.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md"
+                "file": "gut-feeling-is-experience-subconsciously.md"
               }
             }
           }
@@ -128,8 +128,9 @@
   },
   "active": "1ad7e854dbe5aa1c",
   "lastOpenFiles": [
-    "book-schon-the-reflective-practitioner.md",
     "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
+    "gut-feeling-is-experience-subconsciously.md",
+    "book-schon-the-reflective-practitioner.md",
     "working-with-next-actions.md",
     "book-martin-2019-clean-agile.md",
     "book-martin-2008-clean-code.md",
@@ -153,7 +154,6 @@
     "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
     "the-natural-planning-model.md",
     "$Hubs.md",
-    "four-values-of-agile-development.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
