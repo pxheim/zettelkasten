@@ -23,7 +23,9 @@ What is your unit of software architecture? It depends on what "level" you are o
 
 Proposed new unit for software engineering is **residue**.
 
+Everyone is doing architecture differently as we've all learned it from different places. We are all formed by the path we go through in our carreers.
 
+[[book-schon-the-reflective-practitioner]]
 
 
 
