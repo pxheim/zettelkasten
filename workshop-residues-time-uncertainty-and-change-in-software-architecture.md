@@ -66,6 +66,8 @@ Focus on the process, not the thing. Book.
 
 3. Antifragility
 
+A system that comes back stronger than before when presented with a black swan event.
+
 Things are random. We are fooled by it all the time.
 
 Black swan effect, the things that are most unlikely tend to define how we do something, e.g. systems engineering. Same as "what if we lose Italy". As an architect, you should identify and ignore them.
@@ -74,4 +76,5 @@ Black swan effect, the things that are most unlikely tend to define how we do so
 
 - Ignore them?
 - Heuristics. Thing we have learned that are hard to unlearn. Dangerous for software dev as it's hard to change.
-- 
+
+Stress is they key to building a system that is anti-fragile.
