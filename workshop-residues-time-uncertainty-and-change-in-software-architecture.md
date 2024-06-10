@@ -111,7 +111,7 @@ How do you identify the different attractors. Random simulation. Ask business qu
 
 If a residue survives in 4 attractors, you only need to identify one of the stressors that pushes the system into one of these attractors.
 
-
+Sample, Godzilla destroying Oslo is an extremely unlikely stressor. To survive this, you probably want redundancy. Redundancy is going to solve issues with your architecture that are more likely, e.g. flooding.
 
 > Would an attractor be emergent patterns in software architecture? A pattern?
 
