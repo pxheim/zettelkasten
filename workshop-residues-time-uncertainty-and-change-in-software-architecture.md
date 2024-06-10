@@ -95,3 +95,4 @@ Ordered systems inside disorganized systems.
 
 Watch the video about residuality. [[$Research]]
 
+Kauffman Networks (RBN). Grid of boolean values. Button press will turn them randomly to 1 or 0.
