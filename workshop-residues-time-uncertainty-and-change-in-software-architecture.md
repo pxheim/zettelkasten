@@ -60,4 +60,11 @@ Constraints. Example. cars driving on a road. The line separating which side to 
 
 More and more constraints enable you to move from chaos --> complex --> complicated --> obvious.
 
-2. 
+2. Complex responsive process
+
+Focus on the process, not the thing. Book.
+
+3. Antifragility
+
+Things are random. We are fooled by it all the time.
+
