@@ -60,3 +60,4 @@ Constraints. Example. cars driving on a road. The line separating which side to 
 
 More and more constraints enable you to move from chaos --> complex --> complicated --> obvious.
 
+2. 
