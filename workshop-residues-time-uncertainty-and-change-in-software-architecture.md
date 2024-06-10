@@ -11,5 +11,13 @@ Gut feeling is the root of most decisions when it comes to coding and architectu
 
 Standard ways of represent architecture (UML, etc.) does not have way to factor in time, change, over time and uncertainty of change.
 
-How do you deal with 
+How do you deal with time, change and uncertainty:
+- Small services.
+- Don't worry about it? (most commonly)
+- Grouping by business logic.
+- Agile (everything is going to change, so let's not worry about it)
+
+You don't get to control time, change and uncertainty. You need to deal with it and work around it.
+
+What is your unit of software architecture.
 
