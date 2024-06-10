@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
+                "file": "artificial-delays-in-deployment-of-software.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
+                "file": "artificial-delays-in-deployment-of-software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
+                "file": "artificial-delays-in-deployment-of-software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md"
+                "file": "artificial-delays-in-deployment-of-software.md"
               }
             }
           }
@@ -128,8 +128,13 @@
   },
   "active": "feaf0b0266bf879e",
   "lastOpenFiles": [
-    "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
     "book-martin-2019-clean-agile.md",
+    "artificial-delays-in-deployment-of-software.md",
+    "book-martin-2008-clean-code.md",
+    "book-martin-2021-clean-craftsmanship.md",
+    "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
+    "blog-makszy-2023-how-to-train-your-designer.md",
+    "book-humble-farley-2010-continuous-delivery.md",
     "rxjs-map-functions.md",
     "blog-morony-2023-testing-smart-components-services-in-angular.md",
     "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
@@ -146,14 +151,9 @@
     "agile-development.md",
     "invest-principle-for-stories.md",
     "iron-cross-of-project-management.md",
-    "book-martin-2021-clean-craftsmanship.md",
-    "book-martin-2008-clean-code.md",
     "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
-    "book-humble-farley-2010-continuous-delivery.md",
     "when-estimating-a-task-add-fudge-factor.md",
     "learn-one-new-language-every-year.md",
-    "types-of-software-tests.md",
-    "mutation-testing.md",
     "_refs",
     "_templates",
     "Untitled.canvas",

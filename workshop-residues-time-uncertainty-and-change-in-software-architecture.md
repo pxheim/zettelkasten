@@ -1,2 +1,2 @@
-Workshop by Barry O'Reilly at NDC. 10.09.2024.
+O'Reilly, B. (2024, June 10). _Residues: Time, change, and uncertainty in software architecture_ [Workshop].
 

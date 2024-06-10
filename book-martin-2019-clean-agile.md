@@ -69,9 +69,7 @@ Agile development is important for much deeper philosophical and ethical reasons
 
 *****
 
-Another source of artificial delays is the notion of stabilization. Teams will frequently set aside a period of continuous testing during which they watch the system to see if it fails. If no failures are detected after X days, the developers feel safe to recommend the system for deployment.
-
-> This also goes against CI. Build should be working until proven otherwise.
+[[artificial-delays-in-deployment-of-software]]
 
 *****
 
