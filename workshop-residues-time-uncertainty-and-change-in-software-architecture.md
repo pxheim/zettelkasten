@@ -107,7 +107,11 @@ P bias (how likely the component is to communicated with another node over anoth
 
 An attractor is a state that a system tends to move towards. E.g. for a car, an attractor is standing still, moving, crashing, etc. Some happens more often than others. Attractors are therefore a subset of states a system can be in.
 
-How do you identify the different attractors. Random simulation.
+How do you identify the different attractors. Random simulation. Ask business questions. What if competitor drops price, what if the eur loses value, etc. Each attractor will define a new residue. You get a bunch of them. How do you compress them into an architecture.
+
+If a residue survives in 4 attractors, you only need to identify one of the stressors that pushes the system into one of these attractors.
+
+
 
 > Would an attractor be emergent patterns in software architecture? A pattern?
 
