@@ -129,3 +129,6 @@ Important: It's not possible to map down the system. Cannot figure out what the 
 
 The only thing you can control as an architect is what the residue is going to look like. In other words, you control how the system falls apart.
 
+---
+
+Can residuality theory be applies to other practices other than architecture?
