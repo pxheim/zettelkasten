@@ -115,6 +115,10 @@ Sample, Godzilla destroying Oslo is an extremely unlikely stressor. To survive t
 
 > Would an attractor be emergent patterns in software architecture? A pattern?
 
+When identifying stressors, ensure that you do not fall into the pitfalls of being too technical, focusing too much on cost, thinking too small, etc.
+
+Tricks to find stressors are using the business model canvas, using PESTLE (Political, Economic, Social, Tech, Legal and Env.), and just a pep talk (everything you're going to do is wrong and that's ok).
+
 ---
 
 Residuality theory - "applied skepticism".
