@@ -105,4 +105,13 @@ N number of nodes
 K number of connections
 P bias (how likely the component is to communicated with another node over another.)
 
-An attractor is a state that a system tends to move towards.
+An attractor is a state that a system tends to move towards. E.g. for a car, an attractor is standing still, moving, crashing, etc. Some happens more often than others. Attractors are therefore a subset of states a system can be in.
+
+> Would an attractor be emergent patterns in software architecture? A pattern?
+
+---
+
+Residuality theory - applied skepticism. 
+
+
+
