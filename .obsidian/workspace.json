@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c7d72dc4c19bf1b5",
+        "id": "49a8578c651cbf99",
         "type": "tabs",
         "children": [
           {
-            "id": "9dcb5a19da211d6c",
+            "id": "feaf0b0266bf879e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-martin-2019-clean-agile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5891d9b1b351e091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rxjs-map-functions.md",
+                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rxjs-map-functions.md",
+                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rxjs-map-functions.md",
+                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rxjs-map-functions.md"
+                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md"
               }
             }
           }
@@ -139,8 +126,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5891d9b1b351e091",
+  "active": "feaf0b0266bf879e",
   "lastOpenFiles": [
+    "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
     "book-martin-2019-clean-agile.md",
     "rxjs-map-functions.md",
     "blog-morony-2023-testing-smart-components-services-in-angular.md",
@@ -166,7 +154,6 @@
     "learn-one-new-language-every-year.md",
     "types-of-software-tests.md",
     "mutation-testing.md",
-    "code-coverage.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
