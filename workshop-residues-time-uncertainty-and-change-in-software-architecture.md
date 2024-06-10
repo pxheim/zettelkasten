@@ -43,3 +43,16 @@ Software is ordered, meaning that it's predictable. If you give it an input, you
 
 ---
 
+Complex systems have non-linear responses to inputs, are coupled, unpredictavle emergent behaviors.
+
+Complexity science is the study of complex systems.
+
+5 ways of describing complexity.
+
+1. Cynefin (pron. "knevin"): divides into 5 domains:
+	1. Obvious: Things are 
+	2. Complicated: not obvious how to solve problem, but can do wit from experience. Ordered.
+	3. Chaotic: "Tiger runs into the room"
+	4. Complex: Do small experiments. figure out.
+	5. Confused: ?? You don't know 
+2. 
