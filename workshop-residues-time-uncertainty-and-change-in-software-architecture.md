@@ -213,4 +213,9 @@ Important to distinguish between business and tech. Define where tech decisions 
 
 ATAM. Risk management meeting to, not figure out risk, but to figure out where the line of the responsibility goes. Architect vs COO vs CFO. Some residues are going to be ignored. This is OK, but you have to make sure that the business understands the implications of the decisions. Might also change your architecture. If redundancy is ignored, you still might have changed your arch to be ready for it.
 
+---
+
+Failure Mode Effects Analysis: pick a component in your architecture, figure out how it can fail, figure out the impact of it failing, figure out how you detect whether it fails, figure out the higher level impact and figure out how you can mitigate it.
+
+E.g. Queue can crash, stop, slow down. Impact is that the system stops working. We detect it by seeing that the filter component that wants to write to the queue will start complaining. The higher level impact is that the system as a whole will stop working. We can mitigate this by having a redundant queue or just have the filter component wait a little.
 
