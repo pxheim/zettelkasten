@@ -219,3 +219,5 @@ Failure Mode Effects Analysis: pick a component in your architecture, figure out
 
 E.g. Queue can crash, stop, slow down. Impact is that the system stops working. We detect it by seeing that the filter component that wants to write to the queue will start complaining. The higher level impact is that the system as a whole will stop working. We can mitigate this by having a redundant queue or just have the filter component wait a little.
 
+---
+
