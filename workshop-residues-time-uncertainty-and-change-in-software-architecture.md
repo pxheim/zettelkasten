@@ -139,3 +139,9 @@ Can residuality theory be applies to other practices other than architecture? Th
 
 # Day 2
 
+A sample stressor for the bank exercise is Murabaha - the fact that in Islam you are not allowed to have interest.
+
+Good architecture should not be lines and boxes (flow diagrams). It should be able to describe how information flows in the system instead. Data flow diagrams do this.
+
+Focus on the flow of information vs the process.
+
