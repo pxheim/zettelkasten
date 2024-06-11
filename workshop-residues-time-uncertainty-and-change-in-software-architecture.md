@@ -205,3 +205,5 @@ We usually start at monolith, and when we stress it, we end up closer to the lin
 
 ---
 
+During the analysis you often encounter things you won't need or are never going to happen. This is fine, but don't let it stop your thinking just because you think it's unlikely that it's going to happen.
+
