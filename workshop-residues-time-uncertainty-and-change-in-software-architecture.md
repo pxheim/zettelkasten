@@ -134,3 +134,8 @@ The only thing you can control as an architect is what the residue is going to l
 ---
 
 Can residuality theory be applies to other practices other than architecture? There _is_ evidence that this works for software architecture, but nothing conclusive.
+
+---
+
+# Day 2
+
