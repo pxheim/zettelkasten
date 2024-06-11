@@ -180,7 +180,9 @@ Functions that do not respond to any stressor are dangerous as you probably have
 How to do the stressor analysis:
 
 1. Identify a stressor.
-2. Figure out how the business will react. 1/2 of attractor.
+2. Figure out the impact on the business. 1/2 of attractor.
 3. Figure out how the business will respond. 2/2 of attractor.
 4. Look at your existing architecture and figure out what it will look like after the attractor.
+
+A common example stressor is internal server outage due to DDOS. The impact on the business will be that the service is unavailable. The business might respons with increased capacity. Based on your current architecture, the residue will be that you add a load balancer or some DDOS protection.
 
