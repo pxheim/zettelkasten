@@ -207,16 +207,10 @@ We usually start at monolith, and when we stress it, we end up closer to the lin
 
 During the analysis you often encounter things you won't need or are never going to happen. This is fine, but don't let it stop your thinking just because you think it's unlikely that it's going to happen.
 
----
-
 Argues that open conflict is bad [[dysfunction-2-fear-of-conflict]]. 
-
----
 
 Important to distinguish between business and tech. Define where tech decisions end and business ones start. E.g. conflicting interests: money might define architecture.
 
----
+ATAM. Risk management meeting to, not figure out risk, but to figure out where the line of the responsibility goes. Architect vs COO vs CFO. Some residues are going to be ignored. This is OK, but you have to make sure that the business understands the implications of the decisions. Might also change your architecture. If redundancy is ignored, you still might have changed your arch to be ready for it.
 
-Risk management meeting to, not figure out risk, but to figure out where the line of the responsibility goes. Architect vs COO vs CFO.
 
-Some residues are going to be ignored. This is OK, but you have to make sure that the business understands the implications of the decisions.
