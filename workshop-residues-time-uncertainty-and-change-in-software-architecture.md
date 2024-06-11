@@ -68,8 +68,6 @@ Focus on the process, not the thing. Book.
 
 3. Antifragility
 
-[[system-design-antifragility]]
-
 A system that comes back stronger than before when presented with a black swan event.
 
 Things are random. We are fooled by it all the time.
