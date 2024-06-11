@@ -155,4 +155,16 @@ If you have process a --> b --> c --> d, if you ask a CS student, they will say 
 
 Non-conventional decomposition - this is good.
 
-Design based on what's going to change. Problem is that everything is going to change.
+Design based on what's going to change. Problem is that everything is going to change. You never know what components a stressor is going to hit. They can be decoupled and still be hit by the same stressor. 
+
+By stressing your architecture, you find these hidden couplings!
+
+---
+
+Incidence matrix:
+
+first column is trigger (stressor)
+first row is function that the stressor touches
+if stressor triggers function, it's a 1 in the matrix, otherwise 0.
+
+
