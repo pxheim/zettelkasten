@@ -186,3 +186,9 @@ How to do the stressor analysis:
 
 A common example stressor is internal server outage due to DDOS. The impact on the business will be that the service is unavailable. The business might respons with increased capacity. Based on your current architecture, the residue will be that you add a load balancer or some DDOS protection.
 
+---
+
+As a developer, code can be correct, as an architect you cannot be correct as you do not know what the future holds. Focus instead on criticality.
+
+N
+| \
