@@ -190,5 +190,18 @@ A common example stressor is internal server outage due to DDOS. The impact on t
 
 As a developer, code can be correct, as an architect you cannot be correct as you do not know what the future holds. Focus instead on criticality.
 
+```
 N
-| \
+| 
+|
+|
+|___________ K
+```
+
+Low N, K == monolith
+High N, K == microservices
+There's a line between N and K that's the line of criticality. This is where we want to be.
+We usually start at monolith, and when we stress it, we end up closer to the line of criticality.
+
+---
+
