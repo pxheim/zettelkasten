@@ -177,5 +177,10 @@ Functions that do not respond to any stressor are dangerous as you probably have
 
 ---
 
+How to do the stressor analysis:
 
+1. Identify a stressor.
+2. Figure out how the business will react. 1/2 of attractor.
+3. Figure out how the business will respond. 2/2 of attractor.
+4. Look at your existing architecture and figure out what it will look like after the attractor.
 
