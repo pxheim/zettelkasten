@@ -167,4 +167,15 @@ first column is trigger (stressor)
 first row is function that the stressor touches
 if stressor triggers function, it's a 1 in the matrix, otherwise 0.
 
+Functions that respond the same way to stress can be put in the same component boundary.
+
+Functions that respond to a lot of stressors might do much, or might be too important.
+
+Stressors that touch a lot of functions need to be mitigatesd.
+
+Functions that do not respond to any stressor are dangerous as you probably have not found the stressor that affects the function.
+
+---
+
+
 
