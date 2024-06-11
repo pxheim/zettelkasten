@@ -18,6 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "474980f0e47b286e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog-how-we-use -golden-paths-to-solve-fragmentation-in-our-software-ecosystem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb58e0deb606b5c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the-twelve-factor-app.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -128,8 +152,14 @@
   },
   "active": "1ad7e854dbe5aa1c",
   "lastOpenFiles": [
-    "gut-feeling-is-experience-subconsciously.md",
+    "cynefin-framework.md",
     "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
+    "blog-how-we-use -golden-paths-to-solve-fragmentation-in-our-software-ecosystem.md",
+    "the-twelve-factor-app.md",
+    "blog-makszy-2023-how-to-train-your-designer.md",
+    "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
+    "blog-morony-2023-testing-smart-components-services-in-angular.md",
+    "gut-feeling-is-experience-subconsciously.md",
     "book-schon-the-reflective-practitioner.md",
     "working-with-next-actions.md",
     "book-martin-2019-clean-agile.md",
@@ -143,17 +173,11 @@
     "qa-should-be-at-the-front.md",
     "ci-requires-a-change-of-mindset.md",
     "book-martin-2021-clean-craftsmanship.md",
-    "blog-makszy-2023-how-to-train-your-designer.md",
     "book-humble-farley-2010-continuous-delivery.md",
     "rxjs-map-functions.md",
-    "blog-morony-2023-testing-smart-components-services-in-angular.md",
-    "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
     "branching-is-bad-for-ci.md",
     "distributed-cognition.md",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
-    "zeigarnik-effect--unfinished-things-remain-in-our-brain.md",
-    "the-natural-planning-model.md",
-    "$Hubs.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
