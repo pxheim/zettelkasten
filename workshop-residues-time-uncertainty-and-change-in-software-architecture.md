@@ -145,3 +145,14 @@ Good architecture should not be lines and boxes (flow diagrams). It should be ab
 
 Focus on the flow of information vs the process.
 
+---
+
+Parnas said in 1971:
+
+Conventional decomposition - this is bad.
+
+If you have process a --> b --> c --> d, if you ask a CS student, they will say that the component breakdown is a --> b --> c --> d, which is bad. This means that if B changes, A and C will have to as well. This is called contagion.
+
+Non-conventional decomposition - this is good.
+
+Design based on what's going to change. Problem is that everything is going to change.
