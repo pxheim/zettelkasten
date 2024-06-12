@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e558de9acbda1277",
+        "id": "135731ad8c886891",
         "type": "tabs",
         "children": [
           {
-            "id": "1ad7e854dbe5aa1c",
+            "id": "fe3ca4b5bb1421b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "100c6b61a459ab0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wenz-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2130a3584ddfa903",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wenz-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "474980f0e47b286e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog-how-we-use -golden-paths-to-solve-fragmentation-in-our-software-ecosystem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb58e0deb606b5c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the-twelve-factor-app.md",
+                "file": "michael-2024-advanced-html-for-performance-and-accessibility.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wenz-2024.md",
+                "file": "michael-2024-advanced-html-for-performance-and-accessibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wenz-2024.md",
+                "file": "michael-2024-advanced-html-for-performance-and-accessibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wenz-2024.md"
+                "file": "michael-2024-advanced-html-for-performance-and-accessibility.md"
               }
             }
           }
@@ -175,15 +126,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2130a3584ddfa903",
+  "active": "fe3ca4b5bb1421b3",
   "lastOpenFiles": [
+    "the-twelve-factor-app.md",
+    "blog-how-we-use -golden-paths-to-solve-fragmentation-in-our-software-ecosystem.md",
+    "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
+    "wenz-2024-the-final-frontier-security-apis-in-the-modern-browsers.md",
     "when-a-build-fails.md",
     "michael-2024-advanced-html-for-performance-and-accessibility.md",
-    "wenz-2024.md",
-    "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
     "cynefin-framework.md",
-    "blog-how-we-use -golden-paths-to-solve-fragmentation-in-our-software-ecosystem.md",
-    "the-twelve-factor-app.md",
     "blog-makszy-2023-how-to-train-your-designer.md",
     "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
     "blog-morony-2023-testing-smart-components-services-in-angular.md",
