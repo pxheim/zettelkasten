@@ -221,3 +221,5 @@ E.g. Queue can crash, stop, slow down. Impact is that the system stops working. 
 
 ---
 
+The "It's just like" heuristic. By Mathias Verraes.  [[$Research]].
+
