@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5feb7f8dc988cc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "smith-2024-inside-gpt-large-language-models-demystified.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "michael-2024-advanced-html-for-performance-and-accessibility.md",
+                "file": "smith-2024-inside-gpt-large-language-models-demystified.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "michael-2024-advanced-html-for-performance-and-accessibility.md",
+                "file": "smith-2024-inside-gpt-large-language-models-demystified.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "michael-2024-advanced-html-for-performance-and-accessibility.md"
+                "file": "smith-2024-inside-gpt-large-language-models-demystified.md"
               }
             }
           }
@@ -126,11 +139,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fe3ca4b5bb1421b3",
+  "active": "e5feb7f8dc988cc0",
   "lastOpenFiles": [
+    "michael-2024-advanced-html-for-performance-and-accessibility.md",
+    "smith-2024-inside-gpt-large-language-models-demystified.md",
     "the-mind-as-a-pattern-machine.md",
     "the-horizon-model.md",
-    "michael-2024-advanced-html-for-performance-and-accessibility.md",
     "the-twelve-factor-app.md",
     "blog-how-we-use -golden-paths-to-solve-fragmentation-in-our-software-ecosystem.md",
     "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
@@ -153,7 +167,6 @@
     "artificial-delays-in-deployment-of-software.md",
     "qa-should-be-at-the-front.md",
     "ci-requires-a-change-of-mindset.md",
-    "book-martin-2021-clean-craftsmanship.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
