@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4deb830a9f47987d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "angular-university-2024-angular-ng-content-and-content-projection-complete-guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "angular-university-2024-angular-ng-content-and-content-projection-complete-guide.md",
+                "file": "invest-principle-for-stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "angular-university-2024-angular-ng-content-and-content-projection-complete-guide.md",
+                "file": "invest-principle-for-stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "angular-university-2024-angular-ng-content-and-content-projection-complete-guide.md"
+                "file": "invest-principle-for-stories.md"
               }
             }
           }
@@ -139,10 +126,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4deb830a9f47987d",
+  "active": "b8b1d8b28facadd5",
   "lastOpenFiles": [
-    "invest-principle-for-stories.md",
     "angular-university-2024-angular-ng-content-and-content-projection-complete-guide.md",
+    "invest-principle-for-stories.md",
     "book-humble-farley-2010-continuous-delivery.md",
     "yagni-you-arent-gonna-need-it.md",
     "book-martin-2021-clean-craftsmanship.md",
