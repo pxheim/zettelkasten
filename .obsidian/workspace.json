@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7dbe4e2b05606963",
+        "id": "b292c7183e234a7b",
         "type": "tabs",
         "children": [
           {
-            "id": "9050858c76ad746f",
+            "id": "f6b8374575e4f87a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "estimatin",
+                "query": "angular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9050858c76ad746f",
+  "active": "f6b8374575e4f87a",
   "lastOpenFiles": [
     "mezaro-test-doubles-vocabulary.md",
     "book-martin-2019-clean-agile.md",
