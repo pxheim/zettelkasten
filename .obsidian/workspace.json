@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "book-fowler-2018-refactoring.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 200
   },
   "right": {
     "id": "2fcfa59adc960966",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "book-fowler-2018-refactoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "book-fowler-2018-refactoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "book-fowler-2018-refactoring.md"
               }
             }
           }
@@ -128,7 +128,9 @@
   },
   "active": "5e01308ea2d1c499",
   "lastOpenFiles": [
-    "Untitled.md",
+    "refactor-before-performance-optimization.md",
+    "book-fowler-2018-refactoring.md",
+    "book-allen-2022-getting-things-done.md",
     "mezaro-test-doubles-vocabulary.md",
     "book-martin-2019-clean-agile.md",
     "invest-principle-for-stories.md",
@@ -152,8 +154,6 @@
     "the-mind-as-a-pattern-machine.md",
     "the-horizon-model.md",
     "the-twelve-factor-app.md",
-    "blog-how-we-use -golden-paths-to-solve-fragmentation-in-our-software-ecosystem.md",
-    "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
