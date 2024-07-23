@@ -140,9 +140,9 @@
   },
   "active": "5e01308ea2d1c499",
   "lastOpenFiles": [
-    "comments-indicate-potential-refactors.md",
-    "book-fowler-2018-refactoring.md",
     "blog-wilsenach-2021-ship-show-ask.md",
+    "book-fowler-2018-refactoring.md",
+    "comments-indicate-potential-refactors.md",
     "blog-ordine-2023-feature-flags-setup-in-flutter-with-firebase-remote-config.md",
     "blog-how-we-use -golden-paths-to-solve-fragmentation-in-our-software-ecosystem.md",
     "do-not-mix-refactoring-with-other-activities.md",
