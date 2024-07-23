@@ -1,0 +1,1 @@
+Long parameter lists are bad. They make it hard to see what the function is supposed to do. Consider making a class or object when you have long parameter lists.

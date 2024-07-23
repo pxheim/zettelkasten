@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "angular",
+                "query": "team",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,8 +141,11 @@
   },
   "active": "5e01308ea2d1c499",
   "lastOpenFiles": [
-    "blog-wilsenach-2021-ship-show-ask.md",
+    "refactor-large-functions-into-small-ones.md",
     "book-fowler-2018-refactoring.md",
+    "refactor-long-parameter-lists.md",
+    "break-down-code-ownership.md",
+    "blog-wilsenach-2021-ship-show-ask.md",
     "comments-indicate-potential-refactors.md",
     "blog-ordine-2023-feature-flags-setup-in-flutter-with-firebase-remote-config.md",
     "blog-how-we-use -golden-paths-to-solve-fragmentation-in-our-software-ecosystem.md",
@@ -163,9 +167,6 @@
     "dysfunction-5-inattention-to-results.md",
     "dysfunction-4-avoidance-of-accountability.md",
     "dysfunction-3-lack-of-commitment.md",
-    "dysfunction-2-fear-of-conflict.md",
-    "dysfunction-1-lack-of-trust.md",
-    "the-five-dysfunctions-of-a-team.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
