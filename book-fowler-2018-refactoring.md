@@ -18,10 +18,10 @@ Consider in a team of senior developers to forgo the concept of feature branches
 
 [[comments-indicate-potential-refactors]]
 
-Naming things in code is hard. However when it's hard to come up with a good name, it often indicates something wrong with your code as a whole. Renaming can therefore lead to larger refactors.
+[[bad-names-can-indicate-bad-code]]
 
 [[refactor-large-functions-into-small-ones]]
 
 [[refactor-long-parameter-lists]]
 
-Loops should be avoided and replaced by first class functions. .map, .filter, etc are much clearer and cleaner.
+[[avoid-loops-in-your-code]]

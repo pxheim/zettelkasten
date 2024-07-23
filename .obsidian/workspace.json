@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog-wilsenach-2021-ship-show-ask.md",
+                "file": "video-free-code-camp-2023-learn-tailwind-css.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-fowler-2018-refactoring.md",
+                "file": "video-free-code-camp-2023-learn-tailwind-css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-fowler-2018-refactoring.md",
+                "file": "video-free-code-camp-2023-learn-tailwind-css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-fowler-2018-refactoring.md"
+                "file": "video-free-code-camp-2023-learn-tailwind-css.md"
               }
             }
           }
@@ -139,34 +139,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5e01308ea2d1c499",
+  "active": "68b4f7157b8532aa",
   "lastOpenFiles": [
-    "refactor-large-functions-into-small-ones.md",
+    "$Bibliography.md",
+    "book-humble-farley-2010-continuous-delivery.md",
     "book-fowler-2018-refactoring.md",
+    "book-allen-2022-getting-things-done.md",
+    "book-ahrens-2022-how-to-take-smart-notes.md",
+    "blog-ordine-2023-feature-flags-setup-in-flutter-with-firebase-remote-config.md",
+    "blog-wilsenach-2021-ship-show-ask.md",
+    "pull-requests-and-continuous-integration.md",
+    "avoid-loops-in-your-code.md",
+    "bad-names-can-indicate-bad-code.md",
+    "refactor-large-functions-into-small-ones.md",
     "refactor-long-parameter-lists.md",
     "break-down-code-ownership.md",
-    "blog-wilsenach-2021-ship-show-ask.md",
     "comments-indicate-potential-refactors.md",
-    "blog-ordine-2023-feature-flags-setup-in-flutter-with-firebase-remote-config.md",
     "blog-how-we-use -golden-paths-to-solve-fragmentation-in-our-software-ecosystem.md",
     "do-not-mix-refactoring-with-other-activities.md",
     "do-not-tell-your-manager-about-refactoring.md",
     "the-best-time-to-refactor.md",
     "refactor-in-small-steps.md",
     "refactor-before-performance-optimization.md",
-    "book-allen-2022-getting-things-done.md",
     "mezaro-test-doubles-vocabulary.md",
     "book-martin-2019-clean-agile.md",
     "invest-principle-for-stories.md",
     "angular-university-2024-angular-ng-content-and-content-projection-complete-guide.md",
-    "book-humble-farley-2010-continuous-delivery.md",
     "yagni-you-arent-gonna-need-it.md",
     "book-martin-2021-clean-craftsmanship.md",
-    "estimating-tasks-based-on-points.md",
-    "blog-makszy-2023-how-to-train-your-designer.md",
-    "dysfunction-5-inattention-to-results.md",
-    "dysfunction-4-avoidance-of-accountability.md",
-    "dysfunction-3-lack-of-commitment.md",
     "_refs",
     "_templates",
     "Untitled.canvas",

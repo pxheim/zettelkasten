@@ -1,0 +1,1 @@
+Loops should be avoided and replaced by first class functions. .map, .filter, etc are much clearer and cleaner.
