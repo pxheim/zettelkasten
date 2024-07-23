@@ -1,0 +1,1 @@
+If you have a manager that understands technology, refactoring should be welcome by him / her. If, however, your manager is a product person, you might be better off not mentioning refactoring and just doing it instead. You are a professional after all, paid to do a good job.

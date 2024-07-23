@@ -4,21 +4,19 @@ Fowler, M. (2018). _Refactoring: Improving the Design of Existing Code_ (2nd ed.
 
 [[refactor-before-performance-optimization]]
 
-Refactoring should be done in small steps. Very small. Then after every change, compile, test and commit your changes. It's a rhythm you should get into. You might be surprised by how small changes are to be done. Always leave your code in a working state. That way you can stop at any time.
+[[refactor-in-small-steps]]
 
-The two hats. When programming, always either add new features or do refactoring. Never do both at the same time.
+[[do-not-mix-refactoring-with-other-activities]]
 
-The best time to refactor is before you add a new feature or before you fix a bug. This is often called preparatory refactoring. You often see a better way of adding something that can be done by refactoring, so you should. Similarly, comprehension refactoring is similar, but is done for you to understand better what the code does, most likely before adding something new.
+[[the-best-time-to-refactor]]
 
-If you have a manager that understands technology, refactoring should be welcome by him / her. If, however, your manager is a product person, you might be better off not mentioning refactoring and just doing it instead. You are a professional after all, paid to do a good job.
-
-Sometimes you don't have to, or should not, refactor. For example when you are not touching some code, then you don't have to, even though the code is messy. Sometimes, it's better to replace some code vs refactoring. Knowing when takes practice.
+[[do-not-tell-your-manager-about-refactoring]]
 
 Break down code ownership. Even though you are responsible for frontend code, does not mean you cannot make changes to the backend code. This makes life much easier if you are doing some work in frontend and need some change done in the backend. You can just do it.
 
 Consider in a team of senior developers to forgo the concept of feature branches. It makes it more complicated to do CI, and it's not needed when the code ecosystem is good.
 
-Do not fix performance while also fixing other things. It's a separate activity that requires special attention. Otherwise you'll end up thinking you optimize here and there without actually taking or being able to take into consideration how compilers, runtime and hardware works. Know where to optimize before you start.
+[[comments-indicate-potential-refactors]]
 
 Naming things in code is hard. However when it's hard to come up with a good name, it often indicates something wrong with your code as a whole. Renaming can therefore lead to larger refactors.
 
