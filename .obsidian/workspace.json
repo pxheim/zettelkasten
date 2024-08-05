@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "116c7ee119c7d0cd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +149,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "68b4f7157b8532aa",
+  "active": "116c7ee119c7d0cd",
   "lastOpenFiles": [
     "$Bibliography.md",
     "book-humble-farley-2010-continuous-delivery.md",
