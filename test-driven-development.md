@@ -10,3 +10,5 @@ The three laws of TDD is:
 Following these laws, your workflow will now be something like 1, 2, 3, 2, 3, 2, 3... until you finish what you are working on. The essence of this is that you maintain a test suite that ensures that if any code passes, it will be deployable. I.e. passing tests implies deployability.
 
 Test driven development is arguably the most important of the [[software-craftsmanship]] pillars. When writing good tests, they will become the documentation of your code. Designing tests is just as important as designing production code. If care is not taken, you'll end up with fragile tests (tests that are too coupled to code) that will break often.
+
+Additionally, writing good tests for the code you write will force you to write better code. [[writing-tests-shapes-your-code]].
