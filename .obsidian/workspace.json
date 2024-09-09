@@ -11,8 +11,12 @@
             "id": "82555ff6f23bf5ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "mezaro-test-doubles-vocabulary.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "team",
+                "query": "stub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mezaro-test-doubles-vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mezaro-test-doubles-vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mezaro-test-doubles-vocabulary.md"
+              }
             }
           }
         ]
@@ -120,12 +129,12 @@
   },
   "active": "82555ff6f23bf5ba",
   "lastOpenFiles": [
+    "book-humble-farley-2010-continuous-delivery.md",
     "writing-tests-shapes-your-code.md",
     "test-driven-development.md",
     "universal-rules-for-software-tests.md",
     "write-things-down-to-reduce-the-load-on-the-brain.md",
     "writing-tests-shape-your-code.md",
-    "book-humble-farley-2010-continuous-delivery.md",
     "types-of-software-tests.md",
     "unit-tests.md",
     "deployment-pipeline.md",
