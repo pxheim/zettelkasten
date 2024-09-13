@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mezaro-test-doubles-vocabulary.md",
+                "file": "$Bibliography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebed9194bb17d19a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book-kondo-2014-the-life-changing-magic-of-tidying.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mezaro-test-doubles-vocabulary.md",
+                "file": "book-kondo-2014-the-life-changing-magic-of-tidying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mezaro-test-doubles-vocabulary.md",
+                "file": "book-kondo-2014-the-life-changing-magic-of-tidying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mezaro-test-doubles-vocabulary.md"
+                "file": "book-kondo-2014-the-life-changing-magic-of-tidying.md"
               }
             }
           }
@@ -127,8 +139,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "82555ff6f23bf5ba",
+  "active": "ebed9194bb17d19a",
   "lastOpenFiles": [
+    "$Bibliography.md",
+    "book-kondo-2014-the-life-changing-magic-of-tidying.md",
+    "acceptance-tests.md",
+    "mezaro-test-doubles-vocabulary.md",
     "book-humble-farley-2010-continuous-delivery.md",
     "writing-tests-shapes-your-code.md",
     "test-driven-development.md",
@@ -138,7 +154,6 @@
     "types-of-software-tests.md",
     "unit-tests.md",
     "deployment-pipeline.md",
-    "acceptance-tests.md",
     "book-martin-2021-clean-craftsmanship.md",
     "code-coverage.md",
     "testing-quadrant.md",
@@ -147,14 +162,11 @@
     "estimating-tasks-based-on-points.md",
     "book-fowler-2018-refactoring.md",
     "video-free-code-camp-2023-learn-tailwind-css.md",
-    "$Bibliography.md",
     "book-allen-2022-getting-things-done.md",
     "book-ahrens-2022-how-to-take-smart-notes.md",
     "blog-ordine-2023-feature-flags-setup-in-flutter-with-firebase-remote-config.md",
     "blog-wilsenach-2021-ship-show-ask.md",
     "pull-requests-and-continuous-integration.md",
-    "avoid-loops-in-your-code.md",
-    "bad-names-can-indicate-bad-code.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
