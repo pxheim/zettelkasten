@@ -1,14 +1,24 @@
 [[$Bibliography]]
 
-Tidying little by little does not work. You have to do it all at once. Throwing away 1 item per day will only make you forget some days, delay throwing out, etc.
+[[tidy-everywhere-all-at-once]]
 
-Tidying does not mean putting things away, it means throwing things out. Don't put things you actually don't need in boxes that hide them away and then claim you have made it tidy.
+When you want to start tidying, i.e. throwing things out, the most effective way is to do it all at once. Throwing away 1 item per day does not work as you'll soon forget to do it, save items to throw away later, etc. However, perhaps most importantly, it's hard to get an overview when tidying like this. This is also why tidying room by room does not work as we store the same things in multiple rooms.
 
-We often store the same type of thing in multiple rooms. Therefore tidy by category, not room.
+Consider everything you own, and start tidying by category.
 
-Discard everything first, then figure out where to place things. Don't let anything stop you from discarding until you have discarded everything (in a category).
+[[tidy-first-then-store]]
 
-Focus on what to keep, not what to discard. Ofc discard everything you don't want to keep. Does it spark joy?
+Tidying does not mean putting things away, it means throwing things out. Don't put things you actually don't need in boxes that hide them away and then claim you have made it tidy. Discard everything first, then figure out where to place things. Don't let anything stop you from discarding until you have discarded everything (in a category).
+
+[[does-it-spark-joy]]
+
+Focus on what to keep, not what to discard. 
+
+Does it spark joy?
+
+Discard the things that do not spark joy.
+
+
 
 Things can have fulfilled their purpose without being used in the traditional sense. E.g. clothes that have not been used can be thrown out as they gave you joy when you bought them.
 
