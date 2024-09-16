@@ -12,11 +12,10 @@ Tidying does not mean putting things away, it means throwing things out. Don't p
 
 [[does-it-spark-joy]]
 
-Focus on what to keep, not what to discard. 
+Focus on what to keep, not what you want to discard. Pick up an item and ask yourself i
 
-Does it spark joy?
 
-Discard the things that do not spark joy.
+Focus on what to keep, not what to discard. Does it spark joy? Discard the things that do not spark joy.
 
 
 

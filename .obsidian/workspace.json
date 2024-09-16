@@ -11,8 +11,12 @@
             "id": "9a7dca9bc8fe6e6b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "book-kondo-2014-the-life-changing-magic-of-tidying.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "book-kondo-2014-the-life-changing-magic-of-tidying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "book-kondo-2014-the-life-changing-magic-of-tidying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "book-kondo-2014-the-life-changing-magic-of-tidying.md"
+              }
             }
           }
         ]
