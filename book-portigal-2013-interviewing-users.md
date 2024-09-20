@@ -60,5 +60,13 @@ When showing prototypes or concepts you've been working on, present them to the 
 
 Resist answering questions you get in response to showing concepts. When a client asks whether you actually have to give a user a role in the system before they can actually do anything, don't answer, instead ask why that's important to them, or "what would you expect?".
 
+# Chapter 4
+
+Ideal size for the field team conducting the interview is 2 people, one to lead the interview and one to back up the other person. The leader runs the interview and coordinates the participation of the backup. Even if you are a backup, you still need to be engaged, but do not interject or interrupt the lead. Write down and hold your questions for the appropriate time.
+
+Avoid assigning specific roles to people in the interview. You are both interviewers and should both be doing all the things. Instead of saying that someone is the note-taker and another person is the photographer, assign tasks some 30 minutes before the interview.
+
+
+
 
 
