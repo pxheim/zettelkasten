@@ -60,13 +60,23 @@ When showing prototypes or concepts you've been working on, present them to the 
 
 Resist answering questions you get in response to showing concepts. When a client asks whether you actually have to give a user a role in the system before they can actually do anything, don't answer, instead ask why that's important to them, or "what would you expect?".
 
-# Chapter 4
+# Chapter 5
 
 Ideal size for the field team conducting the interview is 2 people, one to lead the interview and one to back up the other person. The leader runs the interview and coordinates the participation of the backup. Even if you are a backup, you still need to be engaged, but do not interject or interrupt the lead. Write down and hold your questions for the appropriate time.
 
 Avoid assigning specific roles to people in the interview. You are both interviewers and should both be doing all the things. Instead of saying that someone is the note-taker and another person is the photographer, assign tasks some 30 minutes before the interview.
 
+An interview usually goes through 7 distinct stages
 
+- **Getting There**: You get there introduce yourself, set up your equipment and get ready to conduct the interview. It's important at this stage not to start the interview right away, and small-talk only about random topics not related to the interview.
+- **Restate Objectives**: State why you have come and what you are doing. It's important that expectations are set. Introduce yourself at this stage.
+- Kick-Off Question: Start broad, maybe asking something that's not even related to the interview like "Maybe introduce yourself and tell us what your job is here".
+- **Accept the Awkwardness**: Interviewing can be a little awkward, both for you and the participant. Establish rapport at this stage and make the person you're interviewing feel comfortable. This is important to reach
+- **The Tipping Point**: When conversation revolves around stories and not just answers to questions. This is where the most valuable insight lies.
+- **Reflection and Projection**: Keep in mind that the future they predict is quite possible not the correct one. People cannot predict the future.
+- **The Soft Close**: Keep in mind the "doorknob phenomenon" where the most valuable insights might come as you are about to leave. Keep recording devices on until you have actually left.
 
+# Chapter 6
 
+Silence is fine. Ask your question
 
