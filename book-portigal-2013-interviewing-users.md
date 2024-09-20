@@ -24,3 +24,10 @@ Be selective about when to reveal information about yourself. It can in some cas
 
 During an interview, you'll often go from question-answer, question-answer to **question-story**. This is where you want to end up and this is where the best insights lie.
 
+Act as if... Be aware of your body language when you are conducting an interview. Position yourself in a way where it's obvious that you are listening. This might in turn actually make you listen more as the concept of "act as if" actually works.
+
+
+# Chapter 3
+
+Be conscious about who you recruit and why. Don't fall for just recruiting people in the office, or worse, family. If you are having trouble recruiting people that match your criteria, it might reveal something interesting as well. Thus, make criteria first, then recruit.
+
