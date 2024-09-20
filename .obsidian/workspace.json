@@ -11,8 +11,12 @@
             "id": "4bd82b0f55c36a68",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "book-portigal-2013-interviewing-users.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -57,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 544.5
+    "width": 373.5
   },
   "right": {
     "id": "2fcfa59adc960966",
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "book-portigal-2013-interviewing-users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "book-portigal-2013-interviewing-users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,14 +105,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "book-portigal-2013-interviewing-users.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -120,6 +129,8 @@
   },
   "active": "4bd82b0f55c36a68",
   "lastOpenFiles": [
+    "law-of-parkinson--work-takes-the-time-given-to-it.md",
+    "book-portigal-2013-interviewing-users.md",
     "book-kondo-2014-the-life-changing-magic-of-tidying.md",
     "do-not-stock-up-on-things.md",
     "show-respect-for-the-things-you-have.md",
@@ -144,8 +155,6 @@
     "book-martin-2019-clean-agile.md",
     "book-martin-2008-clean-code.md",
     "$Bibliography.md",
-    "acceptance-tests.md",
-    "mezaro-test-doubles-vocabulary.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
