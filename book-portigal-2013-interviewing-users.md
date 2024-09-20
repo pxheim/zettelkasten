@@ -78,5 +78,9 @@ An interview usually goes through 7 distinct stages
 
 # Chapter 6
 
-Silence is fine. Ask your question
+Silence is fine. Ask your question and then wait, do not follow up, do not leave with an "orrrrrr". Just let the silence be there. This is awkward, but will often get good answers.
+
+People speak in paragraphs. When a person is done answering your question. Wait before you ask a new one. Don't jump straight into something else. People speak in paragraphs and some have longer pauses between their paragraphs than others.
+
+Use the language of the person being interviewed. If they mispronounce something, be careful when it comes to correcting them. Sometimes it's just better to also join in on mispronouncing things. This also comes down to how they view processes and other things as well. Do not correct them. Remember that they should feel like they are the experts.
 
