@@ -16,5 +16,11 @@ Don't treat interviews like a normal social interaction as they are distinctly n
 
 # Chapter 2
 
+Leave your world view at the door. Do not bring your own beliefs, values and whatnot to an interview. Stay neutral and make the interview about the interview, not you.
 
+Ask questions to which you think you already know the answer to. The response you get from customers might surprise you.
+
+Be selective about when to reveal information about yourself. It can in some cases be helpful to build rapport, but more often than not it can skew an interview.
+
+During an interview, you'll often go from question-answer, question-answer to **question-story**. This is where you want to end up and this is where the best insights lie.
 
