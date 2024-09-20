@@ -1,0 +1,1 @@
+We store the same things in multiple rooms, so tidying by room does not work. Consider everything you own, and start tidying by category. 

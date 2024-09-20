@@ -1,0 +1,1 @@
+Focus on what to keep, not what you want to discard. Pick up an item and ask yourself if it sparks joy. That feeling you get when you're holding something you really, _really_ like, that's what you are looking for. Discard the things that do not spark joy.

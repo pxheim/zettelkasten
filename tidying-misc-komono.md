@@ -1,0 +1,1 @@
+It's hard to gather these in a pile, but often they'll fall under a specific category no less. Some people hoard Christmas decorations, other people hoard board games. Follow the same procedure for these, i.e. gather them by category in piles and sort through them.

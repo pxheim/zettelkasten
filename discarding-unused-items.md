@@ -1,0 +1,3 @@
+Things can have fulfilled their purpose without being used in the traditional sense. E.g. clothes that have not been used can be thrown out as they gave you joy when you bought them. Gifts that you received that you have not used sparked joy when you received them. Their purpose is done, and can be discarded.
+
+You'll eventually regret discarding something. This is fine. Nobody died, and you can most likely get whatever item you discarded back.

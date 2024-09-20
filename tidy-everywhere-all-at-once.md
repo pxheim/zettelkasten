@@ -1,0 +1,3 @@
+When you want to start tidying, i.e. throwing things out, the most effective way is to do it all at once.  A common strategy is to thro away 1 item per day, however, this does not work as you'll soon forget to do it, save items to throw away later, etc.
+
+Tidying by numbers does not work. "Keep x clothes" only works for the person that defined x. Only you know how many shoes you want to keep to be happy, but make sure you only keep the ones that spark joy. If you have 100 shoes where all of them spark joy, so be it.

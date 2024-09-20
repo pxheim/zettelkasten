@@ -1,0 +1,1 @@
+Avoid stocking up on things when possible, even when they are on sale. Consider the price of storing such items in your home. Only buy what you need, when you need it.

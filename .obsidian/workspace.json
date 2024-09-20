@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "45d4b77946a42544",
+        "id": "c523de9986a6f48e",
         "type": "tabs",
         "children": [
           {
-            "id": "9a7dca9bc8fe6e6b",
+            "id": "4bd82b0f55c36a68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book-kondo-2014-the-life-changing-magic-of-tidying.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-kondo-2014-the-life-changing-magic-of-tidying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-kondo-2014-the-life-changing-magic-of-tidying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "book-kondo-2014-the-life-changing-magic-of-tidying.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -126,34 +118,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9a7dca9bc8fe6e6b",
+  "active": "4bd82b0f55c36a68",
   "lastOpenFiles": [
+    "book-kondo-2014-the-life-changing-magic-of-tidying.md",
+    "do-not-stock-up-on-things.md",
+    "show-respect-for-the-things-you-have.md",
+    "discarding-unused-items.md",
+    "remove-visual-noise.md",
+    "everything-should-have-a-designated-place.md",
+    "folding-for-storing-clothes.md",
+    "storage-when-tidying.md",
+    "tidying-sentimental-items.md",
+    "tidying-misc-komono.md",
+    "tidying-papers.md",
+    "tidying-books.md",
+    "tidying-clothes.md",
+    "tidy-by-category.md",
+    "order-of-tidying.md",
+    "does-it-spark-joy.md",
+    "tidy-first-then-store.md",
+    "tidy-everywhere-all-at-once.md",
     "book-skelton-pais-2019-team-topologies.md",
     "book-schon-the-reflective-practitioner.md",
     "book-martin-2021-clean-craftsmanship.md",
     "book-martin-2019-clean-agile.md",
     "book-martin-2008-clean-code.md",
-    "book-kondo-2014-the-life-changing-magic-of-tidying.md",
     "$Bibliography.md",
     "acceptance-tests.md",
     "mezaro-test-doubles-vocabulary.md",
-    "book-humble-farley-2010-continuous-delivery.md",
-    "writing-tests-shapes-your-code.md",
-    "test-driven-development.md",
-    "universal-rules-for-software-tests.md",
-    "write-things-down-to-reduce-the-load-on-the-brain.md",
-    "writing-tests-shape-your-code.md",
-    "types-of-software-tests.md",
-    "unit-tests.md",
-    "deployment-pipeline.md",
-    "code-coverage.md",
-    "testing-quadrant.md",
-    "over-confidence-bias--people-cannot-estimate.md",
-    "law-of-parkinson--work-takes-the-time-given-to-it.md",
-    "estimating-tasks-based-on-points.md",
-    "book-fowler-2018-refactoring.md",
-    "video-free-code-camp-2023-learn-tailwind-css.md",
-    "book-allen-2022-getting-things-done.md",
     "_refs",
     "_templates",
     "Untitled.canvas",

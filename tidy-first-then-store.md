@@ -1,0 +1,1 @@
+Tidying does not mean putting things away, it means throwing things out. Don't put things you don't need in boxes that hide them away and then claim you have made it tidy. Discard everything first, then figure out where to place things. Don't let anything stop you from discarding until you have discarded everything (in a category).

@@ -1,0 +1,1 @@
+Show respect for the things you choose to keep. Kondo treats them as if they were alive and thanks them for the job they've done. Perhaps that is a bit much, but show appreciation for the things you have and they will last longer.

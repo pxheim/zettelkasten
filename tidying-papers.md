@@ -1,0 +1,1 @@
+Rule of thumb is to discard all **papers**. You don't need to keep them around. Important ones you can digitize. The only exception is things you really truly must keep (like deeds, etc.) and sentimental papers.

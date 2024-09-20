@@ -1,0 +1,1 @@
+Everything should have a designated place, and every designated place should belong to only one thing. Similarly, each person in a household should have their own place to store their things. Do not share shelves or cabinets.

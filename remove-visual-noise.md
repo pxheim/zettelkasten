@@ -1,0 +1,1 @@
+Labels, ads and other branding is noisy, so remove them you can. The same goes for your storage space. Take example from Poland removing Billboard, or Czechia removing ads.

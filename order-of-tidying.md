@@ -1,0 +1,1 @@
+When tidying, start with clothes, then books, then papers, then misc items, then sentimental items last. This is the most efficient order, sorted by the order in which most people find it easy to discard items (sentimental items are hard to discard for everyone).
