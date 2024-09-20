@@ -26,8 +26,30 @@ During an interview, you'll often go from question-answer, question-answer to **
 
 Act as if... Be aware of your body language when you are conducting an interview. Position yourself in a way where it's obvious that you are listening. This might in turn actually make you listen more as the concept of "act as if" actually works.
 
-
 # Chapter 3
 
 Be conscious about who you recruit and why. Don't fall for just recruiting people in the office, or worse, family. If you are having trouble recruiting people that match your criteria, it might reveal something interesting as well. Thus, make criteria first, then recruit.
+
+First figure out what you want to have answered, then figure out what questions you are going to ask to get answers to those questions.
+
+Interview flow should be roughly
+- Introduction
+- Main body
+- Projection / dreams
+- Wrap up
+
+Make sure to assign durations to each section that will help guide you through the process and to ensure that you get through everything you intend to.
+
+One of the most important things to establish during the introduction is that there are no wrong answers and no hurt feelings for what you might say.
+
+For the main body, split it into sections for what you want to explore. Be deliberate in how you structure these sections. No rule here, but give it some thought so that it makes sense in an interview setting.
+
+During the projection section you should ask questions that are more audacious, such as "what would your ideal experience of this be?". You've now established a rapport and you are likely to get good answers.
+
+Wrap up by asking whether you missed something or open the room for other questions.
+
+> Take photos of desk, env. etc. It might be important for explaining why people work the way they do.
+
+
+
 
