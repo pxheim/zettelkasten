@@ -50,6 +50,15 @@ Wrap up by asking whether you missed something or open the room for other questi
 
 > Take photos of desk, env. etc. It might be important for explaining why people work the way they do.
 
+# Chapter 4
+
+Asking direct questions to the answers you want can be beneficial, e.g. "how do you give someone access to the system?". However, what this reveals is more likely to be the answer to the question "How do you feel about the process of giving someone access to the system", or "can you recall all the steps necessary to give someone access to the system?". This is valuable as well, but might not be the answer you were hoping for.
+
+Instead "show me how you give someone access to the system" is a better question if you are actually wanting to see how the user does this. Even better, make the participant the teacher by asking "Can you show me how I would add a user to the system". This reinforces that they are the expert, establishing a better report.
+
+When showing prototypes or concepts you've been working on, present them to the client in the most objective way as possible. Don't say something like "Here's something I've been working on for the past weeks". This potentially influences the responses you are going to get. Instead say something as simple as "what do you think of this?", or "we're exploring many different ideas as the moment, what do you think of this one?".
+
+Resist answering questions you get in response to showing concepts. When a client asks whether you actually have to give a user a role in the system before they can actually do anything, don't answer, instead ask why that's important to them, or "what would you expect?".
 
 
 
