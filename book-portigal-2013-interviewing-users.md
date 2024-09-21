@@ -94,5 +94,11 @@ If the person you are interviewing is struggling with something, do not interven
 
 Don't take notes that you want to reference later. Take notes that you need to run the interview. Instead, record the interview. Notes that you need during the interview should be taken on a piece of paper. But mainly focus on the interview, not the note taking.
 
+Video recording of the interview is the best medium.
 
+# Chapter 8
+
+When interviewing multiple people, try to get them to talk to each other when answering your questions instead of asking the same question to both of them. An efficient way to do this is to pause after one person has answered, letting the other answer as well. This changes the dynamic of the conversation.
+
+# Chapter 9
 
