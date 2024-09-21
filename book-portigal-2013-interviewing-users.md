@@ -102,3 +102,12 @@ When interviewing multiple people, try to get them to talk to each other when an
 
 # Chapter 9
 
+Make a topline report after completing your interviews. This is an overview over emerging topics and things that stood out during the interview. Consider it an "early findings" list without getting into too much detail. It's like a draft of what was uncovered, but it's important that it is treated as such as well - a draft.
+
+After making a topline, go through each interview separately and in detail. Assign a few interview to different people to go through. Collect all the information possible and present as a case study. Compare results with what was in the topline. This then forms the presentation of findings, which is the final result from the interview.
+
+Try to make the company you work for understand that interviewing should not be an afterthought, it should be an integral part of the process when making something new.
+
+Don't be afraid to bring the organization on board in the process, the insights you learn from the interviews can be enlightening for them as well.
+
+Tailor the results of the interview to your client's needs. Instead of "should be easy to clean", actionable presentation might be better, e.g. "should be designed with no gaps larger than 1mm."
