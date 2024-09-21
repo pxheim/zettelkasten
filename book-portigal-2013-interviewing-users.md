@@ -84,3 +84,15 @@ People speak in paragraphs. When a person is done answering your question. Wait 
 
 Use the language of the person being interviewed. If they mispronounce something, be careful when it comes to correcting them. Sometimes it's just better to also join in on mispronouncing things. This also comes down to how they view processes and other things as well. Do not correct them. Remember that they should feel like they are the experts.
 
+Embrace contradictions when interviewing. It means that something is wrong somewhere either in your interpretation of something or your client's view of something. Don't point it out though.
+
+Don't think out loud. If your client mentions something that gets your brain going, that's great, but keep it to yourself. If you don't you stop becoming a listener and start becoming a teller. Keep listening. Save the thoughts for later.
+
+If the person you are interviewing is struggling with something, do not intervene or fix it. Save that to the end, otherwise this can completely derail the interview into a "tech support" call instead of a research interview.
+
+# Chapter 7
+
+Don't take notes that you want to reference later. Take notes that you need to run the interview. Instead, record the interview. Notes that you need during the interview should be taken on a piece of paper. But mainly focus on the interview, not the note taking.
+
+
+
