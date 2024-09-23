@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c523de9986a6f48e",
+        "id": "78208d007c144c77",
         "type": "tabs",
         "children": [
           {
-            "id": "4bd82b0f55c36a68",
+            "id": "1ea399250c3e5e25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trick-the-brain-into-enjoying-what-it's-doing.md",
+                "file": "always-ask-what-is-the-next-action.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trick-the-brain-into-enjoying-what-it's-doing.md",
+                "file": "always-ask-what-is-the-next-action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "trick-the-brain-into-enjoying-what-it's-doing.md",
+                "file": "always-ask-what-is-the-next-action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "trick-the-brain-into-enjoying-what-it's-doing.md"
+                "file": "always-ask-what-is-the-next-action.md"
               }
             }
           }
@@ -126,16 +126,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4bd82b0f55c36a68",
+  "active": "1ea399250c3e5e25",
   "lastOpenFiles": [
+    "agile-development.md",
+    "never-ship-shit.md",
     "acceptance-tests.md",
+    "new-idea.md",
+    "rxjs-map-functions.md",
+    "$Blogs.md",
+    "$Hubs.md",
+    "gtd-workflow.md",
+    "4-criteria-model-for-setting-priorities.md",
+    "the-natural-planning-model.md",
+    "trick-the-brain-into-enjoying-what-it's-doing.md",
     "artificial-delays-in-deployment-of-software.md",
     "willpower-is-a-limited-resource.md",
     "book-martin-2021-clean-craftsmanship.md",
     "decouple-tests-from-file-layout.md",
     "brainstorming-is-terrible.md",
     "code-coverage.md",
-    "rxjs-map-functions.md",
     "blog-how-we-use -golden-paths-to-solve-fragmentation-in-our-software-ecosystem.md",
     "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
     "projects--stuff-with-multiple-actions.md",
@@ -145,15 +154,6 @@
     "video-free-code-camp-2023-learn-tailwind-css.md",
     "literature-notes.md",
     "refactoring.md",
-    "efficiently-capturing-things-on-your-mind.md",
-    "qa-should-be-at-the-front.md",
-    "the-reactive-planning-model.md",
-    "test-driven-development.md",
-    "book-ahrens-2022-how-to-take-smart-notes.md",
-    "change-the-environment-to-preserve-willpower.md",
-    "making-decisions-depletes-the-ego.md",
-    "many-factors-can-impact-ego-depletion.md",
-    "book-portigal-2013-interviewing-users.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
