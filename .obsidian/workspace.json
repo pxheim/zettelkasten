@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-portigal-2013-interviewing-users.md",
+                "file": "trick-the-brain-into-enjoying-what-it's-doing.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "right": {
     "id": "2fcfa59adc960966",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-portigal-2013-interviewing-users.md",
+                "file": "trick-the-brain-into-enjoying-what-it's-doing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book-portigal-2013-interviewing-users.md",
+                "file": "trick-the-brain-into-enjoying-what-it's-doing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book-portigal-2013-interviewing-users.md"
+                "file": "trick-the-brain-into-enjoying-what-it's-doing.md"
               }
             }
           }
@@ -115,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -130,32 +128,32 @@
   },
   "active": "4bd82b0f55c36a68",
   "lastOpenFiles": [
-    "book-portigal-2013-interviewing-users.md",
-    "law-of-parkinson--work-takes-the-time-given-to-it.md",
-    "book-kondo-2014-the-life-changing-magic-of-tidying.md",
-    "do-not-stock-up-on-things.md",
-    "show-respect-for-the-things-you-have.md",
-    "discarding-unused-items.md",
-    "remove-visual-noise.md",
-    "everything-should-have-a-designated-place.md",
-    "folding-for-storing-clothes.md",
-    "storage-when-tidying.md",
-    "tidying-sentimental-items.md",
-    "tidying-misc-komono.md",
-    "tidying-papers.md",
-    "tidying-books.md",
-    "tidying-clothes.md",
-    "tidy-by-category.md",
-    "order-of-tidying.md",
-    "does-it-spark-joy.md",
-    "tidy-first-then-store.md",
-    "tidy-everywhere-all-at-once.md",
-    "book-skelton-pais-2019-team-topologies.md",
-    "book-schon-the-reflective-practitioner.md",
+    "acceptance-tests.md",
+    "artificial-delays-in-deployment-of-software.md",
+    "willpower-is-a-limited-resource.md",
     "book-martin-2021-clean-craftsmanship.md",
-    "book-martin-2019-clean-agile.md",
-    "book-martin-2008-clean-code.md",
-    "$Bibliography.md",
+    "decouple-tests-from-file-layout.md",
+    "brainstorming-is-terrible.md",
+    "code-coverage.md",
+    "rxjs-map-functions.md",
+    "blog-how-we-use -golden-paths-to-solve-fragmentation-in-our-software-ecosystem.md",
+    "workshop-residues-time-uncertainty-and-change-in-software-architecture.md",
+    "projects--stuff-with-multiple-actions.md",
+    "learn-all-the-rules-so-you-can-deviate-from-them.md",
+    "give-good-names-to-your-functions.md",
+    "agile-provides-data-to-make-the-right-decision.md",
+    "video-free-code-camp-2023-learn-tailwind-css.md",
+    "literature-notes.md",
+    "refactoring.md",
+    "efficiently-capturing-things-on-your-mind.md",
+    "qa-should-be-at-the-front.md",
+    "the-reactive-planning-model.md",
+    "test-driven-development.md",
+    "book-ahrens-2022-how-to-take-smart-notes.md",
+    "change-the-environment-to-preserve-willpower.md",
+    "making-decisions-depletes-the-ego.md",
+    "many-factors-can-impact-ego-depletion.md",
+    "book-portigal-2013-interviewing-users.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
