@@ -14,8 +14,6 @@ Fowler, M. (2018). _Refactoring: Improving the Design of Existing Code_ (2nd ed.
 
 [[break-down-code-ownership]]
 
-Consider in a team of senior developers to forgo the concept of feature branches. It makes it more complicated to do CI, and it's not needed when the code ecosystem is good.
-
 [[comments-indicate-potential-refactors]]
 
 [[bad-names-can-indicate-bad-code]]
