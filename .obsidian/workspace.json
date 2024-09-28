@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "78208d007c144c77",
+        "id": "759268883af95a8b",
         "type": "tabs",
         "children": [
           {
-            "id": "1ea399250c3e5e25",
+            "id": "0c3ba7f8076a6ee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "$Bibliography.md",
+                "file": "book-vericherla-2018-enterprise-angular-monorepo-patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 208.5
   },
   "right": {
     "id": "2fcfa59adc960966",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "$Bibliography.md",
+                "file": "book-vericherla-2018-enterprise-angular-monorepo-patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "$Bibliography.md",
+                "file": "book-vericherla-2018-enterprise-angular-monorepo-patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "$Bibliography.md"
+                "file": "book-vericherla-2018-enterprise-angular-monorepo-patterns.md"
               }
             }
           }
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -126,8 +127,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1ea399250c3e5e25",
+  "active": "0c3ba7f8076a6ee1",
   "lastOpenFiles": [
+    "book-vericherla-2018-enterprise-angular-monorepo-patterns.md",
+    "$Bibliography.md",
     "$Blogs.md",
     "$Hubs.md",
     "$Research.md",
@@ -152,8 +155,6 @@
     "book-schon-the-reflective-practitioner.md",
     "book-martin-2021-clean-craftsmanship.md",
     "book-martin-2019-clean-agile.md",
-    "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
-    "book-martin-2008-clean-code.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
