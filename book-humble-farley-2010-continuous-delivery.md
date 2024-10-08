@@ -70,7 +70,7 @@ Test doubles are parts of tests that simulate some real part of the application.
 - Spies
 - Mocks
 
-[[INVEST-principle-for-stories]]
+[[invest-principle-for-user-stories]]
 
 Involve QA when writing acceptance criteria to ensure that it's testable and properly defined.
 
