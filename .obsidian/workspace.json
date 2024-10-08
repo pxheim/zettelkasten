@@ -11,11 +11,40 @@
             "id": "e5238bcc1605408d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "book-martin-2021-clean-craftsmanship.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b01383d2048feed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yagni-you-arent-gonna-need-it.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "114513cae665631c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "estimating-tasks-based-on-points.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 430.5
   },
   "right": {
     "id": "2fcfa59adc960966",
@@ -73,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "estimating-tasks-based-on-points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "estimating-tasks-based-on-points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "estimating-tasks-based-on-points.md"
+              }
             }
           }
         ]
@@ -118,8 +151,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e5238bcc1605408d",
+  "active": "114513cae665631c",
   "lastOpenFiles": [
+    "book-martin-2019-clean-agile.md",
+    "agile-development.md",
+    "iron-cross-of-project-management.md",
+    "yagni-you-arent-gonna-need-it.md",
+    "invest-principle-for-stories.md",
+    "book-martin-2021-clean-craftsmanship.md",
     "storage-when-tidying.md",
     "book-fowler-2018-refactoring.md",
     "$Research.md",
@@ -140,12 +179,6 @@
     "blog-wilsenach-2021-ship-show-ask.md",
     "blog-ordine-2023-feature-flags-setup-in-flutter-with-firebase-remote-config.md",
     "pull-requests-and-continuous-integration.md",
-    "book-ahrens-2022-how-to-take-smart-notes.md",
-    "book-allen-2022-getting-things-done.md",
-    "book-skelton-pais-2019-team-topologies.md",
-    "book-portigal-2013-interviewing-users.md",
-    "boy-scout-rule.md",
-    "book-schon-the-reflective-practitioner.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
