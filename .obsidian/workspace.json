@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "693a519abbc7255c",
+        "id": "e3b9bd7e088c779e",
         "type": "tabs",
         "children": [
           {
-            "id": "378eb42e3c0bdd83",
+            "id": "a818e1c67def13e3",
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -35,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ],
@@ -81,7 +87,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -92,7 +100,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -100,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -119,7 +131,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "378eb42e3c0bdd83",
+  "active": "a818e1c67def13e3",
   "lastOpenFiles": [
     "book-martin-2021-clean-craftsmanship.md",
     "yagni-you-arent-gonna-need-it.md",
