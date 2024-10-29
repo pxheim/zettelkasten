@@ -11,10 +11,14 @@
             "id": "a818e1c67def13e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "tmux.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "tmux"
             }
           }
         ]
@@ -59,8 +63,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for tmux"
             }
           },
           {
@@ -98,11 +102,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from tmux"
             }
           },
           {
@@ -110,9 +115,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "tmux.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of tmux"
             }
           }
         ]
@@ -133,6 +140,7 @@
   },
   "active": "a818e1c67def13e3",
   "lastOpenFiles": [
+    "tmux.md",
     "book-martin-2021-clean-craftsmanship.md",
     "yagni-you-arent-gonna-need-it.md",
     "invest-principle-for-user-stories.md",
@@ -158,7 +166,6 @@
     "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
     "blog-morony-2023-testing-smart-components-services-in-angular.md",
     "blog-wilsenach-2021-ship-show-ask.md",
-    "blog-ordine-2023-feature-flags-setup-in-flutter-with-firebase-remote-config.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
