@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "tmux"
             }
+          },
+          {
+            "id": "91e08f280cfc1a78",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +151,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a818e1c67def13e3",
+  "active": "91e08f280cfc1a78",
   "lastOpenFiles": [
     "tmux.md",
     "book-martin-2021-clean-craftsmanship.md",
