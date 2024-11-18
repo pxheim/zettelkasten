@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e3b9bd7e088c779e",
+        "id": "9d61171126b7e940",
         "type": "tabs",
         "children": [
           {
-            "id": "a818e1c67def13e3",
+            "id": "9dcdcc0093894352",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmux.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "tmux"
-            }
-          },
-          {
-            "id": "91e08f280cfc1a78",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +88,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for tmux"
+              "title": "Backlinks"
             }
           },
           {
@@ -151,7 +133,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "91e08f280cfc1a78",
+  "active": "9dcdcc0093894352",
   "lastOpenFiles": [
     "tmux.md",
     "book-martin-2021-clean-craftsmanship.md",
