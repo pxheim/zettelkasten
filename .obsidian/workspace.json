@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9d61171126b7e940",
+        "id": "f300d0b135a8b6be",
         "type": "tabs",
         "children": [
           {
-            "id": "9dcdcc0093894352",
+            "id": "8d2a52ed029c5191",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "New tab"
             }
           }
         ]
@@ -65,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 470.5
   },
   "right": {
     "id": "2fcfa59adc960966",
@@ -135,34 +133,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9dcdcc0093894352",
+  "active": "8d2a52ed029c5191",
   "lastOpenFiles": [
-    "tmux.md",
+    "branching-is-bad-for-ci.md",
+    "book-fowler-2018-refactoring.md",
+    "book-humble-farley-2010-continuous-delivery.md",
+    "book-kim-behr-spafford-2013-the-phoenix-project.md",
+    "book-kondo-2014-the-life-changing-magic-of-tidying.md",
+    "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
+    "book-martin-2019-clean-agile.md",
     "book-martin-2021-clean-craftsmanship.md",
+    "book-portigal-2013-interviewing-users.md",
+    "book-skelton-pais-2019-team-topologies.md",
+    "book-vericherla-2018-enterprise-angular-monorepo-patterns.md",
+    "$Bibliography.md",
+    "tmux.md",
     "yagni-you-arent-gonna-need-it.md",
     "invest-principle-for-user-stories.md",
     "estimating-tasks-based-on-points.md",
-    "book-martin-2019-clean-agile.md",
     "agile-development.md",
     "iron-cross-of-project-management.md",
     "storage-when-tidying.md",
-    "book-fowler-2018-refactoring.md",
     "$Research.md",
     "$Reference.md",
     "$Hubs.md",
     "$Blogs.md",
-    "$Bibliography.md",
-    "book-vericherla-2018-enterprise-angular-monorepo-patterns.md",
     "oath-of-the-programmer.md",
-    "book-humble-farley-2010-continuous-delivery.md",
     "blog-makszy-2023-how-to-train-your-designer.md",
     "$Videos.md",
-    "video-free-code-camp-2023-learn-tailwind-css.md",
-    "be-comfortable-not-doing-something.md",
-    "blog-how-we-use -golden-paths-to-solve-fragmentation-in-our-software-ecosystem.md",
-    "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
-    "blog-morony-2023-testing-smart-components-services-in-angular.md",
-    "blog-wilsenach-2021-ship-show-ask.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
