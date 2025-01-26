@@ -1,0 +1,1 @@
+In an organization, people are not going to communicate with the people they need to in order to get their job done. They are not going to follow an org. chart that tries to force them to communicate either "up" or "down". Org. charts can therefore give a false illusion of being able to control the flow of communication.

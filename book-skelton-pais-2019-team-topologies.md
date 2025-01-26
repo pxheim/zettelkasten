@@ -6,13 +6,10 @@ Skelton, M., & Pais, M. (2019). _Team Topologies: Organizing Business and Techno
 
 [[reverse-conway-maneuver]]
 
+[[people-communicate-to-achieve-their-goals]]
 
 
 
-
-ORg. charts try to limit communications to "up" or "down" in an organization. However, people don't communicate like that. To achieve our goals, we talk to whoever we want to. Org. charts are not going to give us the actual structure of communication. Static org. design does not work. Needs to be able to adapt to changes.
-
-Reverse Conway's Law => Designing a team based on what software architecture you want.
 
 Reverse or not, takeaway is that designing and team communications are linked.
 
@@ -22,28 +19,17 @@ High cognitive load is bad Consider it when decided on team size. Linked to intr
 
 Main obstacles to flow: Pushing against Conway's law, software too big for teams, confusing org. design options, context switching, reorgs, flow blocked, surprises and disengaged teams.
 
-Teams organized in silos are less likely yo design systems that work effectively from end to end.
-
-Use Conway's law to change org. structure / communications to suit the architecture you want.
-
-Given that Conway's law holds true, org design directly influences system architecture , thus, indirectly whoever decides on the org. structure will decide the architecture. It them follows that these people need to be of a technical nature for success.
-
 If teams are communicating even though they do not need to based on how the system should be architected, make them stop. Move them.
 
 Many to many communication is bad and tends to produce monoliths. Typically happens if everyone needs to bee everything, and everyone needs to be in every meeting.
 
 Research at Google shows that it does not matter who is on a team, but instead how that team functions. Speaking of performance.
 
-Teams should never be larger than 7-9 people. This is due to Dunbar's number that sets a limit for how many people you can trust intimately. Dysfunction of a team is lack of trust, so do not go above this number. Often called "two pizza team".
+[[dunbars-number-two-pizza-team]]
 
 Each part of the system should be owned by one team only. They will then be aware of short term changes and the mess they will have to clean later. This should not be territorial.
 
-3 Types of cognitive load:
-- Intrinsic: the core of the work you do, i.e. your basic skills, programming language, etc.
-- Extraneous: Related to the env. in which you work. Instead of  "making" which is intrinsic, this is related to what you do with what you have made, deployment, config, etc.
-- Germane: Aspects that need special attention. Where the value lies.
-
-Remove as much as possible from intrinsic (through training, organizing, etc), and extraneous (by automating, etc) to allow people to focus on the germane.
+[[reduce-cognitive-load-to-focus-on-germane]]
 
 Limit number of domain responsibilities per team. 3 types of domains:
 - Simple: Most work has a clear path of action.
@@ -76,25 +62,9 @@ Keep dependencies between teams to a minimum. Track dependencies and do not let 
 
 ---
 
-There are only four types of topologies you need to know about:
-- Stream aligned team.
-- Enabling team.
-- Complicated-subsystem team.
-- Platform team.
+[[main-team-topologies]]
 
-A stream aligned team is focused on one valuable stream of work which can be a single product, feature, user story, etc.
 
-All other topologies exist to reduce the amount of load on the stream aligned team.
-
-Stream aligned teams should include members that are capable of performing all actions needed to get the work flowing. I.e. there should be zero need for handoff & each member must likely perform more than one task.
-
-Enabling teams help stream aligned teams stay up to date on tech, best practices, frameworks, etc. They should  never be dependent on each other, but should assist for a while until stream-aligned team becomes autonomous. 
-
-Complicated subsystem teams work of (often) small parts of software that require almost exlusovely specialist knowledge. This can be things like mathematical algorithms, codecs, drivers, etc. Delivery should be fast and integration w/ stream aligned teams is important.
-
-Platform teams ensure that the platform needed by stream algined teams to work autonomously is in place. This includes self service APIs, tools, services, knowledge and support.
-
-If a platform is large enough, managing it can incolce all of the other team types as well as another platform team for the platform itself.
 
 Avoid creating silos, e.g. QA department, UX team, etc. This ties into avoiding needing handoffs that ultimately create bottlenecks.
 
