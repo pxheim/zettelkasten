@@ -58,3 +58,21 @@ When debugging, always write a failing test.
 
 The OS is probably not broken, nor is the lib or hosting provider. It's your code.
 
+If fixing a bug takes a long time, ask why. Is there anything you can do to catch the bug earlier? Try to crash early.
+
+Keep an engineering daybook where you jot down stuff you come across on a daily basis as well as what you do every day. When full, write teh day on the spine and start a new one.
+
+---
+
+DBC, design by contract, is a design tool to help you write better code. Consider pre and post conditions of anything you write. Pre-conditions can often be caught with asserts.
+
+Crash or fail ASAP. Sometimes adding a ton of error handling in terms of try/catch can make things worse, more coupled, less redable.
+
+Use assertion! But do not have it replace proper error handling.
+
+Each method should finish what they start. A method should not open a file, only to have it be closed in another method. This also applies to classes. We have constructors and destructors.
+
+Take small steps! This way you can ensure feedback on the changes you make and you avoid "outrunning your headlights", or trying to predict the future.
+
+
+
