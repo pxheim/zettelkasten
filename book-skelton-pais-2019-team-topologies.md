@@ -2,7 +2,13 @@ Skelton, M., & Pais, M. (2019). _Team Topologies: Organizing Business and Techno
 
 [[$Bibliography]]
 
-For organizations that create systems, they are inevitably going to create systems that are copies of the communication structure - Conway's Law.
+[[conways-law]]
+
+[[reverse-conway-maneuver]]
+
+
+
+
 
 ORg. charts try to limit communications to "up" or "down" in an organization. However, people don't communicate like that. To achieve our goals, we talk to whoever we want to. Org. charts are not going to give us the actual structure of communication. Static org. design does not work. Needs to be able to adapt to changes.
 
@@ -68,6 +74,8 @@ If engineering maturity is lacking, temporary teams can be beneficial, but ensur
 
 Keep dependencies between teams to a minimum. Track dependencies and do not let them grow. This leads to wait times.
 
+---
+
 There are only four types of topologies you need to know about:
 - Stream aligned team.
 - Enabling team.
@@ -101,6 +109,8 @@ Most teams should be stream-aligned. Try to convert teams that are not, e.g.
 - Support teams should be stream aligned.
 - Architects to part-time enabling teams.
 
+---
+
 Monoliths is architecture where all parts are tightly coupled. This is bad. They are often hard to spot:
 - Application monoliths are single large apps with many dependencies.
 - "Joined at the DB" usually happens when there's a massive DB that all apps view as the only source of truth.
@@ -110,3 +120,38 @@ Monoliths is architecture where all parts are tightly coupled. This is bad. They
 - Monolithic workplace: when believing that a single type of office will fit all teams.
 - Monolithic model: When enforcing a single domain language.
 
+Splitting a monolotuh should be done at its feature planes: natural "seams" where it makes sense to split. Dangers of splitting incorrectly is code duplication, inconsistencies,e tc. Most common fractures are:
+- Business domains. The bounded context should align with bsuiness context. For a music streaming service, this can be music discovery, music licencing. Don't expect to find this domain right away.
+- Compliance: If certain industries there may be high requirements for compliance, e.g. healthcare, government, finance, etc. Avoid duplication of common shared things if possible, e.g. releasing. However, also avoid making the entire monolith care about payment compliance.
+- Change cadence: Things that change fast should not wait for the slow stuff.
+- Team Location: Don't settle for part remote / part colocated teams. Do either or. If remove but some colocation, pretend to be fully remote (hard).
+- Risk
+- Performance
+- Technology: Useful when dealing with older tech that does not integrate well. Careful not to split into silos.
+- User personas: user / technician split.
+- Your specific org. Sometimes your org has natural seams. Findine ones that work well can be hard.
+
+With a monolith, every piece moves at the speed of the slowest part.
+
+---
+
+It's not enough to just define topologies and boundaries, you also need to define team interaction patterns.
+
+Three main types of interaction: collaboration, x-as-a-service and facilitating. Likely to use a mix of the three, e.g. collaborate with Team A, and use team C's service. This should become habit.
+
+Collaboration is best suited for teams working on something new together. Discovering new ways of doing stuff together can be valuable. Make sure if joining two teams into one through collaboration, do not exceed Dunbar's number. Can also collaboration on part ofg tech. Establish clear boundaries, otherwise ownership, responsibility and trust might degrade.
+
+XAAS works best in later stages of software dev when reliability and stability is needed more than innovative new approaches. Team providing XaaS will need to figure out how their services i used and how.
+
+Facilitating teams work across many teams, helping them overcome obstacles, improve workflow or get into better procedures. Typically this is an enabling team.
+
+You should foster a specific behavior for each type of interaction:
+- Collaboration => Mutual respect and high interaction.
+- XaaS => UX and DevEx is paramount.
+- Facilitating => Help and be helped.
+
+When changing org, based on reverse Convway's maneuver, you're likely to face pushback from existing architecture. To combat, use temporary collaboration mode across the teams + maybe enabling and facilitating. Must be temporary!
+
+Because of how reverse Conway maneuver works, systems architects need to consider how teams interact just as much as code.
+
+Collaboration is the most expensive form of team interaction. Use sparingly. Esp. useful when you want two teams sharing knowledge and for exploration.
