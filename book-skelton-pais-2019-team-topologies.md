@@ -64,3 +64,49 @@ The success of any given topology does not solely depend on the members of that 
 
 There's no "right" topology for you, but there are several bad ones. Selecting your structure must be deliberate.
 
+If engineering maturity is lacking, temporary teams can be beneficial, but ensure that they remain temporary. E.g. devops team might help you get started, but might become a bottleneck if left to stay.
+
+Keep dependencies between teams to a minimum. Track dependencies and do not let them grow. This leads to wait times.
+
+There are only four types of topologies you need to know about:
+- Stream aligned team.
+- Enabling team.
+- Complicated-subsystem team.
+- Platform team.
+
+A stream aligned team is focused on one valuable stream of work which can be a single product, feature, user story, etc.
+
+All other topologies exist to reduce the amount of load on the stream aligned team.
+
+Stream aligned teams should include members that are capable of performing all actions needed to get the work flowing. I.e. there should be zero need for handoff & each member must likely perform more than one task.
+
+Enabling teams help stream aligned teams stay up to date on tech, best practices, frameworks, etc. They should  never be dependent on each other, but should assist for a while until stream-aligned team becomes autonomous. 
+
+Complicated subsystem teams work of (often) small parts of software that require almost exlusovely specialist knowledge. This can be things like mathematical algorithms, codecs, drivers, etc. Delivery should be fast and integration w/ stream aligned teams is important.
+
+Platform teams ensure that the platform needed by stream algined teams to work autonomously is in place. This includes self service APIs, tools, services, knowledge and support.
+
+If a platform is large enough, managing it can incolce all of the other team types as well as another platform team for the platform itself.
+
+Avoid creating silos, e.g. QA department, UX team, etc. This ties into avoiding needing handoffs that ultimately create bottlenecks.
+
+Simplest form of a platform is a few wiki pages underlining components and services used by the team. No need for a team when this is the case obv. TVP = thinnest viable platform is what you want.
+
+Treat that platfrm like any other product that's made, nodt just as a collection of stuff made for developers.
+
+Most teams should be stream-aligned. Try to convert teams that are not, e.g.
+- Infrastructure to platform.
+- Component teams to platform / other.
+- Tooling teams to enabling / platform.
+- Support teams should be stream aligned.
+- Architects to part-time enabling teams.
+
+Monoliths is architecture where all parts are tightly coupled. This is bad. They are often hard to spot:
+- Application monoliths are single large apps with many dependencies.
+- "Joined at the DB" usually happens when there's a massive DB that all apps view as the only source of truth.
+- Monolithic builds - when you have to build everything just to release a part.
+- Monolithic releases: When all small components can be built independently, but need to be released together.
+- Monolithic thinking: when you enforce a single way to do a thing that hampers innovation "one size fits all".
+- Monolithic workplace: when believing that a single type of office will fit all teams.
+- Monolithic model: When enforcing a single domain language.
+
