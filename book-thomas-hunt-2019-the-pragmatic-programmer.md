@@ -48,3 +48,13 @@ Tracer-code is code you write to quikcly get something out to your customer in o
 
 Change unit of estimation as time goes up, e.g. avoid something like 130 days and instead estimate it to take 6 months.
 
+Avoid giving estimates you don't know with some degree of certainty. Instead say "I'll get back to you".
+
+---
+
+IT does not mater whose bug it is, it's still your problem, so fix it, don't blame.
+
+When debugging, always write a failing test.
+
+The OS is probably not broken, nor is the lib or hosting provider. It's your code.
+
