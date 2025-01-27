@@ -57,7 +57,7 @@ IT does not mater whose bug it is, it's still your problem, so fix it, don't bla
 When debugging, always write a failing test.
 
 The OS is probably not broken, nor is the lib or hosting provider. It's your code.
-
+ 
 If fixing a bug takes a long time, ask why. Is there anything you can do to catch the bug earlier? Try to crash early.
 
 Keep an engineering daybook where you jot down stuff you come across on a daily basis as well as what you do every day. When full, write teh day on the spine and start a new one.
