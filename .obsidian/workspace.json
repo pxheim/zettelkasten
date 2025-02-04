@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "e61cf3eaa7025890",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
             "id": "7ec342db376e3413",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -112,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-thomas-hunt-2019-the-pragmatic-programmer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for book-thomas-hunt-2019-the-pragmatic-programmer"
+              "title": "Backlinks"
             }
           },
           {
@@ -168,7 +180,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6ec67dde131127d5",
+  "active": "e61cf3eaa7025890",
   "lastOpenFiles": [
     "book-skelton-pais-2019-team-topologies.md",
     "$Bibliography.md",
