@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conways-law.md",
+                "file": "$Research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conways-law"
+              "title": "$Research"
             }
           }
         ],
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conways-law.md",
+                "file": "$Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conways-law"
+              "title": "Backlinks for $Research"
             }
           },
           {
@@ -171,6 +171,9 @@
   },
   "active": "7ec342db376e3413",
   "lastOpenFiles": [
+    "$Reference.md",
+    "$Research.md",
+    "conways-law.md",
     "book-skelton-pais-2019-team-topologies.md",
     "book-thomas-hunt-2019-the-pragmatic-programmer.md",
     "$Bibliography.md",
@@ -181,7 +184,6 @@
     "dunbars-number-two-pizza-team.md",
     "people-communicate-to-achieve-their-goals.md",
     "reverse-conway-maneuver.md",
-    "conways-law.md",
     "brainstorming-is-terrible.md",
     "book-vericherla-2018-enterprise-angular-monorepo-patterns.md",
     "book-martin-2021-clean-craftsmanship.md",
@@ -195,8 +197,6 @@
     "pull-requests-and-continuous-integration.md",
     "book-allen-2022-getting-things-done.md",
     "book-fowler-2018-refactoring.md",
-    "be-comfortable-not-doing-something.md",
-    "branching-is-bad-for-ci.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
