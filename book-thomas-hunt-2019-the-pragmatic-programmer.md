@@ -76,6 +76,23 @@ Take small steps! This way you can ensure feedback on the changes you make and y
 
 Always "tell, don't ask", basically don't expose information from otherclasses in method calls. Instead of `customer.orders.find(order_id)` do `customer.findOrder(order_id)`. This way, customer does not have to care about how to find an order.
 
-Global data is the root of all evil when it comes to coupling. Wrapping global data in a singleton is cheating. Any mutable global (or external) reso
+Global data is the root of all evil when it comes to coupling. Wrapping global data in a singleton is cheating. Any mutable global (or external) resource is bad. Wrap it in code you control.
 
+Inheritance is bad and you should never use it. It introduces coupling that can be hard to break, and worse, can have multiple instances of inheritance. A class w/o 20 methods that's inherited still expose those 20 methods even if only 2 are actually used.
+
+Alternatives to inheritance:
+- Interfaces & protocols: e.g. Car implements Drivable and Locatable where the latter is an interface w/o code. For Drivable they just say that whoever implements it must also implement getSpeed() and stop().
+- Delegation [[$Research]]
+- Mixins [[$Research]]
+
+Move all configurations to an external API.
+- Credentials for services (APIs, etc).
+- Logging levels and destinations.
+- Port, IP, etc.
+- Env. specific validation params.
+- Externally set params, e.g. tax rate.
+- Site specific formatting details.
+- Licence keys.
+
+Temporal coupling is when some part of code have to happen before another. They are coupled by time. Make activity diagrams to visualize temporal coupling. Probably amazing to do for app startup sequence.
 
