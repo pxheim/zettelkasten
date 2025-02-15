@@ -41,3 +41,4 @@ ADDR (Align Define Design Refine) process is an API first process to help make A
 
 Since an API most likely impacts everyone from business to tech to the customer, designing an API should therefore also involve the "whole company", or at least a multitude of representatives.
 
+The first step in ADDR is to identify digital capabilities. This should be done through job stories, which highlight the jobs to be done. These are written as WHEN X, I WANT TO Y, SO I CAN Z.
