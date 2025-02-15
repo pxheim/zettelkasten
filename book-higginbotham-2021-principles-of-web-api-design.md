@@ -24,4 +24,20 @@ Don't let frontend wait until backend completes their implementation. Start a de
 
 Designing a good API up-front will prevent implementation details from getting in the way as well as reduce coupling.
 
-Don't leak internal implementation details in your APIs. This often happens 
+Don't leak internal implementation details in your APIs. This often happens if coding starts before API design.
+
+API first design process has 5 steps
+
+- Discover: Figure out what you need.
+- Design: Make an initial API design.
+- Prototype: Make a mock API to get feedback.
+
+^ Move between these steps until you and stakeholders are satisfied (does not mean complete). Then
+
+- Deliver: Actually code the API.
+- Onboard: Make people use your API.
+
+ADDR (Align Define Design Refine) process is an API first process to help make APIs. It consists of 4 phases w/ 7 steps.
+
+Since an API most likely impacts everyone from business to tech to the customer, designing an API should therefore also involve the "whole company", or at least a multitude of representatives.
+
