@@ -74,5 +74,8 @@ Each method should finish what they start. A method should not open a file, only
 
 Take small steps! This way you can ensure feedback on the changes you make and you avoid "outrunning your headlights", or trying to predict the future.
 
+Always "tell, don't ask", basically don't expose information from otherclasses in method calls. Instead of `customer.orders.find(order_id)` do `customer.findOrder(order_id)`. This way, customer does not have to care about how to find an order.
+
+Global data is the root of all evil when it comes to coupling. Wrapping global data in a singleton is cheating. Any mutable global (or external) reso
 
 
