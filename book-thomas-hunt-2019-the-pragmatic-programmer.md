@@ -92,7 +92,67 @@ Move all configurations to an external API.
 - Env. specific validation params.
 - Externally set params, e.g. tax rate.
 - Site specific formatting details.
-- Licence keys.
+- License keys.
 
 Temporal coupling is when some part of code have to happen before another. They are coupled by time. Make activity diagrams to visualize temporal coupling. Probably amazing to do for app startup sequence.
+
+Share state is bad / incorrect state. Use semaphores to protect a resource when multiple parts of your code can access it at the same time.
+
+Concurrency is hard to get right so unless you strictly need it, don't.
+
+Actors make concurrency easier. An actor is a piece of code with its own local and private state and a mailbox. When an actor gets mail, it does something and then goes back to sleep.
+
+Listen to your lizard brain (insticts). The are all your years worth of knowledge trying to tell you something.
+
+If coding feels like walking uphill in mud, go do something else for a whle, and come back to the problem. You're likely on the wrong path.
+
+Avoid coding by coincidence. Code deliberately, meaning don't make assumptions, don't guess why things work, don't code in the dark and document your assumptions.
+
+Consider the BigO notation for your algorithms. You don't have to go crazy, but know that simple loops are O(n) and loops in loops are O(n2) or more. Reduce n2 by divide and conquer or other techniques.
+
+Remember that we are terrible at optimizing code so make you you optimize only when needed.
+
+If you cannot refactor something quick and it takes a week, it's not a refactor. It should then be planned and estimated.
+
+Never refactor and add functionality at the same time.
+
+The biggest benefit of testing comes from how you think when having to write them. Argues that since this is true, you can forgo testing if you have done it long enough. What about refactoring then?
+
+Pitfalls of TDD: You get distracted by 100% test coverage, you end up with poor and redundant tests and you'll end up writing things from bottom up vs e2e, which is preferred.
+
+Property testing tests contracts and invariants:
+- Contracts: input x should generate output y.
+- Invariants: things that should always be true, even after state has been through your function, e.g. length of list should be the same after sorting.
+
+These tests then run on random sets of data. Hopefully they'll pass.
+
+When naming functions, try to give a name indicating why it does what it does. E.g. deductPercent states what is done, but applyDiscount is clearer.
+
+Don't break the clture of the language you are writing in, e.g. i, j,k might be common to use in loops, so do that.
+
+Noone knows exactly what they want. Your job as a developers is to figure out together with the client what exactly they want. Talk to the client. This is requirements gathering.
+
+Become the client. Work as a client would for a day or two to get a feel for what they want / need.
+
+Requirement documents are not for the clients to see. Instead use index cards for them or when interacting with them.
+
+Maintain a glossary with the client to ensure you're talking about the same thing.
+
+How to apply agility at everyday tasks?
+
+- Work out where you are
+- Make the smallest change possible towards where you want to be.
+- Evaluate where you ended up. Fix anything you broke. Go back to 1.
+
+---
+
+Don't adopt new tech or new methodologies just because it's the next cool thing or because some wildly successful company is doing it. Do what works for you. There's no "one size fits all".
+
+VCS should control build, test & deployment via commits or pushes. Sagging or prod should happen via tagging.
+
+Delight your customers or clients. Talk to them, figure out their problems, and solve them. You're not a coding monkey, you're a problem solver.
+
+Be proud of your work, proud enough to sign it publicly.
+
+---
 
