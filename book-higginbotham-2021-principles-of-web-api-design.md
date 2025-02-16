@@ -55,3 +55,70 @@ After finding digital capabilities, break them down into activities and activity
 
 Good way to identify all activities and steps is to do an EventStorming session. This helps uncover any missing domain events, as well as establish a common vocabulary, etc. In general aligns everybody. [[$Research]].
 
+To sumarize:
+- Job stories -> Activities -> Activity steps.
+
+---
+Find the boundary of your API and avoid the common antipatterns
+
+- Do not make an API that tries to do everything
+- Don't overload concepts. A "book" API is probably too broad. "catalog" API that concerns itself w/ books is prob better.
+- Don't maek helper APIs if it can be avoided.
+
+Boundaries are often found during an EventStorming sessions where "nouns" shift. E.g. when going from "cart" something to "order" something, it might indicate a new boundary and thus possibly a new API.
+
+---
+
+Before writing code, make an API model. This is like a wireframe, but for APIs
+
+When deciding which resource an operation should act upon, be careful not to leak implementation details. If resrouce name is the same as the dB record, it's a happy accident.
+
+Evaluate API wtih a sequence diagram.
+
+API model or profile breaks down each operation in the API, and forces you to think about it in more details before writing any code. Like a wireframe it includes
+
+- Operation name: the name of the operation in lowerCamelCase e.g. listBooks.
+- Description: more info about the operation
+- Participants: who's going to use the operation. This is often identified user groups such as customer, technician, etc.
+- Resources: what resources from the DB is required? In this case, books for sure, but prob also book author.
+- Emitted events: any even that is emitted by the operation. This can be used by the system to trigger some action, or simply for analytics. E.g. "Books Listed". They should always be past tense.
+- Operation Details" this is the technical details. What are request paramters? What is actually returned? Is it async? Is it safe?
+
+Categorize operations into safe, idempotent or unsafe
+
+- Safe: requests that do not alter state. Typically GET.
+- Idempotent: same request can be made multiple times, but same result is guaranteed. Typically PUT & DELETE.
+- Unsafe: makes changes to target resource, cannot be done multiple times w/ same result. Typically POST & PATCH.
+
+Hypermedia controls allow consumpers of an API to "react" to responses from the server. There are 4 main types:
+
+- Index: offers up a list of all available actions.
+- Navigation: pagination links.
+- Relationships: links to resources related to the one you are looking at,.
+- Context driven: informs client what actions are avilable.
+
+Context driven are interesting. E.g. an article can have a status, and some links, these can be rel: self, update and submit, indicating what actions can be performed.
+
+When designing APIs, avoid actions where the state of a resource is changed by the client. E.g. to enable a metering point, don't PATCH or PUT the metering point w/ enabled: true, instead call POST to meters/{id}/enable.
+
+Use GET/me instead of GET users{id} when you want to get your own user's information. This is called a singleton resource. Usually represented by a singular noun, e.g. users/{id}/config.
+
+"Fire-and-follow-up" is a REST pattern where client sends a request tthat takes a while. Receives a 202 w/ Location URI in return. The location is an endpoint to a job where GET will return job status. When job status is complete, client can show this to the user.
+
+---
+
+RPC is good when speed is important and coupling is fine (server and client will be tightly coupled). Basically speed is traded for coupling.
+
+In real time communication (async messaging), there are three main types of messages, request, response and event. The request and responses are linked, i.e. they can be sync or async.
+
+Message broker sits between publisher of a message and the consumer(s). This is great! Publisher does not have to know about rest of system, queuing can be handled by the broker, distribution is easy, etc.
+
+---
+
+Biggest benefit of a microservice approach is to reduce cognitive load on devs & reduce the need to coordinate as much. Only works if
+
+- DevOps is good, i.e. rapid onboarding due to most things being automated, well tested, easy to deploy, etc.
+- Proper team structure, not handoffs to silos. "If you own it, you manage it".
+- Remove centralized data-ownership.
+
+Async microservices are almost always better than sync ones, even though they may initially be more complex. Con start or stop services w/o changing others. Brokers handle messages, avoid message chainign, etc.
