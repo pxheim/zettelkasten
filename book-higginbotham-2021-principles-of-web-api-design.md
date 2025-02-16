@@ -42,3 +42,16 @@ ADDR (Align Define Design Refine) process is an API first process to help make A
 Since an API most likely impacts everyone from business to tech to the customer, designing an API should therefore also involve the "whole company", or at least a multitude of representatives.
 
 The first step in ADDR is to identify digital capabilities. This should be done through job stories, which highlight the jobs to be done. These are written as WHEN X, I WANT TO Y, SO I CAN Z.
+
+Job stories are not user stories. They do not have the user in focus, instead focus on the outcome. You _can_ add the the user in the want & can step, but focus should still be on the when.
+
+Keep stories focused. Additional details can be put under an additional details section of the story. This can be UI/UX details, or when implementation details leak into the story.
+
+After finding digital capabilities, break them down into activities and activity steps
+- Activity: Browse for books.
+	- Step: List books
+	- Step: Search for books
+	- Step: View book details.
+
+Good way to identify all activities and steps is to do an EventStorming session. This helps uncover any missing domain events, as well as establish a common vocabulary, etc. In general aligns everybody. [[$Research]].
+
