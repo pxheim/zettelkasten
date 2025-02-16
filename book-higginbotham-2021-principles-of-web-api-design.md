@@ -121,4 +121,54 @@ Biggest benefit of a microservice approach is to reduce cognitive load on devs &
 - Proper team structure, not handoffs to silos. "If you own it, you manage it".
 - Remove centralized data-ownership.
 
-Async microservices are almost always better than sync ones, even though they may initially be more complex. Con start or stop services w/o changing others. Brokers handle messages, avoid message chainign, etc.
+Async microservices are almost always better than sync ones, even though they may initially be more complex. Con start or stop services w/o changing others. Brokers handle messages, avoid message chaining, etc.
+
+Three main microservice architecture styles:
+
+- Direct service communication
+- API based orchestration
+- Cell based architecture
+
+Companies will often start with 1, and then move to 2 or 3 when complexity increases. 3 is often called Domain-Oriented Microservice Architecture, or DOMA for short.
+
+Microservices are dynamic and evolve over time. Splitting a service should be easy and should be done when service grows out of bounds. Focus on _purpose_, not the _size_.
+
+Use Microservice Design Canvas (MDC) to evaluate whether a microservice does too much, or is fine the way it is.
+
+Avoid splitting into one service per CRUD operation. Created too much coupling between the microservices.
+
+You can "think smaller" without moving the entire organization to microservices. There are a lot of good concepts from microservices but you don't need to implement all of then. Remember YAGNI.
+
+---
+
+When designing an API, forget frameworks, languages, formats, etc. for a while. Consider first the consumer of the API, then everything else.
+
+Always mock your APIs before they are finished. Helps uncover issues, better for CI/CD and can be used for tests later. Three types:
+
+- Static resource: Fake hardcoded data is returned for requests.
+- Prototype: full CRUD support, but made like a POC: Basically POC baskend for the API.
+- README: Just write out in a readme what the API does. E.g. 1 request, 2 response and 3 response body. It's basically does.
+
+---
+ Don't rely on the APP being the only thing that tests the API. The app might not test all edge cases as they are performing client side validations.
+
+Don't underestimate the amount of data sets needed in order to efficiently test APIs.
+
+---
+
+There are many different API description formats. Let's look at the most common ones.
+
+- OpenAPI Specification (OAS) or Swagger. Probably the most common. Known for "try it out" button.
+- API description blueprint. Uses markdown, so makes it easy to use and distribute.
+- RAML, YAML based format
+- JSON Schema: used to describe responses. Now supported by OAS
+- APIs json: basically a sitemap for your API that's machine readable.
+
+---
+
+APIs are forever, so plan accordingly.
+
+---
+
+Rate limiting an API is good for preventing traffic spikes, but also from devs that potentially messed up.
+

@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "book-higginbotham-2021-principles-of-web-api-design"
             }
+          },
+          {
+            "id": "69e6d64336648d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book-fournier-2017-the-managers-path.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "book-fournier-2017-the-managers-path"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-higginbotham-2021-principles-of-web-api-design.md",
+                "file": "book-fournier-2017-the-managers-path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for book-higginbotham-2021-principles-of-web-api-design"
+              "title": "Backlinks for book-fournier-2017-the-managers-path"
             }
           },
           {
@@ -170,10 +184,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6023fb69519a9c9d",
+  "active": "69e6d64336648d32",
   "lastOpenFiles": [
-    "book-humble-farley-2010-continuous-delivery.md",
     "book-higginbotham-2021-principles-of-web-api-design.md",
+    "book-fournier-2017-the-managers-path.md",
+    "book-humble-farley-2010-continuous-delivery.md",
     "book-thomas-hunt-2019-the-pragmatic-programmer.md",
     "$Research.md",
     "$Reference.md",
@@ -197,7 +212,6 @@
     "book-ahrens-2022-how-to-take-smart-notes.md",
     "blog-wilsenach-2021-ship-show-ask.md",
     "pull-requests-and-continuous-integration.md",
-    "book-allen-2022-getting-things-done.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
