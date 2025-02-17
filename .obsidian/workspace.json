@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
+                "file": "book-ousterhout-2018-a-philosophy-of-software-design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blog-morony-2023-getting-started-with-unit-testing-in-angular"
+              "title": "book-ousterhout-2018-a-philosophy-of-software-design"
             }
           }
         ],
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
+                "file": "book-ousterhout-2018-a-philosophy-of-software-design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for blog-morony-2023-getting-started-with-unit-testing-in-angular"
+              "title": "Backlinks for book-ousterhout-2018-a-philosophy-of-software-design"
             }
           },
           {
@@ -158,6 +158,7 @@
   },
   "active": "4521b31e99585f59",
   "lastOpenFiles": [
+    "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
     "blog-makszy-2023-how-to-train-your-designer.md",
     "book-ousterhout-2018-a-philosophy-of-software-design.md",
     "book-kim-humble-forsgren-2018-accelerate.md",
@@ -183,7 +184,6 @@
     "people-communicate-to-achieve-their-goals.md",
     "reverse-conway-maneuver.md",
     "brainstorming-is-terrible.md",
-    "book-vericherla-2018-enterprise-angular-monorepo-patterns.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
