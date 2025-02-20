@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-.md",
+                "file": "book-rubin-2012-essential-scrum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "book-"
+              "title": "book-rubin-2012-essential-scrum"
             }
           }
         ],
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-.md",
+                "file": "book-rubin-2012-essential-scrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for book-"
+              "title": "Backlinks for book-rubin-2012-essential-scrum"
             }
           },
           {
@@ -173,7 +173,7 @@
   "active": "61fd1fc86b40adc7",
   "lastOpenFiles": [
     "book-ousterhout-2018-a-philosophy-of-software-design.md",
-    "book-.md",
+    "book-rubin-2012-essential-scrum.md",
     "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
     "blog-makszy-2023-how-to-train-your-designer.md",
     "book-kim-humble-forsgren-2018-accelerate.md",
