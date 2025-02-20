@@ -119,7 +119,7 @@ Never plan more than you have to. A detailed long-term plan might misguide you f
 
 Don't deceive yourself into thinking that just because you planned 10 months ahead that you'll actually be done then. However, planning is often done to answer just this; when will I be done.
 
-Small iterative releases is like investing early. You make x$ every day. If you invest them every day, you'll make more money vs someone who invests all of their money at the end of the month. Compounding is real.
+**Small iterative releases is like investing early. You make x$ every day. If you invest them every day, you'll make more money vs someone who invests all of their money at the end of the month. Compounding is real.**
 
 ---
 
@@ -150,4 +150,50 @@ When release planning you have 3 main variables: date, scope and budget.
 
 Overly constraining date, scope & budget will come at the expense of quality, either technical or customer satisfaction.
 
-Aim for around 60-70% of MRFs to be required. The rest are nice to have
+Aim for around 60-70% of MRFs to be required. The rest are nice to haves that can be dropped or swapped for emergent features.
+
+It is usually possible to turn a fixed scope release into several smaller fixed date releases by really breaking down scope into MRFs.
+
+Burndown vs. burnup chart. The latter can show increased scope very well.
+
+---
+
+when planning a sprint, pick items either to match your capacity in story points, or hour estimate (ideal hours). The latter is good when it comes to diverse teams w/ low T factor. Ideal hours are:
+
+(days in a sprint - 2) * effective work hours per day
+
+The "-2" accounts for ceremonies and time lost grooming, etc. The latter is usually between 5-7.
+
+Good idea to break user story down into ideal hours when committing to verify story point estimate.
+
+Never start what you cannot finish. Limit WIP
+
+Avoid assigning tasks to people. Reduces team ownership of tasks. Assign in just in time fashion instead.
+
+---
+
+Make a plan for the sprint, but do not try to plan everything up front.
+
+Be careful starting too many things at once. Manage work in parallell, but be ware of multitasking. This is bad.
+
+Similar to release burnup/down, you can track sprint progress this way. Visualization is good.
+
+---
+
+PO must determine whether work meets DoD before demo or not. Ideally PO should verify work as it gets completed during the sprint. Don't wait until last day.
+
+I did x, I did y - NO
+We did x, we did y - YES!
+Don't demo individual things. It's a team effort.
+
+Avoid signing off during the demo. All work presented should be demoable already.
+
+---
+
+Sprint retrospectives don't have to be about scrum / agile values. For mature teams, it can be more valuable to focus on a technical aspect such as CI/CD, etc. Set focus before meeting to allow stakeholders to prep.
+
+Ensure everyone has a shared perception of how the sprint went, then gather insights. Useful to sort them into things to stop, things to continue and things to try.
+
+Create actions from insights that will be addressed in upcoming sprints.
+
+Can be useful to have an insight backlog.
