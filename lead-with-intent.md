@@ -1,1 +1,0 @@
-When you lead with intent, you tell people what you intent to do, i.e. the outcome you would like to achieve. The people will then figure out what the best course of action is to get to this goal. When working with experts, you're likely to get a better result if you do this vs. if you tell them what to do, as they most likely know better than you.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-fournier-2017-the-managers-path.md",
+                "file": "book-dalmijn-2023-driving-value-with-sprint-goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "book-fournier-2017-the-managers-path"
+              "title": "book-dalmijn-2023-driving-value-with-sprint-goals"
             }
           }
         ]
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-fournier-2017-the-managers-path.md",
+                "file": "book-dalmijn-2023-driving-value-with-sprint-goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for book-fournier-2017-the-managers-path"
+              "title": "Backlinks for book-dalmijn-2023-driving-value-with-sprint-goals"
             }
           },
           {
@@ -142,10 +142,12 @@
   },
   "active": "5ce4f70ff3db5afa",
   "lastOpenFiles": [
-    "career-development-practices.md",
+    "when-everything-is-important-nothing-is.md",
+    "book-dalmijn-2023-driving-value-with-sprint-goals.md",
     "book-fournier-2017-the-managers-path.md",
-    "technical-leadership.md",
-    "engineering-management-principles.md",
+    "setting-a-sprint-goal.md",
+    "lead-with-intent.md",
+    "make-humble-plans.md",
     "growth-responsibility.md",
     "skill-development-responsibility.md",
     "promotion-readiness.md",
@@ -157,17 +159,15 @@
     "one-on-one-fundamentals.md",
     "feedback-mechanisms.md",
     "delegation-approach.md",
+    "engineering-management-principles.md",
     "management-balance-principle.md",
+    "career-development-practices.md",
+    "technical-leadership.md",
     "$Hubs.md",
-    "setting-a-sprint-goal.md",
-    "book-dalmijn-2023-driving-value-with-sprint-goals.md",
-    "make-humble-plans.md",
     "book-allen-2022-getting-things-done.md",
     "conways-law.md",
     "create-checklists-for-new-processes.md",
     "confront-yourself-with-the-information-you-think-you-know.md",
-    "comments-indicate-potential-refactors.md",
-    "collaborative-programming.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
