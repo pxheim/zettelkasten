@@ -1,5 +1,74 @@
 [[$Bibliography]]
 
+Kim, G., Humble, J., & Forsgren, N. (2018). _Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations_. IT Revolution Press.
+
+# Overview Notes
+
+[[software-delivery-performance]]
+
+[[organizational-culture]]
+
+[[continuous-delivery-principles]]
+
+[[leadership-and-management]]
+
+[[capability-vs-maturity]]
+
+[[team-performance]]
+
+[[work-improvement-practices]]
+
+[[change-management]]
+
+# Atomic Notes
+
+[[proven-performance-metrics]]
+
+[[performance-misconceptions]]
+
+[[westrum-culture-types]]
+
+[[cd-core-principles]]
+
+[[cd-technical-requirements]]
+
+[[transformational-leadership]]
+
+[[burnout-prevention]]
+
+[[architectural-impact]]
+
+[[capability-based-improvement]]
+
+[[team-diversity-inclusion]]
+
+[[employee-loyalty]]
+
+[[experimental-time]]
+
+[[technical-debt-management]]
+
+[[knowledge-sharing-practices]]
+
+[[wip-management]]
+
+[[requirement-autonomy]]
+
+[[performance-stability-relationship]]
+
+[[culture-improvement-strategies]]
+
+[[trunk-based-development]]
+
+[[management-responsibilities]]
+
+[[team-autonomy]]
+
+[[change-approval-process]]
+
+
+# Literature Notes
+
 Focus on capabilities instead of maturity models. Maturity models are often set up in levels which you have to meed. Does not take into account ever-changing software. You can focus on the "right" capabilities for now. Each capability is tied to a specific outcome. Compare w/ CD book w/ maturity model. Break into capabilities. The book concludes w/ 24 capabilities that you should strive towards.
 
 ---
@@ -113,15 +182,13 @@ Fixing burnout, in order of importance:
 
 ---
 
-Measure eNPS (employee net promoter score) to find loyal employees. Loyal employees perform better than not.
-
-People who strongly identify w/ company they work for put out better work.
+Measure eNPS (employee net promoter score) to find loyal employees. Loyal employees perform better than not. People who strongly identify w/ company they work for put out better work.
 
 Diverse teams perform better, but only if they are also inclusive. Diversity includes both gender & underrepresented minorities.
 
 ---
 
-Teams w/ strong transformational leaders perform well, but a transformational leader along does not generate amazing performance (you cannot polish a turd). They enable the teams to user lean and CD processes, but cannot do it for them.
+Teams w/ strong transformational leaders perform well, but a transformational leader alone does not generate amazing performance (you cannot polish a turd). They enable the teams to user lean and CD processes, but cannot do it for them.
 
 Five characteristics of transformational leaders:
 
@@ -131,9 +198,7 @@ Five characteristics of transformational leaders:
 - Supportive leadership: care and consideration for peeps.
 - Personal recognition: praise and acknowledgement.
 
-Managers have responsibility for people. Best case is when managers are also leaders.
-
-Managers should make a training budget available and let devs know about it and let _them_ pick what they want to learn.
+Managers have responsibility for people. Best case is when managers are also leaders. Managers should make a training budget available and let devs know about it and let _them_ pick what they want to learn.
 
 Set up yak-days to work on tech debt, or hack-days to work on a specific feature.
 
@@ -146,8 +211,7 @@ Things leaders, managers or just normal engaged devs can do to improve culture:
 - Reward work that facilitates collaboration.
 - Make it safe to fail.
 - Set aside ~20% of time to experiment.
-- Share info on "lighting talks" or luch & learn.
+- Share info on "lighting talks" or lunch & learn.
 
-Set up monitoring!
+Set up monitoring! You need to measure to improve.
 
-Review ING chapters when relevant.

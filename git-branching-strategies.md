@@ -3,3 +3,4 @@ There are three main git branching strategies that are prevalent in software dev
 1. Git Flow [[git-flow]] - An outdated branching method.
 2. GitHub Flow [[git-hub-flow]] - Single main branch + feature branches.
 3. GitLab Flow [[git-lab-flow]]  - Multiple releases at once.
+4. Trunk based development [[trunk-based-development]].

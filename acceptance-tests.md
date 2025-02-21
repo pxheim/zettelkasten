@@ -10,4 +10,3 @@ Acceptance tests should be written in the form.
 [[book-martin-2021-clean-craftsmanship]] advocates that acceptance tests should be written by QA (or business analysts) and then completed by the developers. The crucial part of this is that the tests will be written by business people and therefore be understood by them.
 
 Avoid testing the UI wherever possible. It's slow and prone to error if the UI changes. If you need to test the user interface, all replies to it should be stubbed.
-
