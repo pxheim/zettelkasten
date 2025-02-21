@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "943469d470b3901c",
+        "id": "b89c2f92f055edcf",
         "type": "tabs",
         "children": [
           {
-            "id": "e2dc9ca9442f1290",
+            "id": "5ce4f70ff3db5afa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "book-fournier-2017-the-managers-path"
-            }
-          },
-          {
-            "id": "3d9ed0e421263d45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "setting-a-sprint-goal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "setting-a-sprint-goal"
             }
           }
         ]
@@ -141,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,34 +140,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e2dc9ca9442f1290",
+  "active": "5ce4f70ff3db5afa",
   "lastOpenFiles": [
+    "career-development-practices.md",
+    "book-fournier-2017-the-managers-path.md",
+    "technical-leadership.md",
+    "engineering-management-principles.md",
+    "growth-responsibility.md",
+    "skill-development-responsibility.md",
+    "promotion-readiness.md",
+    "mentoring-benefits.md",
+    "team-priority-principle.md",
+    "coding-balance.md",
+    "technical-decision-making.md",
+    "tech-lead-role-definition.md",
+    "one-on-one-fundamentals.md",
+    "feedback-mechanisms.md",
+    "delegation-approach.md",
+    "management-balance-principle.md",
+    "$Hubs.md",
+    "setting-a-sprint-goal.md",
     "book-dalmijn-2023-driving-value-with-sprint-goals.md",
     "make-humble-plans.md",
-    "book-fournier-2017-the-managers-path.md",
     "book-allen-2022-getting-things-done.md",
     "conways-law.md",
     "create-checklists-for-new-processes.md",
     "confront-yourself-with-the-information-you-think-you-know.md",
     "comments-indicate-potential-refactors.md",
     "collaborative-programming.md",
-    "change-the-environment-to-preserve-willpower.md",
-    "change-workflow-when-adapting-new-tool.md",
-    "ci-requires-a-change-of-mindset.md",
-    "setting-a-sprint-goal.md",
-    "lead-with-intent.md",
-    "book-fowler-2018-refactoring.md",
-    "when-everything-is-important-nothing-is.md",
-    "cynefin-framework.md",
-    "book-ahrens-2022-how-to-take-smart-notes.md",
-    "pull-requests-and-continuous-integration-ship-show-ask.md",
-    "blog-wilsenach-2021-ship-show-ask.md",
-    "blog-makszy-2023-how-to-train-your-designer.md",
-    "book-kim-humble-forsgren-2018-accelerate.md",
-    "book-ousterhout-2018-a-philosophy-of-software-design.md",
-    "book-rubin-2012-essential-scrum.md",
-    "gtd-does-not-work-for-academic-writing.md",
-    "blog-morony-2023-getting-started-with-unit-testing-in-angular.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
