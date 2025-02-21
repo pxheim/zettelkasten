@@ -1,5 +1,7 @@
 [[$Bibliography]]
 
+
+
 Api design communicates in 3 distinct ways:
 
 - Across network boundaries through which protocol is selected, e.g. HTTP, MQTT or AMPQ, etc.

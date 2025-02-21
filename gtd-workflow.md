@@ -1,4 +1,4 @@
-[[$Hubs]]
+[[$Overview]]
 
 The Getting Things Done (GTD) workflow can be broken down into 5 steps:
 

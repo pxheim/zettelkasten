@@ -6,173 +6,43 @@ Dalmijn, M. (2023). _Driving Value with Sprint Goals: Humble Plans: Exceptional 
 
 [[agile-planning-friction]]
 
-[[$Overview]]
-
-Understanding the fundamental gaps and friction in agile planning, and how traditional responses often worsen these issues rather than resolve them.
-
-Links:
-- [[friction-knowledge-gap]]
-- [[friction-alignment-gap]]
-- [[friction-effects-gap]]
-- [[complex-domain-planning]]
-
 # Atomic Notes
-
----
 
 [[friction-knowledge-gap]]
 
-The knowledge gap represents the difference between what we know and what we'd like to know. The common response of increasing planning when lacking information is counterproductive, as effective planning requires knowledge. Instead, act on current knowledge while explicitly working to discover unknowns.
-
-Links:
-- [[complex-domain-planning]]
-- [[humble-planning-principle]]
-
----
-
 [[friction-alignment-gap]]
-
-The alignment gap occurs between desired and actual behaviors. Responding with more detailed instructions often increases misalignment rather than reducing it. This connects to the principle of leading with intent rather than specific directives.
-
-Links:
-- [[intent-based-leadership]]
-- [[friction-effects-gap]]
-
----
 
 [[friction-effects-gap]]
 
-The difference between expected and actual outcomes of our actions. Tightening control and reducing autonomy typically widens this gap rather than closing it, especially when working with experts.
-
-Links:
-- [[intent-based-leadership]]
-- [[humble-planning-principle]]
-
----
-
 [[complex-domain-planning]]
-
-In the Cynefin framework context, mistaking complex domains for merely complicated ones leads to overconfident planning based on assumed knowledge. The solution is to make humble, small plans that help discover the true nature of the complex domain.
-
-Links:
-- [[humble-planning-principle]]
-- [[friction-knowledge-gap]]
-
----
 
 [[intent-based-leadership]]
 
-Leading with intent involves communicating desired outcomes rather than prescribing specific actions. This approach leverages expert knowledge and allows teams to determine the best path to achieve goals.
-
-Links:
-- [[sprint-goal-principles]]
-- [[friction-alignment-gap]]
-
----
-
 [[goal-hierarchy]]
-
-A clear hierarchy of goals drives agile planning: Product goals guide the creation of sprint goals, which in turn guide daily work. This separation of intent from specific plans allows for adaptation while maintaining focus on desired outcomes.
-
-Links:
-- [[sprint-goal-principles]]
-- [[agile-goal-importance]]
-
----
 
 [[agile-goal-importance]]
 
-Without clear goals, teams default to output-focus rather than outcome-focus. This leads to treating all work as equally important (effectively making nothing important) and often results in accumulated technical debt.
-
-Links:
-- [[sprint-goal-principles]]
-- [[value-over-features]]
-
----
-
 [[sprint-goal-principles]]
-
-Effective sprint goals follow the FOCUS framework:
-- Fun (memorable)
-- Outcome-oriented
-- Collaborative
-- Ultimate (includes why)
-- Singular (avoid competing priorities)
-
-Links:
-- [[agile-goal-importance]]
-- [[agile-planning-approaches]]
-
----
 
 [[agile-planning-approaches]]
 
-Two contrasting approaches to sprint planning:
-- Anaconda-scrum: Comprehensive upfront planning, rigid sprint scope
-- Hummingbird-scrum: Flexible planning focused on sprint goal, adaptable scope
-
-Links:
-- [[sprint-goal-principles]]
-- [[capacity-planning-flexibility]]
-
----
-
 [[capacity-planning-flexibility]]
-
-Avoid planning for 100% capacity, as this eliminates flexibility. Focus on meeting the sprint goal first, then take on additional work if possible. Task carryover is acceptable if the goal is met.
-
-Links:
-- [[agile-planning-approaches]]
-- [[value-over-features]]
-
----
 
 [[value-over-features]]
 
-Value cannot be reliably predicted before feature implementation. Feature factories risk producing output without value. Focus on measuring and validating actual customer value rather than feature quantity.
-
-Links:
-- [[north-star-metrics]]
-- [[product-vision-guidance]]
-
----
-
 [[north-star-metrics]]
-
-A framework for measuring customer value through:
-1. Identifying a primary metric driving customer and business value
-2. Determining input metrics that influence the north star
-3. Focusing on features that positively impact input metrics
-4. Regular validation of the entire metric chain
-
-Links:
-- [[value-over-features]]
-- [[product-vision-guidance]]
-
----
 
 [[product-vision-guidance]]
 
-A clear product vision provides direction and enables confident decision-making about feature requests. It serves as a filter for maintaining focus on valuable work.
-
-Links:
-- [[value-over-features]]
-- [[north-star-metrics]]
-
----
-
 [[agile-pragmatism]]
 
-Practical guidelines for maintaining agility:
-- Avoid spikes when unknowns can be discovered during feature development
-- Treat the backlog like fresh milk, not a wish list
-- Don't over-formalize interruption handling
-- Balance Definition of Ready and burndown precision with flexibility
-- Embrace uncertainty as natural
+[[humble-planning-principle]]
 
-Links:
-- [[complex-domain-planning]]
-- [[humble-planning-principle]]
+[[sprint-ceremonies-purpose]]
+
+[[flow-over-multitasking]]
+
+[[sprint-goal-ownership]]
 
 # Literature Notes
 

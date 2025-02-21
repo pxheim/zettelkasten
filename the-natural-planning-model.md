@@ -1,4 +1,4 @@
-[[$Hubs]]
+[[$Overview]]
 
 The natural planning model is the way our brains naturally want to plan things, and it's the best way to approach GTD. It consist of going through the steps:
 
