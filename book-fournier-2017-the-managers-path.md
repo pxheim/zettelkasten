@@ -1,5 +1,9 @@
 [[$Bibliography]]
 
+Fournier, C. (2017). _The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change_. O'Reilly.
+
+---
+
 Managing has two extremes, micromanaging and "benign neglect", neither of which is where you want to be.
 
 1:1 are not your manager's responsibility to make sure they go well. They are a venue for you to share and be personal w/ your manager, but also where you can get feedback. Good managers are quick to give feedback.

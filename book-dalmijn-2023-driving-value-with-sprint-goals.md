@@ -1,3 +1,5 @@
+Dalmijn, M. (2023). _Driving Value with Sprint Goals: Humble Plans: Exceptional Results_. Addison-Wesley.
+
 [[$Bibliography]]
 
 Friction is what's preventing you from achieving your plan. There are three gaps that are amplified by friction:
@@ -29,13 +31,9 @@ Setting a goal separates intent from the plan. When we learn more after starting
 
 ---
 
-
+[[setting-a-sprint-goal]]
 
 [[when-everything-is-important-nothing-is]]
-
-If you don't have a sprint goal, the focus of the sprint will be on the **output**, not the **outcome**.
-
-
 
 No goal ==> tech debt. If time, cost and scope are fixed and the team has to cut something, quality will suffer. If we can reduce the scope and still meet the goa, we're good.
 
