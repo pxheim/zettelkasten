@@ -82,3 +82,56 @@ You have about 10 productive weeks per quarter. 20% should go towards tech-debt.
 Off the cuff estimates should be doubled, but inform that you need more time to be certain.
 
 Don't make your teammates estimate things all the time, only when needed.
+
+
+---
+
+# Overview Note: technical-leadership-fundamentals
+Key principles and responsibilities in technical leadership roles, focusing on the transition from individual contributor to leader, delegation practices, and team management approaches.
+Links: [[tech-lead-responsibilities]], [[delegation-principles]], [[planning-importance]], [[leadership-mindset]]
+
+# Overview Note: management-practices
+Core practices for effective engineering management, including one-on-ones, feedback delivery, and team development strategies.
+Links: [[one-on-one-principles]], [[feedback-delivery]], [[new-hire-onboarding]], [[measurement-culture]]
+
+# Atomic Notes
+
+Title: tech-lead-responsibilities
+Content: A Tech Lead's primary focus should be team representation and technical leadership rather than being the best developer. The role typically involves 30% coding time, with the remainder split between systems architecture, business analysis, and project planning. The key responsibilities include understanding architecture deeply, prioritizing team needs over personal goals, and leading (not dictating) technical decisions through team collaboration.
+Links: [[technical-leadership-fundamentals]], [[planning-importance]]
+
+Title: leadership-mindset
+Content: When promoted to a technical leadership position, adopt a "junior mindset" - approaching the new role as a learner despite technical expertise. This mindset helps navigate the transition from individual contributor to leader and maintains humility while developing new skills.
+Links: [[technical-leadership-fundamentals]], [[management-growth]]
+
+Title: delegation-principles
+Content: Effective delegation requires ongoing engagement rather than complete handoff (abdication). Good managers maintain involvement through follow-up while avoiding micromanagement. Having clear standards in place helps ensure quality work without excessive oversight. Micromanagement becomes necessary only when regular status updates are consistently missing.
+Links: [[management-practices]], [[management-balance]]
+
+Title: management-balance
+Content: Effective management requires finding the right balance between two extremes: micromanagement and "benign neglect". Neither extreme is desirable, as both can harm team productivity and growth. The goal is to provide appropriate oversight while maintaining team autonomy.
+Links: [[delegation-principles]], [[management-practices]]
+
+Title: one-on-one-principles
+Content: One-on-one meetings serve as a venue for personal sharing, feedback, and progress tracking. While various styles exist (casual catch-ups, progress reports, friendly chats, todo-list reviews), quarterly progress reviews are essential. The effectiveness of these meetings is primarily the direct report's responsibility, not the manager's.
+Links: [[management-practices]], [[feedback-delivery]]
+
+Title: feedback-delivery
+Content: Effective feedback should be timely and not restricted to scheduled one-on-ones. Good managers provide quick feedback when needed. This immediate approach helps prevent surprises, which violates a fundamental rule of management.
+Links: [[management-practices]], [[one-on-one-principles]]
+
+Title: measurement-culture
+Content: Creating a data-driven culture is essential for continuous improvement. Both quantitative metrics and qualitative feedback (from retrospectives) constitute valuable data points. The principle "what you measure, you improve" applies to both technical and process improvements.
+Links: [[management-practices]], [[planning-importance]]
+
+Title: planning-importance
+Content: Project planning is crucial for technical leaders and requires self-discipline to resist diving directly into code. Teams typically have 10 productive weeks per quarter, with 20% allocated to technical debt. Quick estimates should be doubled, and estimation should be required only when necessary.
+Links: [[technical-leadership-fundamentals]], [[measurement-culture]]
+
+Title: new-hire-onboarding
+Content: Successful onboarding involves creating a 30/60/90 day plan, maintaining clear documentation, establishing expectations and leadership style, and conducting frequent initial one-on-ones. This structured approach helps identify potential issues early and sets new team members up for success.
+Links: [[management-practices]], [[one-on-one-principles]]
+
+Title: management-growth
+Content: To avoid the Peter Principle (promotion to incompetence), individuals should demonstrate capabilities at the next level before being promoted. Mentoring provides a low-risk opportunity to develop management skills like listening, project management, and communication.
+Links: [[technical-leadership-fundamentals]], [[leadership-mindset]]
