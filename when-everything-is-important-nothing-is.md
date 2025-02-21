@@ -1,0 +1,1 @@
+W/o a goal, everything becomes equally important, but then, as they saying goes, nothing is important.

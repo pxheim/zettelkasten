@@ -4,7 +4,7 @@ Friction is what's preventing you from achieving your plan. There are three gaps
 
 - Knowledge gap: difference between what we know and what we'd like to know.
 - Alignment gap: difference between what we'd like people to do and what they actually do.
-- Effects gap: difference between what we expect our actions to achieve vs. what they actually acieve.
+- Effects gap: difference between what we expect our actions to achieve vs. what they actually achieve.
 
 To resolve the gaps, we often do the opposite of what would solve it:
 
@@ -15,11 +15,11 @@ Start with what you do know and figure out what you don't know.
 
 ---
 
-Working in the complex domain, more is unknown vs what is known. In the complicated domain, more is known, thus expercs can plan for that needs to be done. Dangerous to think you are in the complicated domain when you are not, in which case you make plans that only act as noise. Make humble (small) plans instead & discover.
+[[make-humble-plans]]
 
 ---
 
-Don't tell people what to do, tell people what you intend to do, then let them find the best way to do it. Lead with intent.
+[[lead-with-intent]]
 
 ---
 
@@ -29,9 +29,13 @@ Setting a goal separates intent from the plan. When we learn more after starting
 
 ---
 
+
+
+[[when-everything-is-important-nothing-is]]
+
 If you don't have a sprint goal, the focus of the sprint will be on the **output**, not the **outcome**.
 
-W/o a goal, everything becomes equally important, but then, as they saying goas, nothing is important.
+
 
 No goal ==> tech debt. If time, cost and scope are fixed and the team has to cut something, quality will suffer. If we can reduce the scope and still meet the goa, we're good.
 
