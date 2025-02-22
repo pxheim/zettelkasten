@@ -66,20 +66,6 @@ APIs should be categorized into safe, idempotent or unsafe.
 - Idempotent: same request can be made many times and the same result can be guaranteed, typically PUT and DELETE requests. You can PUT a book to update its information (alter the state), but regardless of how many times you PUT with the same information, you'll always get the same result.
 - Unsafe: requests that make changes to the target resources, and cannot be done multiple times with the same result, typically POST and PATCH. If you POST a new book multiple times, you're going to alter the state by creating a new book, and if you POST many times, you'll keep creating new books.
 
-
-
-
-
-
-
-
-
-
-
-
-Evaluate API with a sequence diagram.
-
-
 Hypermedia Controls (previously HATEOAS), allow consumers of the API to interact with responses from the server through links to other actions. There are 4 main types:
 - Index: lists additional available actions.
 - Navigation: pagination links.
@@ -119,11 +105,14 @@ A useful REST pattern is the one called "fire-and-follow-up", which uses the Hyp
 
 ---
 
-RPC is good when speed is important and coupling is fine (server and client will be tightly coupled). Basically speed is traded for coupling.
+RPC is a good protocol option when speed is important. However, be aware that through the nature of RPC, the client and the server will be tightly coupled. Basically you trade speed for coupling.
 
-In real time communication (async messaging), there are three main types of messages, request, response and event. The request and responses are linked, i.e. they can be sync or async.
+When dealing with real time communication, there are three main types of messages that need to be implemented:
+- Request: a request for an action or a resource.
+- Response: a response coupled to a request.
+- Event: just an event that was triggered in the system. Not coupled to a request.
 
-Message broker sits between publisher of a message and the consumer(s). This is great! Publisher does not have to know about rest of system, queuing can be handled by the broker, distribution is easy, etc.
+Message broker is a great pattern for avoiding coupling. It sits between the publisher of a message and the consumer(s). This way, the publisher does not have to know about the rest of the system, and the consumer does not have to care about where the message is actually coming from. Queueing, distribution, etc is all handled by the broker.
 
 ---
 
@@ -133,7 +122,7 @@ Biggest benefit of a microservice approach is to reduce cognitive load on devs &
 - Proper team structure, not handoffs to silos. "If you own it, you manage it".
 - Remove centralized data-ownership.
 
-Async microservices are almost always better than sync ones, even though they may initially be more complex. Con start or stop services w/o changing others. Brokers handle messages, avoid message chaining, etc.
+Async microservices are almost always better than sync ones, even though they may initially be more complex. Can start or stop services w/o changing others. Brokers handle messages, avoid message chaining, etc.
 
 Three main microservice architecture styles:
 
