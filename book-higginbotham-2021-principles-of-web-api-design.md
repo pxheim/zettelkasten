@@ -61,6 +61,17 @@ Before writing any code, make an API model. It's like a wireframe for APIs which
 - Emitted events: this lists out any event that emitted by the operation that can be used internally in the system. E.g. listBooks will likely emit an event "Books Listed".
 - Operation details: this is the technical part of the API, what request parameters are required / options, what is actually returned, is it safe*, etc.
 
+APIs should be categorized into safe, idempotent or unsafe.
+- Safe: state is not altered, typically a GET request. You can get a list of books many times and no state will ever be changed and you'll always get the same result.
+- Idempotent: same request can be made many times and the same result can be guaranteed, typically PUT and DELETE requests. You can PUT a book to update its information (alter the state), but regardless of how many times you PUT with the same information, you'll always get the same result.
+- Unsafe: requests that make changes to the target resources, and cannot be done multiple times with the same result, typically POST and PATCH. If you POST a new book multiple times, you're going to alter the state by creating a new book, and if you POST many times, you'll keep creating new books.
+
+
+
+
+
+
+
 
 
 
@@ -69,29 +80,42 @@ Before writing any code, make an API model. It's like a wireframe for APIs which
 Evaluate API with a sequence diagram.
 
 
-
-
-
-Categorize operations into safe, idempotent or unsafe
-
-- Safe: requests that do not alter state. Typically GET.
-- Idempotent: same request can be made multiple times, but same result is guaranteed. Typically PUT & DELETE.
-- Unsafe: makes changes to target resource, cannot be done multiple times w/ same result. Typically POST & PATCH.
-
-Hypermedia controls allow consumpers of an API to "react" to responses from the server. There are 4 main types:
-
-- Index: offers up a list of all available actions.
+Hypermedia Controls (previously HATEOAS), allow consumers of the API to interact with responses from the server through links to other actions. There are 4 main types:
+- Index: lists additional available actions.
 - Navigation: pagination links.
-- Relationships: links to resources related to the one you are looking at,.
-- Context driven: informs client what actions are avilable.
+- Relationships: links to other resources related to the one you are looking at.
+- Context driven: Actions available on the resource for the given context.
 
-Context driven are interesting. E.g. an article can have a status, and some links, these can be rel: self, update and submit, indicating what actions can be performed.
+Context driven is interesting. E.g. an article can have a status indicating whether it's a draft or a published article. Based on that an API that returns this article can have context actions to either update, publish or remove.
 
-When designing APIs, avoid actions where the state of a resource is changed by the client. E.g. to enable a metering point, don't PATCH or PUT the metering point w/ enabled: true, instead call POST to meters/{id}/enable.
+Example:
 
-Use GET/me instead of GET users{id} when you want to get your own user's information. This is called a singleton resource. Usually represented by a singular noun, e.g. users/{id}/config.
+```
+{
+	[...]
+	resource details
+	[...]
+	"_links": {
+		"self": {
+			"href": "articles/12345"
+		},
+		"update": {
+			"href": "articles/12345/update",
+			"method": "POST"
+		}
+		"delete": {
+			"href": "articles/12345/delete"
+			"method": "POST"
+		}
+	}
+}
+```
 
-"Fire-and-follow-up" is a REST pattern where client sends a request tthat takes a while. Receives a 202 w/ Location URI in return. The location is an endpoint to a job where GET will return job status. When job status is complete, client can show this to the user.
+When designing APIs, avoid actions where the state of a resources is changed by the parameters sent to a PUT request, e.g. to enable a metering point, don't PUT to a metering point resource w/ enabled: true. Instead make a PUT call to meters/{id}/enable.
+
+Create singleton resources for ones that are accessed often and that can improve DX. Most common example would be to make a singleton resource for `users/me` to list the currently logged in user instead of having to write `users/12345/config`. 
+
+A useful REST pattern is the one called "fire-and-follow-up", which uses the Hypermedia controls in a smart way. When the client requests something that can take a while, it will make a request for this and get a 202 response w/ a location. This location is an endpoint the client can GET in order to get information about the status of the request. Until the request is completed, the status will be something like "processing". Once completed, however, the client can show the actual result to the user.
 
 ---
 
