@@ -1,22 +1,54 @@
 [[$Bibliography]]
 
+---
 
+[[api-communicates-across-three-boundaries]]
 
-Api design communicates in 3 distinct ways:
+APIs maintain three distinct communication channels: internal system-to-system communication through network protocols (HTTP, MQTT, AMQP), internal developer communication through documentation and experience, and external communication with API consumers.
 
-- Across network boundaries through which protocol is selected, e.g. HTTP, MQTT or AMPQ, etc.
-- Internally to developers through documentation and DX.
-- Externally to the users.
+Links:
+- [[api-design-follows-software-principles]]
 
-Most concepts of software design such as modularization, encapsulation, loose coupling and high cohesion also apply to API design.
+---
 
-All implementation details of an API is hidden behind the methods that are exposed. Have no idea how things work, only that they do.
+[[api-design-follows-software-principles]]
+
+Core software engineering principles like modularization, encapsulation, loose coupling, and high cohesion apply directly to API design. Similar API functionalities should be grouped together to maintain strong cohesion.
+
+Links:
+- [[api-hides-implementation-details]]
+- [[api-resource-model-separation]]
+
+---
+
+[[api-hides-implementation-details]]
+
+An API must completely encapsulate its implementation details behind exposed methods. Implementation details should never leak through the API interface, maintaining proper abstraction.
+
+Links:
+- [[api-resource-model-separation]]
+
+---
+
+[[api-resource-model-separation]]
+
+Resources exposed by an API must be distinct from internal data models and domain objects. Data models optimize for queries, resources optimize for consumers, and objects optimize for code usage. These three concepts should remain decoupled.
+
+Links:
+- [[api-hides-implementation-details]]
+
+There are three main ways APIs will communicate their information
+- Internally between programs through network boundaries such as HTTP, MQTT, AMPQ, etc.
+- Internally to developers through documentation and developer experience.
+- Externally to users of the API.
+
+Most concepts that apply to writing good software will also apply to making good APIs, e.g. modularization, encapsulation, loose coupling and high cohesion.
+
+All implementation details of an API is hidden behind the methods that are exposed, and it should stay that way. An API should never leak implementation details.
 
 Similar APIs should be grouped to ensure high modularization and cohesion.
 
-Data models are not the same as resources. Models are made to be optimized from a query perspective whereas the resources are optimized for the consumer. Exposing the data model as an API resource leads to coupling of the two. Don't do this.
-
-Resources are not object or domain models. Objects cano use a resource, but should not be tightly coupled.
+Data models are not the same as resources. Models are made to be optimized from a query perspective whereas the resources are optimized for the consumer. Exposing the data model as an API resource leads to coupling of the two. Don't do this. Resources are not object or domain models. Objects cannot use a resource, but should not be tightly coupled.
 
 DB has data model, API serves a resource and code uses an object. Do not link these.
 

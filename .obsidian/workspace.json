@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-ousterhout-2018-a-philosophy-of-software-design.md",
+                "file": "book-higginbotham-2021-principles-of-web-api-design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "book-ousterhout-2018-a-philosophy-of-software-design"
-            }
-          },
-          {
-            "id": "b3827f5d11ba91d0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "book-higginbotham-2021-principles-of-web-api-design"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 253.5
   },
   "right": {
     "id": "2fcfa59adc960966",
@@ -97,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-ousterhout-2018-a-philosophy-of-software-design.md",
+                "file": "book-higginbotham-2021-principles-of-web-api-design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for book-ousterhout-2018-a-philosophy-of-software-design"
+              "title": "Backlinks for book-higginbotham-2021-principles-of-web-api-design"
             }
           },
           {
@@ -140,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 208.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,34 +141,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b3827f5d11ba91d0",
+  "active": "5ce4f70ff3db5afa",
   "lastOpenFiles": [
+    "book-fowler-2018-refactoring.md",
+    "book-fournier-2017-the-managers-path.md",
+    "blog-wilsenach-2021-ship-show-ask.md",
+    "book-ahrens-2022-how-to-take-smart-notes.md",
+    "book-allen-2022-getting-things-done.md",
+    "book-dalmijn-2023-driving-value-with-sprint-goals.md",
+    "book-higginbotham-2021-principles-of-web-api-design.md",
+    "book-kim-behr-spafford-2013-the-phoenix-project.md",
+    "book-humble-farley-2010-continuous-delivery.md",
+    "ci-requires-a-change-of-mindset.md",
+    "book-ousterhout-2018-a-philosophy-of-software-design.md",
     "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
     "book-martin-2019-clean-agile.md",
-    "book-dalmijn-2023-driving-value-with-sprint-goals.md",
-    "book-ousterhout-2018-a-philosophy-of-software-design.md",
     "friction-effects-gap.md",
     "friction-alignment-gap.md",
     "friction-knowledge-gap.md",
     "book-martin-2021-clean-craftsmanship.md",
     "book-kondo-2014-the-life-changing-magic-of-tidying.md",
     "book-kim-humble-forsgren-2018-accelerate.md",
-    "book-kim-behr-spafford-2013-the-phoenix-project.md",
-    "book-humble-farley-2010-continuous-delivery.md",
-    "book-higginbotham-2021-principles-of-web-api-design.md",
-    "book-fowler-2018-refactoring.md",
-    "book-fournier-2017-the-managers-path.md",
-    "book-allen-2022-getting-things-done.md",
-    "book-ahrens-2022-how-to-take-smart-notes.md",
     "blog-morony-2023-testing-smart-components-services-in-angular.md",
-    "blog-wilsenach-2021-ship-show-ask.md",
     "artificial-delays-in-deployment-of-software.md",
     "architectural-impact.md",
     "always-ask-what-is-the-next-action.md",
     "agile-provides-data-to-make-the-right-decision.md",
     "agile-pragmatism.md",
     "agile-planning-friction.md",
-    "agile-planning-approaches.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
