@@ -1,4 +1,5 @@
 [[$Bibliography]]
+# Literature Notes
 
 Premise: software has almost no limitation outside of complexity growing. Developers should always aim to reduce complexity. Two types: code and architecture.
 
