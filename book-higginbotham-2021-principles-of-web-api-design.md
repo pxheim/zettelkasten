@@ -1,42 +1,5 @@
 [[$Bibliography]]
 
----
-
-[[api-communicates-across-three-boundaries]]
-
-APIs maintain three distinct communication channels: internal system-to-system communication through network protocols (HTTP, MQTT, AMQP), internal developer communication through documentation and experience, and external communication with API consumers.
-
-Links:
-- [[api-design-follows-software-principles]]
-
----
-
-[[api-design-follows-software-principles]]
-
-Core software engineering principles like modularization, encapsulation, loose coupling, and high cohesion apply directly to API design. Similar API functionalities should be grouped together to maintain strong cohesion.
-
-Links:
-- [[api-hides-implementation-details]]
-- [[api-resource-model-separation]]
-
----
-
-[[api-hides-implementation-details]]
-
-An API must completely encapsulate its implementation details behind exposed methods. Implementation details should never leak through the API interface, maintaining proper abstraction.
-
-Links:
-- [[api-resource-model-separation]]
-
----
-
-[[api-resource-model-separation]]
-
-Resources exposed by an API must be distinct from internal data models and domain objects. Data models optimize for queries, resources optimize for consumers, and objects optimize for code usage. These three concepts should remain decoupled.
-
-Links:
-- [[api-hides-implementation-details]]
-
 There are three main ways APIs will communicate their information
 - Internally between programs through network boundaries such as HTTP, MQTT, AMPQ, etc.
 - Internally to developers through documentation and developer experience.
@@ -44,7 +7,7 @@ There are three main ways APIs will communicate their information
 
 Most concepts that apply to writing good software will also apply to making good APIs, e.g. modularization, encapsulation, loose coupling and high cohesion.
 
-All implementation details of an API is hidden behind the methods that are exposed, and it should stay that way. An API should never leak implementation details.
+All implementation details of an API is hidden behind the methods that are exposed, and it should stay that way. An API should never leak implementation details. If the resource an API is acting upon is the same as the DB record name, it's a happy accident.
 
 Similar APIs should be grouped to ensure high modularization and cohesion.
 
@@ -54,69 +17,60 @@ DB has data model, API serves a resource and code uses an object. Do not link th
 
 ---
 
-Don't let frontend wait until backend completes their implementation. Start a design process first so that work can be done independently.
-
-Designing a good API up-front will prevent implementation details from getting in the way as well as reduce coupling.
+When deciding to make a new API, avoid waterfall development. Start a design process that enables frontend and backend to work simultaneously and independently. Designing a good API up front before coding prevents implementation details from getting in the way, and should help reduce coupling. 
 
 Don't leak internal implementation details in your APIs. This often happens if coding starts before API design.
 
-API first design process has 5 steps
+"API-first" design process consist of 5 steps where you'll iterate between the first three for a while until you reach a point where you (and stakeholders) are satisfied.
 
 - Discover: Figure out what you need.
 - Design: Make an initial API design.
-- Prototype: Make a mock API to get feedback.
-
-^ Move between these steps until you and stakeholders are satisfied (does not mean complete). Then
-
+- Prototype: Make a mock API to get early feedback.
 - Deliver: Actually code the API.
-- Onboard: Make people use your API.
+- Onboard: Tell users about the API.
 
-ADDR (Align Define Design Refine) process is an API first process to help make APIs. It consists of 4 phases w/ 7 steps.
+The book outlines a process called ADDR (Align Define Design Refine) to design APIs this way. It consists of 4 phases w/ 7 steps. The first step in ADDR is to identify digital capabilities through something called Job Stories - similar to user stories - which highlight the job to be done. They are written as `WHEN X, I WANT TO Y, SO I CAN Z`. They differ from user stories in that they don't have the user in focus, instead they focus on the outcome. You can add the user in the `WANT` and `CAN` step, but the focus should still be on the `WHEN`. The stories should be focused one a single job, but additional details can be added to the story.
 
-Since an API most likely impacts everyone from business to tech to the customer, designing an API should therefore also involve the "whole company", or at least a multitude of representatives.
+Job stories will help you discover the digital capabilities that your API should expose. When you have these, it's a good idea to break them down into activities and activity steps. E.g
 
-The first step in ADDR is to identify digital capabilities. This should be done through job stories, which highlight the jobs to be done. These are written as WHEN X, I WANT TO Y, SO I CAN Z.
-
-Job stories are not user stories. They do not have the user in focus, instead focus on the outcome. You _can_ add the the user in the want & can step, but focus should still be on the when.
-
-Keep stories focused. Additional details can be put under an additional details section of the story. This can be UI/UX details, or when implementation details leak into the story.
-
-After finding digital capabilities, break them down into activities and activity steps
 - Activity: Browse for books.
 	- Step: List books
 	- Step: Search for books
 	- Step: View book details.
 
-Good way to identify all activities and steps is to do an EventStorming session. This helps uncover any missing domain events, as well as establish a common vocabulary, etc. In general aligns everybody. [[$Research]].
+To ensure that you've discovered all activities and steps, you can hold an EventStorming session which will help uncover any missing domain events as well as establish a common vocabulary to align everyone.
 
-To sumarize:
-- Job stories -> Activities -> Activity steps.
-
----
-Find the boundary of your API and avoid the common antipatterns
-
-- Do not make an API that tries to do everything
-- Don't overload concepts. A "book" API is probably too broad. "catalog" API that concerns itself w/ books is prob better.
-- Don't maek helper APIs if it can be avoided.
-
-Boundaries are often found during an EventStorming sessions where "nouns" shift. E.g. when going from "cart" something to "order" something, it might indicate a new boundary and thus possibly a new API.
+Since an API most likely impacts everyone from business to tech to the customer, designing an API should therefore also involve the "whole company", or at least a multitude of representatives.
 
 ---
 
-Before writing code, make an API model. This is like a wireframe, but for APIs
+Don't try to make an API that does everything. Identify the boundaries of the API you are trying to make. This can often be seen where the "nouns" found during an EventStorming session changes, e.g. when going from "cart" something to "order" something, it might indicate that there's a boundary here which might warrant a new API.
 
-When deciding which resource an operation should act upon, be careful not to leak implementation details. If resrouce name is the same as the dB record, it's a happy accident.
+Avoid the common anti-patterns:
+- Don't make an API that tries to do everything.
+- Don't overload concepts. E.g. A "book" API is probably too broad and will try to do too much. A "catalog" API that concerns itself with books is probably better. 
+- Don't make helper APIs if it can be avoided.
 
-Evaluate API wtih a sequence diagram.
+---
 
-API model or profile breaks down each operation in the API, and forces you to think about it in more details before writing any code. Like a wireframe it includes
+Before writing any code, make an API model. It's like a wireframe for APIs which break down each operation in the API and forces you to think about each one before writing any code. It includes:
+- Operation name: the name of the operation to be performed, e.g. listBooks.
+- Description: more information about the operation.
+- Participants: who's going to use the operation. This if often a user group such as "customer", "technician" or "developer".
+- Resources: what resources from the DB is required? For books it's obviously going to be books, but can also include book autor.
+- Emitted events: this lists out any event that emitted by the operation that can be used internally in the system. E.g. listBooks will likely emit an event "Books Listed".
+- Operation details: this is the technical part of the API, what request parameters are required / options, what is actually returned, is it safe*, etc.
 
-- Operation name: the name of the operation in lowerCamelCase e.g. listBooks.
-- Description: more info about the operation
-- Participants: who's going to use the operation. This is often identified user groups such as customer, technician, etc.
-- Resources: what resources from the DB is required? In this case, books for sure, but prob also book author.
-- Emitted events: any even that is emitted by the operation. This can be used by the system to trigger some action, or simply for analytics. E.g. "Books Listed". They should always be past tense.
-- Operation Details" this is the technical details. What are request paramters? What is actually returned? Is it async? Is it safe?
+
+
+
+
+
+Evaluate API with a sequence diagram.
+
+
+
+
 
 Categorize operations into safe, idempotent or unsafe
 
