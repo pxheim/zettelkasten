@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-thomas-hunt-2019-the-pragmatic-programmer.md",
+                "file": "book-ousterhout-2018-a-philosophy-of-software-design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "book-thomas-hunt-2019-the-pragmatic-programmer"
+              "title": "book-ousterhout-2018-a-philosophy-of-software-design"
             }
           }
         ]
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 453.5
   },
   "right": {
     "id": "2fcfa59adc960966",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-thomas-hunt-2019-the-pragmatic-programmer.md",
+                "file": "book-ousterhout-2018-a-philosophy-of-software-design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for book-thomas-hunt-2019-the-pragmatic-programmer"
+              "title": "Backlinks for book-ousterhout-2018-a-philosophy-of-software-design"
             }
           },
           {
@@ -143,32 +143,32 @@
   },
   "active": "5ce4f70ff3db5afa",
   "lastOpenFiles": [
+    "blog-wilsenach-2021-ship-show-ask.md",
+    "book-martin-2019-clean-agile.md",
     "book-higginbotham-2021-principles-of-web-api-design.md",
+    "book-fowler-2018-refactoring.md",
+    "refactor-large-functions-into-small-ones.md",
+    "refactor-long-parameter-lists.md",
+    "avoid-loops-in-your-code.md",
+    "book-fournier-2017-the-managers-path.md",
+    "book-dalmijn-2023-driving-value-with-sprint-goals.md",
+    "book-allen-2022-getting-things-done.md",
+    "book-thomas-hunt-2019-the-pragmatic-programmer.md",
     "api-resource-model-separation.md",
     "api-hides-implementation-details.md",
     "api-design-follows-software-principles.md",
     "api-communicates-across-three-boundaries.md",
-    "book-fowler-2018-refactoring.md",
-    "book-fournier-2017-the-managers-path.md",
-    "blog-wilsenach-2021-ship-show-ask.md",
     "book-ahrens-2022-how-to-take-smart-notes.md",
-    "book-allen-2022-getting-things-done.md",
-    "book-dalmijn-2023-driving-value-with-sprint-goals.md",
     "book-kim-behr-spafford-2013-the-phoenix-project.md",
     "book-humble-farley-2010-continuous-delivery.md",
     "ci-requires-a-change-of-mindset.md",
     "book-ousterhout-2018-a-philosophy-of-software-design.md",
     "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
-    "book-martin-2019-clean-agile.md",
     "friction-effects-gap.md",
     "friction-alignment-gap.md",
     "friction-knowledge-gap.md",
     "book-martin-2021-clean-craftsmanship.md",
     "book-kondo-2014-the-life-changing-magic-of-tidying.md",
-    "book-kim-humble-forsgren-2018-accelerate.md",
-    "blog-morony-2023-testing-smart-components-services-in-angular.md",
-    "artificial-delays-in-deployment-of-software.md",
-    "architectural-impact.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
