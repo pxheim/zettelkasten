@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "book-ousterhout-2018-a-philosophy-of-software-design"
             }
+          },
+          {
+            "id": "2903fd79f108b925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,10 +156,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5ce4f70ff3db5afa",
+  "active": "2903fd79f108b925",
   "lastOpenFiles": [
-    "book-thomas-hunt-2019-the-pragmatic-programmer.md",
     "book-ousterhout-2018-a-philosophy-of-software-design.md",
+    "Untitled 1.md",
+    "book-thomas-hunt-2019-the-pragmatic-programmer.md",
     "blog-wilsenach-2021-ship-show-ask.md",
     "book-martin-2019-clean-agile.md",
     "book-higginbotham-2021-principles-of-web-api-design.md",
@@ -168,7 +184,6 @@
     "friction-alignment-gap.md",
     "friction-knowledge-gap.md",
     "book-martin-2021-clean-craftsmanship.md",
-    "book-kondo-2014-the-life-changing-magic-of-tidying.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
