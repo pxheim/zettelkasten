@@ -11,10 +11,14 @@
             "id": "5ce4f70ff3db5afa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "book-thomas-hunt-2019-the-pragmatic-programmer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "book-thomas-hunt-2019-the-pragmatic-programmer"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "DRY",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +64,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,7 +142,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5ce4f70ff3db5afa",
+  "active": "353e6fd6e50e12ce",
   "lastOpenFiles": [
     "book-ousterhout-2018-a-philosophy-of-software-design.md",
     "Untitled.md",
