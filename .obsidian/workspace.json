@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-thomas-hunt-2019-the-pragmatic-programmer.md",
+                "file": "book-rubin-2012-essential-scrum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "book-thomas-hunt-2019-the-pragmatic-programmer"
+              "title": "book-rubin-2012-essential-scrum"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DRY",
+                "query": "retrospect",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,12 +142,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "353e6fd6e50e12ce",
+  "active": "5ce4f70ff3db5afa",
   "lastOpenFiles": [
+    "book-dalmijn-2023-driving-value-with-sprint-goals.md",
+    "sprint-ceremonies-purpose.md",
+    "use-agendas-to-organize-personal-relations.md",
+    "value-over-features.md",
+    "product-vision-guidance.md",
+    "book-thomas-hunt-2019-the-pragmatic-programmer.md",
     "book-ousterhout-2018-a-philosophy-of-software-design.md",
     "Untitled.md",
     "Untitled 1.md",
-    "book-thomas-hunt-2019-the-pragmatic-programmer.md",
     "blog-wilsenach-2021-ship-show-ask.md",
     "book-martin-2019-clean-agile.md",
     "book-higginbotham-2021-principles-of-web-api-design.md",
@@ -156,7 +161,6 @@
     "refactor-long-parameter-lists.md",
     "avoid-loops-in-your-code.md",
     "book-fournier-2017-the-managers-path.md",
-    "book-dalmijn-2023-driving-value-with-sprint-goals.md",
     "book-allen-2022-getting-things-done.md",
     "api-resource-model-separation.md",
     "api-hides-implementation-details.md",
@@ -166,10 +170,6 @@
     "book-kim-behr-spafford-2013-the-phoenix-project.md",
     "book-humble-farley-2010-continuous-delivery.md",
     "ci-requires-a-change-of-mindset.md",
-    "book-lencioni-2002-the-five-dysfunctions-of-a-team.md",
-    "friction-effects-gap.md",
-    "friction-alignment-gap.md",
-    "friction-knowledge-gap.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
