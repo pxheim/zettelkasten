@@ -64,7 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 244.5
   },
   "right": {
     "id": "2fcfa59adc960966",
@@ -137,7 +137,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b75e7517f355e189",
+  "active": "f038e64a399ebbba",
   "lastOpenFiles": [
     "book-humble-farley-2010-continuous-delivery.md",
     "theory-of-constraints.md",
