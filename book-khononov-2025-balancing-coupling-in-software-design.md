@@ -28,6 +28,16 @@ Khononov, V. (2025). _Balancing Coupling in Software Design: Universal Design Pr
 
 [[domain-driven-design-domain-analysis]]
 
+[[module-stability]]
+
+[[module-cost-of-change]]
+
+[[module-modularity-complexity]]
+
+[[module-maintenance-effort]]
+
+[[module-balance]]
+
 # Literature Notes
 
 Coupling is unavoidable if you want your system to have a purpose. It's the interplay between components that create purpose, e.g. a clock, the components need to interact for it to work. Coupling is not synonymous w/ bad design. Sometimes you need it, but it should be deliberate.
@@ -195,4 +205,27 @@ Modularity and complexity defined as the relationship between strength and dista
 - Low strength, high distance => loosely coupled components: good.
 - High strength, low distance => high cohesion. Things expected to change are kept close together.
 
-Maintenance effort is defined as strength x distance x volatility. It's low if only of the dimensions are low as that offsets the others. However, if both strength and distance are low (local complexity) and volatility is high, the cost might be 
+Maintenance effort is defined as strength x distance x volatility. It's low if only of the dimensions are low as that offsets the others. However, if both strength and distance are low (local complexity) and volatility is high, the cost might be high as well.
+
+Finally, balance can be defined as
+
+(STRENGTH XOR DISTANCE) OR NOT VOLATILITY
+
+or 
+
+MODULARITY OR NOT VOLATILITY
+
+Using binary values for this is not an exact science, but it helps illustrate the point.
+
+---
+
+changes in software usually come from either tactical changes or strategic changes. Tactical changes are easy, they are the "how" things are done and usually involve bugfixes or changes to existing domains. Strategic changes are the "what" and are more complicated and can rock the foundations of your design. E.g. a brand new module that needs to interact with existing ones in unexpected ways.
+
+---
+
+A software system can be considered to be a network based system and will inherit all aspects of one.
+
+Economics of scale: certain things in a system grow at different rates. E..g adding 2x functionality to a system does not take 2x time. This is sublinear growth. You can reuse things already made. However certain things will increase more than 2x. e.g. interactions between modules. This is superlinear growth.
+
+Since complexity is the limiting factor of growing software systems, we employ abstractions to reduct it. Complexity can grow superlinearly.
+
