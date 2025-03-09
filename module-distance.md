@@ -1,0 +1,3 @@
+Distance is a measure of how close code is, both on a technical level, but also on a socio-technical level. On a technical level, code in the same statement is closer than code in two separate methods, which is again closer than code in separate classes, and so on. On a socio technical level, code made by the same team is closer than code made by two separate teams.
+
+Components that are located close to each other area easier to change than those located far apart. This is a double edged sword, as close components also have to change when related ones change. We can say tat the distance is the inverse of lifecycle coupling.

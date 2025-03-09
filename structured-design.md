@@ -12,4 +12,4 @@ It defines 6 different types of coupling, ranging from high(bad) to low(good):
 Links:
 
 - [[connascence]]
-- [[integration-strength]]
+- [[module-integration-strength]]

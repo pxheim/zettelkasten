@@ -18,4 +18,4 @@ and dynamic:
 Links:
 
 - [[structured-design]]
-- [[integration-strength]]
+- [[module-integration-strength]]

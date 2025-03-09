@@ -20,13 +20,13 @@ Khononov, V. (2025). _Balancing Coupling in Software Design: Universal Design Pr
 
 [[connascence]]
 
-[[integration-strength]]
+[[module-integration-strength]]
 
 [[module-distance]]
 
-Distance is a measure of how close code is, both on a technical level, but also on a socio-technical level. On a technical level, code in the same statement is closer than code in two separate methods, which is again closer than code in separate classes, and so on. On a socio technical level, code made by the same team is closer than code made by two separate teams.
+[[module-volatility]]
 
-Components that are located close to each other area easier to change than those located far apart. This is a double edged sword, as close components also have to change when related ones change. We can say tat the distance is the inverse of lifecycle coupling.
+[[domain-driven-design-domain-analysis]]
 
 # Literature Notes
 
@@ -163,3 +163,36 @@ Subdomains can be further broken down into
 Consider both integration strength and volatility when designing a system. You can have a system w/ all the same integration points, but one can be much more resilient than the other if the tightly coupled integration points are between non-volatile components.
 
 Be aware that the volatility of a supporting domain _can_ be high if it's tightly coupled to several core domains.
+
+---
+
+Coupling can be summarized into three dimensions
+
+- STRENGTH - [[module-integration-strength]]
+- SPACE - [[module-distance]]
+- TIME - [[module-volatility]]
+
+They cannot be looked at in isolation when balancing complexity
+
+Stability can be defined as the relationship between volatility and strength:
+
+- Both low = stable - Good
+- Both high = unstable - Bad
+- High volatility, low strength: change often, but not coupled. This is fine.
+- Low volatility, high strength: change rarely, but tightly coupled. This is good.
+
+Actual cost (of change) can be determined by looking at volatility and distance
+
+- Both low: low cost of change
+- Both high: high cost of change
+- High volatility, low distance: low due to distance.
+- Low volatility, high distance: low due to volatility.
+
+Modularity and complexity defined as the relationship between strength and distance
+
+- Both low: code that is not related to one another is kept close together. Leads to high local complexity.
+- Both high: global complexity
+- Low strength, high distance => loosely coupled components: good.
+- High strength, low distance => high cohesion. Things expected to change are kept close together.
+
+Maintenance effort is defined as strength x distance x volatility. It's low if only of the dimensions are low as that offsets the others. However, if both strength and distance are low (local complexity) and volatility is high, the cost might be 
