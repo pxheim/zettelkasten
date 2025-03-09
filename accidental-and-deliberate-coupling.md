@@ -1,0 +1,1 @@
+There are two ways coupling can manifest itself in software, deliberate and accidental. The first is coupling you need. Just like a watch will not be able to function without the components interacting with one another, software will not either. Accidental coupling, however, is coupling that you wish to avoid. This leads to complex systems. 
