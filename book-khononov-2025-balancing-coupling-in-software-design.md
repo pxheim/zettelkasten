@@ -18,64 +18,15 @@ Khononov, V. (2025). _Balancing Coupling in Software Design: Universal Design Pr
 
 [[structured-design]]
 
-Structured Design is a methodology used to identify coupling between modules. It's largely outdated, but it has served as a building block for better methodologies.
-
-It defines 6 different types of coupling, ranging from high(bad) to low(good):
-
-1. Content coupling: when one class uses the data directly from another class. The are coupled through their content.
-2. Common coupling: classes are coupled through the use of a global (common) state.
-3. External coupling: classes are coupled through the use of an external state. Basically the same as #2, just that the state is not global.
-4. Control coupling: classes are coupled by their implementation details. E.g. a method exposes how another method is to be executed.
-5. Stamp coupling: classes are coupled by shared data structure. E.g. a method exposing the Customer data structure through getCustomer instead of a primitive through getStatus.
-6. Data coupling: classes are barely coupled and integrate only by sharing as little information as possible, and only through explicitly defined interfaces (contracts).
-
-Links:
-
-- [[connascence]]
-- [[integration-strength]]
-
 [[connascence]]
-
-Connascence is a way to describe how something is connected. E.g. connascence by name means that something is connected by name. This can be used to explain how software modules are connected. A module is said to have connascence of the highest type present.
-
-We can split connascence into static and dynamic. The highest level of static connascence is lower than the lowest level of dynamic connascence. From low to high, static connascence:
-
-- by name: a naming change somewhere results in a naming change being required somewhere else.
-- by type: when two modules have to agree on using the same type.
-- of meaning: when two modules attribute meaning to some arbitrary value. E.g. the same magic value is transmitted between two modules, and they need to share a common understanding of what this value means.
-- of algorithm: when two modules have to agree on using the same algorithm or protocol to understand the values transmitted between them. E.g. two modules that have to agree on which type of encryption to use.
-- by position: when the order of something matters, e.g. the order of input parameters.
-
-and dynamic:
-
-- of execution: when the execution of something needs to follow a specific order. E.g. first A, then B, then C.
-- of timing: when execution needs  to have a specific interval between them.
-- of value: when a change in a value requires a change in another for the system to exist in a valid state.
-- of identity: when two objects are dependent on the exact instance of a third object. The example often used here is two classes that operate on the same data in a shared database.
-
-Links:
-
-- [[structured-design]]
-- [[integration-strength]]
 
 [[integration-strength]]
 
-Integration strength is defined as a new methodology to explain coupling between modules where structured design and connascence fall short. It defines four key couplings:
+[[module-distance]]
 
-1. Intrusive coupling: when a module communicates through, and therefore depends on, the implementation details of another module. This is in contrast to using a public interface exposed by the module.
-2. Functional coupling: when two modules are coupled by their functionality. There are several variation on this:
-	1. Sequential functionality: when certain things have to happen in a specific order.
-	2. Transactional functionality: when several operations all need to succeed for the whole transaction to succeed.
-	3. Symmetric functionality: when two modules implement the same functionality. It's important to note that this does not have to be the same code. It's basically DRY as it was intended to be.
-3. Model coupling: when two modules share the same model. Reusing the same model across multiple modules can be detrimental to modular design.
-4. Contract coupling: when two modules are connected through a contract, an integration specific model. This fixes model coupling by using a contract instead that converts implementation details to primitives. Alternatively this can be a public method exposes an interface that will internally call private methods with proper strong typing.
+Distance is a measure of how close code is, both on a technical level, but also on a socio-technical level. On a technical level, code in the same statement is closer than code in two separate methods, which is again closer than code in separate classes, and so on. On a socio technical level, code made by the same team is closer than code made by two separate teams.
 
-While contract coupling is the "best", it's not a requirement for good design.
-
-Links:
-
-- [[connascence]]
-- [[structured-design]]
+Components that are located close to each other area easier to change than those located far apart. This is a double edged sword, as close components also have to change when related ones change. We can say tat the distance is the inverse of lifecycle coupling.
 
 # Literature Notes
 
@@ -186,4 +137,29 @@ Be careful to consider the distance between components. Ones that are close toge
 
 There's also the concept of distance, but on a socio-technical level. E.g. the distance between two components made by one team is smaller than those made by two teams.
 
-Distance is
+Distance is inverse to lifecycle coupling. Components located close to one another will also affect each other's lifecycle e.g. will have to be deployed together.
+
+---
+
+Software changes reveal implicit coupling. E.g. a change that has a ripple effect through the system reveals implicit coupling.
+
+Explicit coupling in components that are never expected to change is not that bad.
+
+Conway's Law example: startups in general will make a tightly coupled system. Any change can easily be communicated. As team grows, maybe into multiple teams, their goals also change. They become more distant from each other ans will make components with greater distance. Tight coupling is now very bad.
+
+Volatility defines how often something is expected to change. High volatility = high rate of change.
+
+DDD's domain analysis:
+
+- Business domain: this is the company's overall area of activity: e.g. retail, cloud computing, energy management, etc. It can be more than one.
+- Subdomains: finer grained versions of business domains.
+
+Subdomains can be further broken down into
+
+- Core: These are the core IPs of the company. They are likely to change often. Very hard to copy. "Secret Sauce".
+- Generic: Things the company needs, but that can likely be bought off the shelf.
+- Supporting: Things needed that cannot be bought off the shelf. They support core or generic domains.
+
+Consider both integration strength and volatility when designing a system. You can have a system w/ all the same integration points, but one can be much more resilient than the other if the tightly coupled integration points are between non-volatile components.
+
+Be aware that the volatility of a supporting domain _can_ be high if it's tightly coupled to several core domains.
