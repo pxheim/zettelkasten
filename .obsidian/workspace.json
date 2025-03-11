@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module-volatility.md",
+                "file": "book-khononov-2025-balancing-coupling-in-software-design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "module-volatility"
+              "title": "book-khononov-2025-balancing-coupling-in-software-design"
             }
           }
         ]
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "module-volatility.md",
+                "file": "book-khononov-2025-balancing-coupling-in-software-design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for module-volatility"
+              "title": "Backlinks for book-khononov-2025-balancing-coupling-in-software-design"
             }
           },
           {
@@ -142,20 +142,20 @@
   },
   "active": "b75e7517f355e189",
   "lastOpenFiles": [
-    "book-khononov-2025-balancing-coupling-in-software-design.md",
-    "module-distance.md",
     "module-integration-strength.md",
-    "connascence.md",
-    "structured-design.md",
-    "tactical-and-strategic-changes.md",
-    "modular-design.md",
+    "book-khononov-2025-balancing-coupling-in-software-design.md",
     "module-balance.md",
     "module-maintenance-effort.md",
     "module-modularity-complexity.md",
     "module-cost-of-change.md",
     "module-stability.md",
-    "domain-driven-design-domain-analysis.md",
     "module-volatility.md",
+    "module-distance.md",
+    "connascence.md",
+    "structured-design.md",
+    "tactical-and-strategic-changes.md",
+    "modular-design.md",
+    "domain-driven-design-domain-analysis.md",
     "definition-of-module.md",
     "local-complexity.md",
     "global-complexity.md",
