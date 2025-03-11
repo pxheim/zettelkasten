@@ -38,6 +38,8 @@ Khononov, V. (2025). _Balancing Coupling in Software Design: Universal Design Pr
 
 [[module-balance]]
 
+[[tactical-and-strategic-changes]]
+
 # Literature Notes
 
 Coupling is unavoidable if you want your system to have a purpose. It's the interplay between components that create purpose, e.g. a clock, the components need to interact for it to work. Coupling is not synonymous w/ bad design. Sometimes you need it, but it should be deliberate.
@@ -219,7 +221,7 @@ Using binary values for this is not an exact science, but it helps illustrate th
 
 ---
 
-changes in software usually come from either tactical changes or strategic changes. Tactical changes are easy, they are the "how" things are done and usually involve bugfixes or changes to existing domains. Strategic changes are the "what" and are more complicated and can rock the foundations of your design. E.g. a brand new module that needs to interact with existing ones in unexpected ways.
+Changes in software usually come from either tactical changes or strategic changes. Tactical changes are easy, they are the "how" things are done and usually involve bugfixes or changes to existing domains. Strategic changes are the "what" and are more complicated and can rock the foundations of your design. E.g. a brand new module that needs to interact with existing ones in unexpected ways.
 
 ---
 
