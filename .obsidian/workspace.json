@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "book-khononov-2025-balancing-coupling-in-software-design"
             }
+          },
+          {
+            "id": "0693708312099597",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-khononov-2025-balancing-coupling-in-software-design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for book-khononov-2025-balancing-coupling-in-software-design"
+              "title": "Backlinks"
             }
           },
           {
@@ -140,7 +152,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b75e7517f355e189",
+  "active": "0693708312099597",
   "lastOpenFiles": [
     "module-integration-strength.md",
     "book-khononov-2025-balancing-coupling-in-software-design.md",
