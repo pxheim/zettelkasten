@@ -11,10 +11,14 @@
             "id": "e1a42409d409f747",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "book-klabnik-nichols-krycho-2024-the-rust-programming-language.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "book-klabnik-nichols-krycho-2024-the-rust-programming-language"
             }
           }
         ]
@@ -148,6 +152,7 @@
   },
   "active": "e1a42409d409f747",
   "lastOpenFiles": [
+    "book-klabnik-nichols-krycho-2024-the-rust-programming-language.md",
     "book-khononov-2025-balancing-coupling-in-software-design.md",
     "book-ousterhout-2018-a-philosophy-of-software-design.md",
     "$Bibliography.md",
@@ -173,7 +178,6 @@
     "book-humble-farley-2010-continuous-delivery.md",
     "book-higginbotham-2021-principles-of-web-api-design.md",
     "book-fowler-2018-refactoring.md",
-    "book-fournier-2017-the-managers-path.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
