@@ -1,0 +1,1 @@
+Vanity metrics are a type of product metric that only cater to your vanity and make you look impressive without actually providing any real value. Things like "how many users we have" and "how many page views we get" are typical vanity metrics. However, you can add a time component to a vanity metric to make it actionable, e.g. "how many additional users did we get this month".

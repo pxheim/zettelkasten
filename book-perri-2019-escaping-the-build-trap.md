@@ -61,6 +61,13 @@ When companies treat their strategy like a plan, they often fail due to one 3 ga
 - alignment: allow each level in the company to decide how to solve the why. Agency.
 - effects: let the teams themselves figure out the actions needed to solve the why. Autonomy.
 
+[[vanity-metrics]]
+
+[[lagging-metrics]]
+
+[[build-to-learn-not-to-earn]]
+
+
 Don't be confused by vanity metrics when looking at product metrics. These are things like "how many users do we have" or "how many page views do we get". They will always get higher and make you look impressive. Adding a time component to a vanity metric makes it actionable, e.g. additional users this month. Also output metrics are bad, e.g. how many story points did we complete, etc.
 
 Lagging metrics are hard to measure because you need data for some time before you can measure it. Retention is a lagging metric. Find leading metrics to measure, e.g. happiness and satisfaction are metrics leading to retention.
