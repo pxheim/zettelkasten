@@ -2,4 +2,4 @@ The complexity of a system as a whole is it's global complexity. A system compri
 
 Links:
 
-[[local-complexity]]
+- [[local-complexity]]

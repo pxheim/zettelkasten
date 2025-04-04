@@ -1,5 +1,14 @@
 [[$Bibliography]]
 
+# Atomic Notes
+
+[[build-trap-products-are-not-inherently-valuable]]
+
+[[types-of-product-focus-in-organizations]]
+
+[[organize-teams-around-value-streams]]
+
+
 # Literature Notes
 
 The "Build Trap" is when companies get stuck measuring output instead of outcome, i.e. focusing on "more" w/o focusing on what creates value.
@@ -20,6 +29,8 @@ When starting a new project, list out the knowns vs unknowns.
 - unknown, unknowns: surprises.
 
 ---
+
+
 
 There are several types of "bad" product managers:
 - The mini CEO, thinks he's boss and wants to lead the team, not work with them.
@@ -65,5 +76,11 @@ Experimentation is all about building to learn, not building to earn. Experiment
 
 Best way to prioritize work is cost / delay. Basically you evaluate value vs urgency.
 
-Definition of done most often does not take into account measuring a featu
+Definition of done most often does not take into account measuring a feature's impact on customers, leading to output focus.
+
+---
+
+Roadmaps are bad because they basically say that we're going to finish feature x by y date. Instead, they should be an explanation of your strategy and the current state of your product. Call them "living roadmap".
+
+Measure what you build. Experiment before you build.
 
