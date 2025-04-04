@@ -8,6 +8,11 @@
 
 [[organize-teams-around-value-streams]]
 
+[[vanity-metrics]]
+
+[[lagging-metrics]]
+
+[[build-to-learn-not-to-earn]]
 
 # Literature Notes
 
@@ -60,13 +65,6 @@ When companies treat their strategy like a plan, they often fail due to one 3 ga
 - knowledge: only request as much information you need to make a decision. Focus on strategic intent [[lead-with-intent]].
 - alignment: allow each level in the company to decide how to solve the why. Agency.
 - effects: let the teams themselves figure out the actions needed to solve the why. Autonomy.
-
-[[vanity-metrics]]
-
-[[lagging-metrics]]
-
-[[build-to-learn-not-to-earn]]
-
 
 Don't be confused by vanity metrics when looking at product metrics. These are things like "how many users do we have" or "how many page views do we get". They will always get higher and make you look impressive. Adding a time component to a vanity metric makes it actionable, e.g. additional users this month. Also output metrics are bad, e.g. how many story points did we complete, etc.
 
