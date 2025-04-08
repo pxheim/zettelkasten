@@ -14,6 +14,8 @@
 
 [[build-to-learn-not-to-earn]]
 
+[[the-product-kata]]
+
 # Literature Notes
 
 The "Build Trap" is when companies get stuck measuring output instead of outcome, i.e. focusing on "more" w/o focusing on what creates value.
