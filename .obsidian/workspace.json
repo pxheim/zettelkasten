@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-perri-2019-escaping-the-build-trap.md",
+                "file": "build-to-learn-not-to-earn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "book-perri-2019-escaping-the-build-trap"
+              "title": "build-to-learn-not-to-earn"
             }
           },
           {
@@ -167,13 +167,13 @@
   },
   "active": "1ddf0033790336a3",
   "lastOpenFiles": [
-    "book-perri-2019-escaping-the-build-trap.md",
-    "the-product-kata.md",
     "build-to-learn-not-to-earn.md",
-    "lagging-metrics.md",
-    "vanity-metrics.md",
+    "the-product-kata.md",
+    "book-perri-2019-escaping-the-build-trap.md",
     "organize-teams-around-value-streams.md",
     "types-of-product-focus-in-organizations.md",
+    "lagging-metrics.md",
+    "vanity-metrics.md",
     "build-trap-products-are-not-inherently-valuable.md",
     "course-2025-subatomic-the-complete-guide-to-design-tokens.md",
     "course-øvrebø-2025-fagdag-ai.md",
