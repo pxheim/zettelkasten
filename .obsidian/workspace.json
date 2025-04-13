@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "81e27ea91ed2648c",
+        "id": "21fde98b68c02244",
         "type": "tabs",
         "children": [
           {
-            "id": "d93bfa50a3d7e62c",
+            "id": "2877cc65532c9f11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "build-to-learn-not-to-earn.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "build-to-learn-not-to-earn"
-            }
-          },
-          {
-            "id": "1ddf0033790336a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the-product-kata.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "the-product-kata"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +80,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the-product-kata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +89,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for the-product-kata"
+              "title": "Backlinks"
             }
           },
           {
@@ -165,8 +145,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1ddf0033790336a3",
+  "active": "2877cc65532c9f11",
   "lastOpenFiles": [
+    "Untitled.md",
     "build-to-learn-not-to-earn.md",
     "the-product-kata.md",
     "book-perri-2019-escaping-the-build-trap.md",
@@ -192,7 +173,6 @@
     "technical-decision-making.md",
     "$Bibliography.md",
     "book-dalmijn-2023-driving-value-with-sprint-goals.md",
-    "Untitled.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
