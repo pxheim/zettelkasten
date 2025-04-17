@@ -30,3 +30,6 @@ fmt.Println(v, ok)
 
 Will print out `5 true`.
 
+Go does not have a Set, but you can use a map to simulate most of the features you would expect from a set.
+
+When you have related data you want to group together you use a Struct.
