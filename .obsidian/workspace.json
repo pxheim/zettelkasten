@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-edwards-2022-lets-go.md",
+                "file": "book-higginbotham-2021-principles-of-web-api-design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "book-edwards-2022-lets-go"
+              "title": "book-higginbotham-2021-principles-of-web-api-design"
             }
           }
         ]
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 487.5
   },
   "right": {
     "id": "2fcfa59adc960966",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-edwards-2022-lets-go.md",
+                "file": "book-higginbotham-2021-principles-of-web-api-design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for book-edwards-2022-lets-go"
+              "title": "Backlinks for book-higginbotham-2021-principles-of-web-api-design"
             }
           },
           {
