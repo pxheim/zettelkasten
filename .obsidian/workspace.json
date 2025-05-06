@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book-higginbotham-2021-principles-of-web-api-design.md",
+                "file": "book-perri-2019-escaping-the-build-trap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "book-higginbotham-2021-principles-of-web-api-design"
+              "title": "book-perri-2019-escaping-the-build-trap"
             }
           }
         ]
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-higginbotham-2021-principles-of-web-api-design.md",
+                "file": "book-perri-2019-escaping-the-build-trap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for book-higginbotham-2021-principles-of-web-api-design"
+              "title": "Backlinks for book-perri-2019-escaping-the-build-trap"
             }
           },
           {
@@ -152,15 +152,18 @@
   },
   "active": "2877cc65532c9f11",
   "lastOpenFiles": [
-    "book-edwards-2022-lets-go.md",
-    "build-to-learn-not-to-earn.md",
     "the-product-kata.md",
+    "build-to-learn-not-to-earn.md",
     "book-perri-2019-escaping-the-build-trap.md",
-    "organize-teams-around-value-streams.md",
-    "types-of-product-focus-in-organizations.md",
     "lagging-metrics.md",
     "vanity-metrics.md",
+    "organize-teams-around-value-streams.md",
+    "types-of-product-focus-in-organizations.md",
     "build-trap-products-are-not-inherently-valuable.md",
+    "pull-requests-and-continuous-integration-ship-show-ask.md",
+    "blog-wilsenach-2021-ship-show-ask.md",
+    "book-higginbotham-2021-principles-of-web-api-design.md",
+    "book-edwards-2022-lets-go.md",
     "course-2025-subatomic-the-complete-guide-to-design-tokens.md",
     "course-øvrebø-2025-fagdag-ai.md",
     "friction-knowledge-gap.md",
@@ -175,9 +178,6 @@
     "products-are-not-inherently-valuable.md",
     "module-volatility.md",
     "lead-with-intent.md",
-    "technical-decision-making.md",
-    "$Bibliography.md",
-    "book-dalmijn-2023-driving-value-with-sprint-goals.md",
     "_refs",
     "_templates",
     "Untitled.canvas",
